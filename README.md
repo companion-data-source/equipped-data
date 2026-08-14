@@ -4,7 +4,9 @@ Live event data for the **Equipped** iOS app (Cumberland Trace church of
 Christ's annual workshop). The app fetches these files from this repo's
 raw URLs at launch and when it returns to the foreground, so **pushing a
 commit here updates every installed app within about an hour — no App
-Store release needed.**
+Store release needed.** (GitHub's raw-file CDN caches for ~5 minutes, so
+don't expect a change to appear the same minute you push; the app also
+waits at least an hour between checks within one run.)
 
 ```
 manifest.json        which years exist and which is newest
