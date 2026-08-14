@@ -1,0 +1,14 @@
+{
+  "formatVersion" : 1,
+  "latestYear" : 2027,
+  "years" : [
+    {
+      "file" : "equipped-2026.json",
+      "year" : 2026
+    },
+    {
+      "file" : "equipped-2027.json",
+      "year" : 2027
+    }
+  ]
+}

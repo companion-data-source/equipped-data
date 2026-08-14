@@ -1,0 +1,1057 @@
+{
+  "datesText" : "April 22–25, 2027",
+  "days" : [
+    {
+      "dateText" : "April 22",
+      "dayOfMonth" : 22,
+      "displayName" : "Thursday",
+      "id" : "thursday",
+      "month" : 4,
+      "shortDate" : "4/22",
+      "shortName" : "Thu"
+    },
+    {
+      "dateText" : "April 23",
+      "dayOfMonth" : 23,
+      "displayName" : "Friday",
+      "id" : "friday",
+      "month" : 4,
+      "shortDate" : "4/23",
+      "shortName" : "Fri"
+    },
+    {
+      "dateText" : "April 24",
+      "dayOfMonth" : 24,
+      "displayName" : "Saturday",
+      "id" : "saturday",
+      "month" : 4,
+      "shortDate" : "4/24",
+      "shortName" : "Sat"
+    },
+    {
+      "dateText" : "April 25",
+      "dayOfMonth" : 25,
+      "displayName" : "Sunday",
+      "id" : "sunday",
+      "month" : 4,
+      "shortDate" : "4/25",
+      "shortName" : "Sun"
+    }
+  ],
+  "eventName" : "Equipped 2027",
+  "foodTrucks" : [
+    {
+      "day" : "friday",
+      "details" : "Pulled pork, ribs, chicken, and hot dogs",
+      "hours" : "11:00 AM – 1:00 PM",
+      "name" : "Chuck Wagon Barbecue"
+    },
+    {
+      "day" : "friday",
+      "details" : "Salads with chicken, turkey, or ham and all the vegetables",
+      "hours" : "11:00 AM – 1:00 PM",
+      "name" : "Chopped By T"
+    },
+    {
+      "day" : "friday",
+      "details" : "Egg rolls, wings, wraps, and more",
+      "hours" : "11:00 AM – 1:00 PM",
+      "menu" : [
+        "Assorted egg rolls",
+        "Wings",
+        "Chicken wrap",
+        "Walking taco",
+        "Corndog"
+      ],
+      "menuImage" : "Wrap N Roll Menu",
+      "name" : "Wrap N Roll"
+    },
+    {
+      "day" : "friday",
+      "details" : "Soft serve ice cream truck featuring all your favorites",
+      "hours" : "11:00 AM – 1:00 PM",
+      "menu" : [
+        "Cones",
+        "Shakes",
+        "Sundaes",
+        "Flurries"
+      ],
+      "name" : "The Mobile Moo Ice Cream Truck"
+    },
+    {
+      "day" : "saturday",
+      "details" : "The best pulled pork shoulder, brisket, and sides",
+      "hours" : "11:00 AM – 1:00 PM",
+      "name" : "Bub's Barbeque"
+    },
+    {
+      "day" : "saturday",
+      "details" : "Tacos with a twist",
+      "hours" : "11:00 AM – 1:00 PM",
+      "name" : "Taco Fusion"
+    },
+    {
+      "day" : "saturday",
+      "details" : "Teriyaki bowls, sushi rolls, and more",
+      "hours" : "11:00 AM – 1:00 PM",
+      "menu" : [
+        "Teriyaki bowls",
+        "Sushi rolls",
+        "Sushirrito",
+        "Deep fried rolls",
+        "Egg roll",
+        "Sides"
+      ],
+      "name" : "Maki Sushi & Teriyaki"
+    },
+    {
+      "day" : "saturday",
+      "details" : "Assorted cakes",
+      "hours" : "11:00 AM – 1:00 PM",
+      "name" : "Nothing Bundt Cakes"
+    }
+  ],
+  "foodTrucksArePlaceholder" : true,
+  "foodTrucksNote" : "Last year's food trucks are shown until the 2027 lineup is confirmed.",
+  "formatVersion" : 1,
+  "gettingThere" : "The building is located between I-65 exits 22 and 26, about 70 miles north of Nashville, TN.",
+  "hotels" : [
+    {
+      "bookBy" : "Book by Saturday, April 4",
+      "distance" : "5 miles from the building",
+      "name" : "Courtyard by Marriott",
+      "rate" : "$124/night plus tax"
+    },
+    {
+      "bookBy" : "Book by Saturday, April 3",
+      "distance" : "4 miles from the building",
+      "name" : "Tru by Hilton",
+      "rate" : "$124/night plus tax"
+    }
+  ],
+  "lodgingNote" : "Mention the Equipped Workshop when booking to receive the special rate.",
+  "nearbyRestaurantsNote" : "Many restaurants are also just a few minutes from the building.",
+  "pastPlaylists" : [
+    {
+      "name" : "Equipped 2026 — Genesis",
+      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_PEx4CRp23BX0I6ROJ57YJ"
+    },
+    {
+      "name" : "Equipped 2025 — Book of Isaiah",
+      "url" : "https://youtube.com/playlist?list=PL6RXulneS578zd-osgusMMl-x2cvb356w"
+    },
+    {
+      "name" : "Equipped 2024 — Gospel of John",
+      "url" : "https://youtube.com/playlist?list=PL6RXulneS57-f64A4gRQRIrrFFpl2lKuj"
+    },
+    {
+      "name" : "Equipped 2023 — Book of James",
+      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
+    }
+  ],
+  "placeholderNote" : "Preliminary schedule — last year's classes are shown as an example until the 2027 schedule is published.",
+  "publishedAt" : "2026-08-14",
+  "recordingsNote" : "Recording from Equipped 2026.",
+  "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
+  "revision" : "initial",
+  "rooms" : [
+    "Auditorium",
+    "Room 114",
+    "Room 116",
+    "Room 129",
+    "The Barn"
+  ],
+  "scheduleIsPlaceholder" : true,
+  "sessions" : [
+    {
+      "day" : "thursday",
+      "id" : "thu-1",
+      "podcast" : "1000769345594",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Andy Baker"
+      ],
+      "time" : "6:00 PM",
+      "title" : "Singing",
+      "track" : "singing",
+      "video" : "ZE0OA0yQO4Q"
+    },
+    {
+      "day" : "thursday",
+      "id" : "thu-2",
+      "podcast" : "1000769345521",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Steve Higginbotham"
+      ],
+      "time" : "6:30 PM",
+      "title" : "\"In The Beginning\"",
+      "track" : "main",
+      "video" : "oVa6agfXB5U"
+    },
+    {
+      "day" : "thursday",
+      "id" : "thu-3",
+      "podcast" : "1000769345433",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Andrew Itson"
+      ],
+      "time" : "7:00 PM",
+      "title" : "Getting To Know God Through Creation",
+      "track" : "main",
+      "video" : "v04D6nZzGHw"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-1",
+      "podcast" : "1000769347356",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Dan Winkler"
+      ],
+      "time" : "8:00 AM",
+      "title" : "\"From The Beginning, God...\" (Part 1)",
+      "track" : "main",
+      "video" : "ixeCxlycGTo"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-2",
+      "podcast" : "1000769347317",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Caleb Colley"
+      ],
+      "time" : "9:00 AM",
+      "title" : "Creation And The Fall (Gen. 1–3)",
+      "track" : "main",
+      "video" : "lZ9EBc7rRsU"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-3",
+      "podcast" : "1000769347318",
+      "room" : "Room 114",
+      "speakers" : [
+        "Denny Petrillo"
+      ],
+      "time" : "9:00 AM",
+      "title" : "Text Messages: Moses And Jesus On Marriage",
+      "track" : "text-messages",
+      "video" : "Z2HRHqWVq9U"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-4",
+      "podcast" : "1000769347388",
+      "room" : "Room 116",
+      "speakers" : [
+        "Wayne Miller"
+      ],
+      "time" : "9:00 AM",
+      "title" : "Leadership: How To Keep The Focus On God When You Succeed",
+      "track" : "leadership",
+      "video" : "FzAtctDETow"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-5",
+      "podcast" : "1000769347074",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Steven Ford"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Early Generations (Gen. 4–5)",
+      "track" : "main",
+      "video" : "bltohPfvdk8"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-6",
+      "podcast" : "1000769352816",
+      "room" : "Room 114",
+      "speakers" : [
+        "John Moore"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Text Messages: Names Of God",
+      "track" : "text-messages",
+      "video" : "b22dSF31nFA"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-7",
+      "podcast" : "1000769353338",
+      "room" : "Room 116",
+      "speakers" : [
+        "Andy Baker"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Preaching: \"Countercultural Preaching\"",
+      "track" : "preaching",
+      "video" : "riTS7hEAEAo"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-8",
+      "podcast" : "1000769354959",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Bill Burk"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Sin, Grace, And Covenant (Gen. 6–8)",
+      "track" : "main",
+      "video" : "AqsOkCxzXOQ"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-9",
+      "podcast" : "1000769354911",
+      "room" : "Room 114",
+      "speakers" : [
+        "Kathy Pollard",
+        "Carla Moore"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Looking Up With Kathy And Carla",
+      "track" : "ladies",
+      "video" : "YeRBFglG2Q4"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-10",
+      "podcast" : "1000769355013",
+      "room" : "Room 116",
+      "speakers" : [
+        "Adam Faughn"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Leadership: How To Weather The Storms Of Leadership",
+      "track" : "leadership",
+      "video" : "7xyXWNdO0mA"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-11",
+      "podcast" : "1000769356147",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Dean Thompson"
+      ],
+      "time" : "1:30 PM",
+      "title" : "The Table Of Nations And Tower Of Babel (Gen. 10–11)",
+      "track" : "main",
+      "video" : "E3cH1pHmmUE"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-12",
+      "podcast" : "1000769355981",
+      "room" : "Room 114",
+      "speakers" : [
+        "Lori Boyd"
+      ],
+      "time" : "1:30 PM",
+      "title" : "Ladies: Genesis In The Psalms",
+      "track" : "ladies",
+      "video" : "Aqu8oRjsgnU"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-13",
+      "podcast" : "1000769356094",
+      "room" : "Room 116",
+      "speakers" : [
+        "Mike Vestal"
+      ],
+      "time" : "1:30 PM",
+      "title" : "Preaching: \"Preaching Seriously On Sin\"",
+      "track" : "preaching",
+      "video" : "WypecxfuUaY"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-14",
+      "podcast" : "1000769356044",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Brian Collins"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Abram's Call And Covenant (Gen. 12–14)",
+      "track" : "main",
+      "video" : "DaRPA2nfKLU"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-15",
+      "podcast" : "1000769359073",
+      "room" : "Room 114",
+      "speakers" : [
+        "Todd Crayton",
+        "John Moore",
+        "Denny Petrillo"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Panel Discussion: Tough Questions From Genesis",
+      "track" : "panel",
+      "video" : "wjIaTwoOlxk"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-16",
+      "podcast" : "1000769387457",
+      "room" : "Room 116",
+      "speakers" : [
+        "Richard Melson"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Text Messages: Genesis Characters In Acts",
+      "track" : "text-messages",
+      "video" : "KZQfPEiGua0"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-17",
+      "podcast" : "1000769391958",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Bud Woodall"
+      ],
+      "time" : "3:30 PM",
+      "title" : "God's Promises And Circumcision (Gen. 15–17)",
+      "track" : "main",
+      "video" : "mOVs2Al_H0I"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-18",
+      "podcast" : "1000769389124",
+      "room" : "Room 114",
+      "speakers" : [
+        "Rebekah Colley"
+      ],
+      "time" : "3:30 PM",
+      "title" : "Ladies: Lessons On Pride From The Tower Of Babel",
+      "track" : "ladies",
+      "video" : "iWhxYsKeL0M"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-19",
+      "podcast" : "1000769389043",
+      "room" : "Room 116",
+      "speakers" : [
+        "Richard Sutton"
+      ],
+      "time" : "3:30 PM",
+      "title" : "Leadership: How To Recover From Failure",
+      "track" : "leadership",
+      "video" : "pjIgPoGlR1Q"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-20",
+      "podcast" : "1000769391959",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Andy Baker"
+      ],
+      "time" : "6:00 PM",
+      "title" : "Singing",
+      "track" : "singing",
+      "video" : "LyIykJcomiA"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-21",
+      "podcast" : "1000769392173",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Tim Lewis"
+      ],
+      "time" : "6:30 PM",
+      "title" : "\"You Meant It For Evil, God Meant It For Good\"",
+      "track" : "main",
+      "video" : "xe4_CVrzxG8"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-22",
+      "podcast" : "1000769394211",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Clay Leonard"
+      ],
+      "time" : "7:00 PM",
+      "title" : "Getting To Know God Through Revelation",
+      "track" : "main",
+      "video" : "7qZH0M0oaFo"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-1",
+      "podcast" : "1000769394967",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Dan Winkler"
+      ],
+      "time" : "8:00 AM",
+      "title" : "\"From The Beginning, God...\" (Part 2)",
+      "track" : "main",
+      "video" : "yWdGASwQFcQ"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-2",
+      "podcast" : "1000769395725",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Denny Petrillo"
+      ],
+      "time" : "9:00 AM",
+      "title" : "Sodom And Gomorrah (Gen. 18–19)",
+      "track" : "main",
+      "video" : "cStoRPsm6og"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-3",
+      "podcast" : "1000769396430",
+      "room" : "Room 114",
+      "speakers" : [
+        "Jody Apple"
+      ],
+      "time" : "9:00 AM",
+      "title" : "Preaching: Preaching Apologetically",
+      "track" : "preaching",
+      "video" : "Ww__CRwg8ag"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-4",
+      "podcast" : "1000769397253",
+      "room" : "Room 116",
+      "speakers" : [
+        "Keith Kasarjian"
+      ],
+      "time" : "9:00 AM",
+      "title" : "Leadership: Why Is There Suffering, Evil, And Death?",
+      "track" : "leadership",
+      "video" : "j3h7geESLcY"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-5",
+      "podcast" : "1000769397098",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Chance Hicks"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Abraham And Isaac (Gen. 20–25)",
+      "track" : "main",
+      "video" : "XLWcSgUW6P8"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-6",
+      "podcast" : "1000770429417",
+      "room" : "Room 114",
+      "speakers" : [
+        "Glenn Hitchcock",
+        "Adam Faughn",
+        "Carl Pollard"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Panel Discussion: Questions About Spiritual Growth And Development",
+      "track" : "panel",
+      "video" : "iYlxuRq4CM4"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-7",
+      "podcast" : "1000770429827",
+      "room" : "The Barn",
+      "speakers" : [
+        "Corey Sawyers"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Youth: Strength In The Face Of Sexual Pressure (Gen. 37)",
+      "track" : "youth",
+      "video" : "BorjCBmeaOc"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-8",
+      "podcast" : "1000770429715",
+      "room" : "Room 116",
+      "speakers" : [
+        "Bart Warren"
+      ],
+      "time" : "10:00 AM",
+      "title" : "Text Questions: Is Genesis 3:15 The First Messianic Prophesy?",
+      "track" : "text-messages",
+      "video" : "hbgnI71yqyc"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-9",
+      "podcast" : "1000770430944",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Allen Webster"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Sibling Rivalry And Sovereignty (Gen. 26–28)",
+      "track" : "main",
+      "video" : "xubeIZN7gRE"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-10",
+      "podcast" : "1000770430971",
+      "room" : "Room 114",
+      "speakers" : [
+        "Cherie Vestal"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Ladies: Genesis In The Gospels",
+      "track" : "ladies",
+      "video" : "yMWX6rEXZ28"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-11",
+      "podcast" : "1000770431024",
+      "room" : "The Barn",
+      "speakers" : [
+        "Caleb Colley"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Youth: Why Bad Things Happen In The World",
+      "track" : "youth",
+      "video" : "j1U3tEqyfI0"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-12",
+      "podcast" : "1000770431005",
+      "room" : "Room 116",
+      "speakers" : [
+        "Steve Higginbotham"
+      ],
+      "time" : "11:00 AM",
+      "title" : "Preaching: Grace From The Beginning",
+      "track" : "preaching",
+      "video" : "Kju9V0lXxWQ"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-13",
+      "podcast" : "1000770431053",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Luke Lohden"
+      ],
+      "time" : "1:00 PM",
+      "title" : "The Precious Nature Of Unity (Gen. 13:8)",
+      "track" : "main",
+      "video" : "c95qFxc9m1s"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-14",
+      "podcast" : "1000770431765",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Jet Warren"
+      ],
+      "time" : "1:15 PM",
+      "title" : "Following In The Footsteps Of Our Father Of Faith",
+      "track" : "main",
+      "video" : "NV_frd0e_I8"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-15",
+      "podcast" : "1000770432216",
+      "room" : "Room 114",
+      "speakers" : [
+        "Tiffany Secula",
+        "Brittani Kemp",
+        "Emily Pollard"
+      ],
+      "time" : "1:30 PM",
+      "title" : "Ladies Panel Discussion: Questions And Insights For Ladies",
+      "track" : "panel",
+      "video" : "XplbUxlxtF8"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-16",
+      "podcast" : "1000770433337",
+      "room" : "The Barn",
+      "speakers" : [
+        "Jerry Elder",
+        "Justin Rogers",
+        "Tim Lewis"
+      ],
+      "time" : "1:30 PM",
+      "title" : "Youth Panel Discussion: Questions And Insights For Youth",
+      "track" : "panel",
+      "video" : "i4FkKmFxRH8"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-17",
+      "podcast" : "1000770432154",
+      "room" : "Room 129",
+      "speakers" : [
+        "Mike Vestal",
+        "Richard Melson",
+        "Wayne Jones"
+      ],
+      "time" : "1:30 PM",
+      "title" : "Preachers/Elders Panel Discussion: Questions And Insights For Leaders",
+      "track" : "panel",
+      "video" : "0b_GK6lg8Oc"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-18",
+      "podcast" : "1000770433577",
+      "room" : "Room 116",
+      "speakers" : [
+        "Bill Burk",
+        "Steven Ford",
+        "Richard Sutton"
+      ],
+      "time" : "1:30 PM",
+      "title" : "Marriage/Family Panel Discussion: Questions And Insights For Family",
+      "track" : "panel",
+      "video" : "PS28C5s7gqI"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-19",
+      "podcast" : "1000770433709",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Tyler Alverson"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Jacob And Laban (Gen. 29–31)",
+      "track" : "main",
+      "video" : "hth_W_MKAIQ"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-20",
+      "podcast" : "1000770433641",
+      "room" : "Room 114",
+      "speakers" : [
+        "Allen Webster"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Preaching/Leadership: Genesis Characters In The Epistles",
+      "track" : "preaching",
+      "video" : "G6uw5ysmYas"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-21",
+      "podcast" : "1000770434692",
+      "room" : "The Barn",
+      "speakers" : [
+        "Dean Thompson"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Youth: \"Remember Lot's Wife\" (Luke 17:32)",
+      "track" : "youth",
+      "video" : "jKlZwXTN9rI"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-22",
+      "podcast" : "1000770434631",
+      "room" : "Room 116",
+      "speakers" : [
+        "Jody Apple"
+      ],
+      "time" : "2:30 PM",
+      "title" : "Text Questions: Who Really Wrote The Book Of Genesis?",
+      "track" : "text-messages",
+      "video" : "WsPMtfj5UME"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-23",
+      "podcast" : "1000770434564",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Carl Pollard"
+      ],
+      "time" : "3:30 PM",
+      "title" : "Jacob's Growth And Development (Gen. 32–36)",
+      "track" : "main",
+      "video" : "Tz3gPdDxeUk"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-24",
+      "podcast" : "1000770438201",
+      "room" : "Room 114",
+      "speakers" : [
+        "Bethany Butt"
+      ],
+      "time" : "3:30 PM",
+      "title" : "Ladies: Examining The Life Of Esau",
+      "track" : "ladies",
+      "video" : "BcDVSp-jzlg"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-25",
+      "podcast" : "1000770438987",
+      "room" : "The Barn",
+      "speakers" : [
+        "Glenn Hitchcock"
+      ],
+      "time" : "3:30 PM",
+      "title" : "Youth: How Involved Should Your Parents Be?",
+      "track" : "youth",
+      "video" : "asVNCVm9a4s"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-26",
+      "podcast" : "1000770438848",
+      "room" : "Room 116",
+      "speakers" : [
+        "Todd Crayton"
+      ],
+      "time" : "3:30 PM",
+      "title" : "Preachers: Two Dozen Sermon Outlines From Genesis",
+      "track" : "preaching",
+      "video" : "Dcyn6rejJCE"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-27",
+      "podcast" : "1000770440428",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Andy Baker"
+      ],
+      "time" : "6:00 PM",
+      "title" : "Singing",
+      "track" : "singing",
+      "video" : "zkBPfL-0t4w"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-28",
+      "podcast" : "1000770440398",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Mike Vestal"
+      ],
+      "time" : "6:30 PM",
+      "title" : "\"Has God Said...?\"",
+      "track" : "main",
+      "video" : "JBx-0CEhT2U"
+    },
+    {
+      "day" : "saturday",
+      "id" : "sat-29",
+      "podcast" : "1000770441331",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Justin Rogers"
+      ],
+      "time" : "7:00 PM",
+      "title" : "\"Walking With God\"",
+      "track" : "main",
+      "video" : "4FOPDN3FJqQ"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-1",
+      "podcast" : "1000770480435",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Dan Winkler"
+      ],
+      "time" : "8:30 AM",
+      "title" : "\"From The Beginning, God...\"",
+      "track" : "main",
+      "video" : "65IMsOTv3Pg"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-2",
+      "podcast" : "1000770482419",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Keith Kasarjian"
+      ],
+      "time" : "9:30 AM",
+      "title" : "The Rise And Fall Of Joseph",
+      "track" : "main",
+      "video" : "c82cKWGf_fw"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-3",
+      "podcast" : "1000770483090",
+      "room" : "Room 114",
+      "speakers" : [
+        "Rose Crayton"
+      ],
+      "time" : "9:30 AM",
+      "title" : "Ladies: Developing A Courageous Faith Like The Patriarchs",
+      "track" : "ladies",
+      "video" : "HrTzMxCw-pc"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-4",
+      "podcast" : "1000773606259",
+      "room" : "The Barn",
+      "speakers" : [
+        "Nathan Liddell"
+      ],
+      "time" : "9:30 AM",
+      "title" : "Youth: Why You Should Believe And Convince Others",
+      "track" : "youth",
+      "video" : "tiVFfpH74Yw"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-5",
+      "podcast" : "1000770483091",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Parker Webster"
+      ],
+      "time" : "10:30 AM",
+      "title" : "The Fall And Rise Of Joseph (Gen. 39–41)",
+      "track" : "main",
+      "video" : "NE66hsn43pk"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-6",
+      "podcast" : "1000770483842",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Wayne Jones"
+      ],
+      "time" : "6:00 PM",
+      "title" : "Joseph Saves His Family (Gen. 42–50)",
+      "track" : "main",
+      "video" : "3uraAFeGcPg"
+    }
+  ],
+  "speakerBios" : {
+    "Adam Faughn" : "Married to the former Leah Moon, Adam Faughn has preached for the Central Church of Christ in Paducah, Kentucky since July 2018. He and Leah are blessed with two children, Mary Carol and Turner.\n\nAdam is a graduate of Freed-Hardeman University, having received a B.A. in History (1999) and a Master of Ministry (2003). Prior to working in Paducah, Adam preached in both Nashville, Tennessee and Haleyville, Alabama.\n\nHe has appeared on the Freed-Hardeman Bible lectureship and Polishing the Pulpit, and has held meetings in various states. He and other members of his family contribute to a website—A Legacy of Faith—designed to encourage families.",
+    "Andrew Itson" : "Andrew is married to Lauri Ann and they have three children, two boys, Crews and Cameron, and one girl, Dawson. He began working with the Madison Church of Christ in June of 2021. Before Andrew came to Madison he was the preaching minister at the Robertsdale Church of Christ in Robertsdale, AL and the Campus Minister at the University Church of Christ in Montgomery, AL. Andrew graduated with a Master of Arts in Biblical Studies from Faulkner University and a PhD in Leadership in Ministry and Religion from the University of the Cumberlands. Andrew is on the board of Agape of Central Alabama.",
+    "Andy Baker" : "Andy Baker is the local preacher at the Arnold church of Christ in Arnold, Missouri. He is a former public school teacher, a former youth minister, and a former opera and musical singer. He holds a Bachelor of Music with a double major in English, and also a Master of Arts in Music Education from Stephen F. Austin State University. He taught public school in Plano, Texas for a few years before attending Southwest School of Bible Studies in Austin, Texas in 2006. With his beautiful wife, Kathryn they have two sweet daughters and a wonderful boy.",
+    "Bart Warren" : "Bart has been preaching full-time since 2003 and has served congregations in Tennessee and Kentucky (at the South Green Street Church of Christ in Glasgow, KY since 2010). He has taught at preacher training schools in both Tennessee (Southeast Institute of Biblical Studies) and Colorado (Bear Valley Bible Institute). He is Vice-President of Warren Christian Apologetics Center and is the associate editor of an apologetics journal, Sufficient Evidence.\n\nHe is married to Laura (Hanstein), and they have three boys: Ike & Jet (twins) and Jake.",
+    "Bill Burk" : "Bill is a 1993 graduate of the Browntrail School of Preaching and has served as an adjunct teacher there since 1995. He has preached for three congregations in Texas: Rendon (1994–1997), Seagoville (1997–2010), and the Crandall Church of Christ (2011 until present). He is a 2024 graduate of South African Theological Seminary with a Bachelor of Theology.\n\nBill is married to Leda, and they have three daughters, BreAnna, Bella, and Brook.",
+    "Caleb Colley" : "Caleb Colley is the pulpit minister for the North Jackson Church of Christ in Jackson, Tennessee. He is a graduate of Freed-Hardeman University, where he received a B.A. in communication, a B.S. in biblical studies (2006), and an M.A. in New Testament (2021). He also received a Master's degree in humanities from Faulkner University, and a Ph.D. in philosophy from the University of South Carolina (2014). Caleb has taught in the Graduate School of Theology at FHU, the Georgia School of Preaching, and in the Philosophy Department at the University of South Carolina. He is married to the former Rebekah Meinsen, and they have a daughter (Maggie) and a son (Ellis).",
+    "Carla Moore" : "Carla grew up in a family dedicated to ministry, then met John while they were in college at Texas State University. They married in 1986, and have since been involved in ministry at the Bible Chair on the campus of TSU, then with the Southwest School of Bible Studies in Austin and then with the Dripping Springs church of Christ in Dripping Springs, Texas. They currently work with the Bear Valley Bible Institute. Carla taught for more than ten years in the Christian Women's Studies program at the Southwest School of Bible Studies and currently teaches in the women's program at Bear Valley Bible Institute. She enjoys speaking to women of all ages in various places, and is a staff writer for Christian Woman. She is the author of the blog Walking Where Jesus Walked and The Scripture Writing Project.",
+    "Dan Winkler" : "Dan Winkler was born in Port Arthur, TX, the eldest son of Wendell and Betty Winkler. In 1971, he married his high school sweetheart, Diane, and the Lord blessed them with the joy of raising three wonderful sons.\n\nDan graduated from Oklahoma Christian College with a BA in Bible, minoring in Greek and Speech. He secured his Masters degree from David Lipscomb College with an emphasis in New Testament studies. He has been preaching since 1969 and also served as a member of the Freed-Hardeman University Bible faculty for almost a decade and a half before retiring in 2018.\n\nBrother Dan has authored twenty books, serves as Question and Answer editor for the Magnolia Messenger, and co-hosts the popular podcast Today With Jesus, viewed by thousands in twenty-five different countries.",
+    "Glenn Hitchcock" : "Glenn Hitchcock was born in Newport News, Va. He is married to the former Mercedes Dowson (51 years) and they have one daughter, Lauren. The Hitchcocks resided in Hampton, Virginia and are members of the Peninsula church of Christ where Glenn served as one of her elders.\n\nGlenn is a 1982 graduate of the Memphis School of Preaching and a 1988 graduate of Saint Leo College with a B.A. He completed graduate education in 1995 from Norfolk State University School of Social Work. Glenn is a United States honorably discharged Air Force veteran (1972–1980).\n\nSince 1996, Glenn has edited a weekly devotional, \"Thoughts For Today To Brighten Your Day.\" Glenn retired from healthcare in 2019, and he still conducts meetings, marriage seminars and workshops as his schedule permits.",
+    "John Moore" : "A native of Dripping Springs, Texas, John has served as an evangelist, teacher, preacher and minister of the gospel for over 30 years. He and his wife Carla are working with Bear Valley Bible Institute International, and serve as the directors of Bible Passages, a ministry dedicated to training preachers, equipping the saints, defending the faith, and guiding souls to Jesus. He is the narrator and author of both the book and video Searching For Truth, and directs the Bible Land Passages Project. Since 1986 John has preached in Gospel Meetings in over eighteen states, and has conducted or participated in yearly campaigns to various foreign countries including Jamaica, Tobago, Malaysia, and Singapore.\n\nJohn and Carla have three sons and five grandchildren.",
+    "Justin Rogers" : "Dr. Justin Rogers is a graduate of both Freed-Hardeman University and Hebrew Union College. A FHU faculty member since 2010, he served as Director of the Graduate School of Theology for five years and currently serves as Dean of the College of Biblical Studies. He also fills the role of pulpit minister for the Broad Street Church of Christ in Lexington, TN.\n\nJustin and his wife Ashli have been married since 2006, and have three children: Caleb, Chelsea and Camryn.",
+    "Kathy Pollard" : "Kathy is married to Neal Pollard, who preaches for the Lehman Ave. church of Christ in Bowling Green, KY. They have three grown sons, all married, and two new grandsons with another grandchild on the way! Kathy attended Faulkner University and Bear Valley Bible Institute and has a bachelor's degree in Bible. She is a writer for Christian Woman magazine, contributes the Bible-marking feature at comefillyourcup.com, and is the author of the book Return to Me…What to Do When Loved Ones Fall Away. She and Carla Moore host a weekly podcast for Christian women called Looking Up. Kathy enjoys spending time with family, traveling to Israel, tending her gardens, and getting to know her new dairy cow, Peaches.",
+    "Lori Boyd" : "Lori Boyd is from Murfreesboro, Tennessee and attends the East Main church of Christ. She and her husband, Sam, were married in 1998 and have three children, Evie, Kate, and Briggs. Lori is a Registered Nurse and a high school teacher at Middle Tennessee Christian School, where she teaches Honors Anatomy and Forensics. She is currently pursuing a Master of Arts in Christian Scripture at Heritage Christian University.\n\nLori has been a writer for Think, Tennessee Home and Farm, and Christian Woman magazines. She has written four books: Trailblazers, Walking to the Promised Land, Hope Island, and Praying Through It; all made available through Kaio Publications. She is part of the Ministry League team and a board member of World Bible School. She loves public speaking and teaching Bible classes and presents regularly at workshops and ladies' events.",
+    "Mike Vestal" : "Mike has served the Westside congregation in Midland, TX for almost 24 years. He and his wife Cherie met at Freed-Hardeman University and they have been married since 1983. They are blessed with 2 children and 4 grandchildren. Their son David preaches for the Lord's church in Mathis, TX. Mike has preached in 37 different states and in 6 foreign countries. He often speaks on brotherhood programs such as PTP and Focal Point. Mike currently serves as an adjunct instructor at Bear Valley Bible Institute in Denver, CO.",
+    "Parker Webster" : "Parker is the preaching minister for the North Lexington Church of Christ in Lexington, KY. Prior to living in Kentucky, he served as the minister for the Carriage Oaks church of Christ in Bossier City, LA. Parker is the son of Wade and Jennifer Webster. He is married to the former Sabrina Rodriguez of Arlington, Texas. Parker is a graduate of the Southwest School of Biblical Studies in Austin, Texas and Harbinger Theological Seminary in Nashville, TN. Sabrina graduated from Texas State University with an Accounting degree. Parker and Sabrina recently welcomed their first child, Greyson Wade.",
+    "Richard Melson" : "Richard D. Melson is a native of Buffalo, NY and has preached the gospel since 1981. He serves as the evangelist at the Needmore Road church of Christ, Dayton, Ohio. He is a former elder in the Lord's church. Richard is an instructor at the Central Carolina School of Preaching (Sumter, SC), and is the host of Landmarks For Living, a radio program in Dayton. He has done campaign work in various countries, spoken on numerous brotherhood lectureships and held many gospel meetings in various states over the years.\n\nRichard and Valerie (Miller) have been married since 1979 and have four children who are all members of the Lord's church, and seven grandchildren.",
+    "Steve Higginbotham" : "Steve Higginbotham is a native of West Virginia and a 1984 graduate of Freed-Hardeman University. He preached in Nitro, WV for five years, Glasgow, KY for 21 years, and for the past 14 years with the Karns congregation in Knoxville, TN. He and his wife Kim have four children and two grandchildren.",
+    "Tim Lewis" : "Tim is a graduate of Oklahoma Christian University. He graduated in 1993 with a degree in English Education and obtained his Master's Degree in Ministry in 1998. He served as the Preacher/Youth Minister for the Mt. Vernon church of Christ in Mt. Vernon, Missouri for 8 years before moving to Oklahoma City to begin his work with the North MacArthur congregation in 2004. He has written a book entitled The Domino Effect: Changing Your Life One Decision at a Time. Tim and his wife, Tawni, have two daughters, Macy and Callie, and one son Ryder."
+  },
+  "theme" : "1–2 Timothy & Titus",
+  "themeSubtitle" : "A Manual for Christian Living",
+  "timeZoneID" : "America/Chicago",
+  "tracks" : [
+    {
+      "color" : "gold",
+      "icon" : "book.fill",
+      "id" : "main",
+      "name" : "Main"
+    },
+    {
+      "color" : "purple",
+      "icon" : "music.note",
+      "id" : "singing",
+      "name" : "Singing"
+    },
+    {
+      "color" : "pink",
+      "icon" : "heart.fill",
+      "id" : "ladies",
+      "name" : "Ladies"
+    },
+    {
+      "color" : "green",
+      "icon" : "figure.2.arms.open",
+      "id" : "youth",
+      "name" : "Youth"
+    },
+    {
+      "color" : "blue",
+      "icon" : "text.bubble.fill",
+      "id" : "preaching",
+      "name" : "Preaching"
+    },
+    {
+      "color" : "orange",
+      "icon" : "person.3.fill",
+      "id" : "leadership",
+      "name" : "Leadership"
+    },
+    {
+      "color" : "teal",
+      "icon" : "bubble.left.and.bubble.right.fill",
+      "id" : "panel",
+      "name" : "Panel"
+    },
+    {
+      "color" : "indigo",
+      "icon" : "text.quote",
+      "id" : "text-messages",
+      "name" : "Text Messages"
+    }
+  ],
+  "vendorAreaNote" : "Vendor tables are located in the hallways around the Multipurpose Room — see the building map on the Rooms tab. More vendors will be listed as they are confirmed.",
+  "vendors" : [
+    {
+      "details" : "Books, Bible class material, and study resources from the workshop speakers and others.",
+      "location" : "Multipurpose Room area",
+      "name" : "Bookstore"
+    },
+    {
+      "details" : "Coffee and drinks throughout the workshop.",
+      "location" : "Near the Multipurpose Room",
+      "name" : "Bluegrass Beans"
+    }
+  ],
+  "venue" : {
+    "address" : "2700 Cumberland Trace Rd, Bowling Green, KY 42103",
+    "email" : "ctcoc.office@gmail.com",
+    "mapsURL" : "https://maps.apple.com/?address=2700%20Cumberland%20Trace%20Rd,%20Bowling%20Green,%20KY%2042103&q=Cumberland%20Trace%20church%20of%20Christ",
+    "name" : "Cumberland Trace church of Christ",
+    "phone" : "(270) 843-8435",
+    "podcastURL" : "https://podcasts.apple.com/us/podcast/cumberland-trace-church-of-christ-formerly-lehman/id1456554619",
+    "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
+    "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
+  },
+  "year" : 2027
+}
