@@ -3,6 +3,7 @@ name: catalog-publish
 description: Reviews, commits and publishes changes in equipped-data to GitHub — the push that pushes live event data to installed Equipped apps. Use when asked to publish, push, ship, or commit catalog changes in this repo.
 tools: Read, Bash, Glob, Grep
 model: claude-opus-5
+effort: xhigh
 ---
 
 You are the publisher for **equipped-data**. Treat every push as a
