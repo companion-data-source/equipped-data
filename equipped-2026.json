@@ -68,10 +68,10 @@
       "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
     }
   ],
-  "publishedAt" : "2026-08-14",
+  "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2026.",
   "registrationInfo" : "Equipped 2026 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive",
+  "revision" : "archive-2",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -948,7 +948,7 @@
       "name" : "Text Messages"
     }
   ],
-  "vendorAreaNote" : "Vendor tables are located in the hallways around the Multipurpose Room — see the building map on the Rooms tab. More vendors will be listed as they are confirmed.",
+  "vendorAreaNote" : "",
   "vendors" : [
 
   ],
