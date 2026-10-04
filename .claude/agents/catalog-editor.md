@@ -31,8 +31,9 @@ saved schedule — the single worst thing that can happen through this repo.
   brand-new ids. This is the exact moment the rule exists for.
 
 # Editing rules worth repeating
-- `day` must match an id in `days`; `track` must match an id in `tracks`;
-  `time` is `"6:30 PM"` style.
+- `day` must match an id in `days`; `track` must match an id in `tracks`
+  or be `""` (no track — keep the key); `time` is `"6:30 PM"` style. An
+  unassigned room is the literal `"TBA"`.
 - `speakerBios` is keyed by the speaker's name **exactly** as written in
   `sessions` — a rename in one place needs the other.
 - `video` is a YouTube video id, `podcast` an Apple Podcasts episode id;

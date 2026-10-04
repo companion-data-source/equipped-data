@@ -29,6 +29,14 @@ ids, every user's saved schedule silently empties.
   brand-new classes brand-new ids. Deleting an id is fine — a star with
   no session just disappears quietly.
 - Never derive ids from array position.
+- **2027's retired ids are not free.** The first 2027 catalog was a
+  placeholder: 2026's classes under `thu-1`–`thu-3`, `fri-1`–`fri-22`,
+  `sat-1`–`sat-29`, `sun-1`–`sun-6`. People starred those. Number a new
+  2027 session above the highest id its day has ever had (the tentative
+  schedule starts at `thu-4`, `fri-23`, `sat-30`, `sun-7`), and bring a
+  retired id back only for the same class. Four carried over that way:
+  singing (`thu-1`, `fri-20`, `sat-27`) and Kathy & Carla (`fri-9`, now
+  on Saturday).
 
 ## Editing cheat-sheet
 
@@ -49,6 +57,19 @@ in `tracks`, `time` is `"6:30 PM"` style):
 }
 ```
 
+- **Not decided yet? Say so, don't guess.** An unassigned room is the
+  literal `"room": "TBA"`; an unknown speaker is `"speakers": []`; a class
+  the schedule doesn't put in a track is `"track": ""` — keep the key, old
+  app builds require it (they show such a class under the first track; newer
+  builds show no track label). That's why 2027's `tracks` still starts
+  with `main` though no session uses it — don't tidy it away, or old
+  builds label those classes "Singing".
+- **Nothing to list yet?** Leave `hotels`, `foodTrucks` or `vendors` as an
+  empty list and put the "coming soon" sentence in its note (`lodgingNote`,
+  `foodTrucksNote`, `vendorAreaNote`); the Info tab shows the note in the
+  list's place. Once the event is over, blank those notes — an archive year
+  with an empty list and a leftover note would show the note. (Older app
+  builds simply hide an empty section.)
 - `video` is a YouTube video id; `podcast` is an Apple Podcasts episode
   id. Add them after the event as recordings post.
 - `speakerBios` is keyed by the speaker's name **exactly** as it appears

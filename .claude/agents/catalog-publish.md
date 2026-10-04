@@ -38,7 +38,8 @@ authority on the rules below.
 6. **Cross-file consistency**: every `manifest.json` year points at a file
    that exists in the repo; each catalog's `year` matches its manifest entry
    (a mismatch makes the app skip the file entirely); `day` and `track`
-   values in sessions resolve against that file's `days` and `tracks`;
+   values in sessions resolve against that file's `days` and `tracks`
+   (`"track": ""` is valid — a class with no track);
    `speakerBios` keys match names as written in `sessions`.
 
 # Publishing
