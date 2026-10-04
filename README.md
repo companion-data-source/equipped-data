@@ -13,6 +13,8 @@ manifest.json        which years exist and which is newest
 equipped-2027.json   one catalog per year: schedule, speakers, rooms, info
 equipped-2026.json
 equipped-2025.json   archive years keep their recordings (`video`) linked
+equipped-2024.json
+equipped-2023.json   times partly reconstructed — see its placeholderNote
 tools/catalog_diff.py   run before every push (see below)
 ```
 
@@ -111,6 +113,10 @@ you didn't intend, fix the ids before pushing.
 1. Copy the newest catalog to `equipped-20XX.json`; update `year`,
    `eventName`, `theme`, `datesText`, `days` (real dates), sessions.
 2. Add the year to `manifest.json` and point `latestYear` at it.
+   In the year that just became an archive, blank the venue's `address`,
+   `phone` and `email` (`""` — keep the keys), delete `mapsURL`, and blank
+   `gettingThere`. Past years show the venue's name only, so nobody takes
+   an old year's details for the current ones.
 3. Also add the file to the app's bundled `Resources/` folder in the next
    app release, so new installs work offline. (Remote-only years work
    too — the bundle is just the offline fallback.)

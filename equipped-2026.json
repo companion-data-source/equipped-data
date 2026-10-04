@@ -44,7 +44,7 @@
   ],
   "foodTrucksArePlaceholder" : false,
   "formatVersion" : 1,
-  "gettingThere" : "The building is located between I-65 exits 22 and 26, about 70 miles north of Nashville, TN.",
+  "gettingThere" : "",
   "hotels" : [
 
   ],
@@ -71,7 +71,7 @@
   "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2026.",
   "registrationInfo" : "Equipped 2026 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive-2",
+  "revision" : "archive-3",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -953,11 +953,10 @@
 
   ],
   "venue" : {
-    "address" : "2700 Cumberland Trace Rd, Bowling Green, KY 42103",
-    "email" : "ctcoc.office@gmail.com",
-    "mapsURL" : "https://maps.apple.com/?address=2700%20Cumberland%20Trace%20Rd,%20Bowling%20Green,%20KY%2042103&q=Cumberland%20Trace%20church%20of%20Christ",
+    "address" : "",
+    "email" : "",
     "name" : "Cumberland Trace church of Christ",
-    "phone" : "(270) 843-8435",
+    "phone" : "",
     "podcastURL" : "https://podcasts.apple.com/us/podcast/cumberland-trace-church-of-christ-formerly-lehman/id1456554619",
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"

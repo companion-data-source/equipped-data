@@ -1,44 +1,44 @@
 {
-  "datesText" : "April 24–27, 2025",
+  "datesText" : "April 18–21, 2024",
   "days" : [
     {
-      "dateText" : "April 24",
-      "dayOfMonth" : 24,
+      "dateText" : "April 18",
+      "dayOfMonth" : 18,
       "displayName" : "Thursday",
       "id" : "thursday",
       "month" : 4,
-      "shortDate" : "4/24",
+      "shortDate" : "4/18",
       "shortName" : "Thu"
     },
     {
-      "dateText" : "April 25",
-      "dayOfMonth" : 25,
+      "dateText" : "April 19",
+      "dayOfMonth" : 19,
       "displayName" : "Friday",
       "id" : "friday",
       "month" : 4,
-      "shortDate" : "4/25",
+      "shortDate" : "4/19",
       "shortName" : "Fri"
     },
     {
-      "dateText" : "April 26",
-      "dayOfMonth" : 26,
+      "dateText" : "April 20",
+      "dayOfMonth" : 20,
       "displayName" : "Saturday",
       "id" : "saturday",
       "month" : 4,
-      "shortDate" : "4/26",
+      "shortDate" : "4/20",
       "shortName" : "Sat"
     },
     {
-      "dateText" : "April 27",
-      "dayOfMonth" : 27,
+      "dateText" : "April 21",
+      "dayOfMonth" : 21,
       "displayName" : "Sunday",
       "id" : "sunday",
       "month" : 4,
-      "shortDate" : "4/27",
+      "shortDate" : "4/21",
       "shortName" : "Sun"
     }
   ],
-  "eventName" : "Equipped 2025",
+  "eventName" : "Equipped 2024",
   "foodTrucks" : [
 
   ],
@@ -49,7 +49,7 @@
 
   ],
   "lodgingNote" : "",
-  "nearbyRestaurantsNote" : "Many restaurants are also just a few minutes from the building.",
+  "nearbyRestaurantsNote" : "",
   "pastPlaylists" : [
     {
       "name" : "Equipped 2026 — Genesis",
@@ -68,15 +68,15 @@
       "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
     }
   ],
+  "placeholderNote" : null,
   "publishedAt" : "2026-10-04",
-  "recordingsNote" : "Recording from Equipped 2025.",
-  "registrationInfo" : "Equipped 2025 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive-2",
+  "recordingsNote" : "Recording from Equipped 2024.",
+  "registrationInfo" : "Equipped 2024 has concluded. Watch the recordings on YouTube or listen on the podcast.",
+  "revision" : "archive",
   "rooms" : [
     "Auditorium",
-    "Room 114",
-    "Room 116",
-    "Room 129"
+    "Multipurpose Room",
+    "Tent"
   ],
   "scheduleIsPlaceholder" : false,
   "sessions" : [
@@ -90,31 +90,31 @@
       "time" : "6:00 PM",
       "title" : "Singing",
       "track" : "singing",
-      "video" : "vgx-MGvWCD0"
+      "video" : "JSzHRSrBp3o"
     },
     {
       "day" : "thursday",
       "id" : "thu-2",
       "room" : "Auditorium",
       "speakers" : [
-        "Tim Lewis"
+        "Cliff Goodwin"
       ],
       "time" : "6:30 PM",
-      "title" : "\"Though Your Sins Be As Scarlet\" (Isaiah 1:18)",
+      "title" : "John The Perspective: Grasping John's Gospel",
       "track" : "",
-      "video" : "79xrBxZ4CS8"
+      "video" : "Z9R0ZFnadMw"
     },
     {
       "day" : "thursday",
       "id" : "thu-3",
       "room" : "Auditorium",
       "speakers" : [
-        "Allen Webster"
+        "Gale Nelson"
       ],
-      "time" : "7:15 PM",
-      "title" : "\"Whatever You Do, Do All To The Glory Of God\" (1 Corinthians 10:31)",
+      "time" : "7:00 PM",
+      "title" : "The Life Which I Now Live By Faith",
       "track" : "",
-      "video" : "jO0zCC6DGGs"
+      "video" : "TaBP1sHE1dY"
     },
     {
       "day" : "friday",
@@ -124,80 +124,81 @@
         "Dan Winkler"
       ],
       "time" : "8:00 AM",
-      "title" : "Meaningful Messianic Messages From Isaiah (Part 1)",
+      "title" : "Why People Came To Jesus",
       "track" : "",
-      "video" : "X1Ay_48-w6o"
+      "video" : "p4z4SkesNls"
     },
     {
       "day" : "friday",
       "id" : "fri-2",
       "room" : "Auditorium",
       "speakers" : [
-        "John Moore"
+        "Andy Robison"
       ],
       "time" : "9:00 AM",
-      "title" : "Background And Introduction",
-      "track" : ""
+      "title" : "The Lamb Of God (Ch. 1)",
+      "track" : "",
+      "video" : "vuGMNr0yrug"
     },
     {
       "day" : "friday",
       "id" : "fri-3",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Mike Vestal"
+        "Cliff Goodwin"
       ],
       "time" : "9:00 AM",
-      "title" : "How To Study The Old Testament For All It's Worth (Romans 15:4)",
-      "track" : "",
-      "video" : "kFk4WnSn-I4"
+      "title" : "Leadership: Preparing For The Future (John 7:33–34)",
+      "track" : "leadership",
+      "video" : "RD0KZJN6rxs"
     },
     {
       "day" : "friday",
       "id" : "fri-4",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Allen Webster"
+        "Gale Nelson"
       ],
       "time" : "9:00 AM",
-      "title" : "\"Come Now, Let Us Reason Together\": Making Sense Of God's Word",
-      "track" : "",
-      "video" : "50OyQGEhGwo"
+      "title" : "Preaching: How Jesus Adapted To Different Audiences",
+      "track" : "preaching",
+      "video" : "Sh3uu3pe4f4"
     },
     {
       "day" : "friday",
       "id" : "fri-5",
       "room" : "Auditorium",
       "speakers" : [
-        "Eddie Parrish"
+        "Steve Higginbotham"
       ],
       "time" : "10:00 AM",
-      "title" : "Judah's Social Sins (Isaiah 1–5)",
+      "title" : "The Master Of Weddings And Worship (Ch. 2)",
       "track" : "",
-      "video" : "dwUV7VrOD_o"
+      "video" : "O_ia_VSTTH8"
     },
     {
       "day" : "friday",
       "id" : "fri-6",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Jania Otey"
+        "Dan Winkler"
       ],
       "time" : "10:00 AM",
-      "title" : "Ladies: The Motivation For Eternal Glory (Titus 2:11–14)",
-      "track" : "ladies",
-      "video" : "5iwX3218HPM"
+      "title" : "Into The Word: The Logos Of John One",
+      "track" : "into-the-word",
+      "video" : "3FjC_AoNMM4"
     },
     {
       "day" : "friday",
       "id" : "fri-7",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Jason Jackson"
+        "Kristy Woodall"
       ],
       "time" : "10:00 AM",
-      "title" : "Text Questions: Does Isaiah 7:14 Teach The Virgin Birth?",
-      "track" : "text-questions",
-      "video" : "bAL7pHzylvg"
+      "title" : "Women: Submitting To His Lordship Like Mary, The Mother Of Jesus",
+      "track" : "women",
+      "video" : "ugJY9PNHx7w"
     },
     {
       "day" : "friday",
@@ -207,512 +208,480 @@
         "Hiram Kemp"
       ],
       "time" : "11:00 AM",
-      "title" : "Judah's Judgement Preached (Isaiah 6)",
+      "title" : "Eternal Life (Ch. 3)",
       "track" : "",
-      "video" : "ewNQ_Tf9jeI"
+      "video" : "B_SJ2cmStbM"
     },
     {
       "day" : "friday",
       "id" : "fri-9",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Caleb Colley"
+        "Bud Woodall"
       ],
       "time" : "11:00 AM",
-      "title" : "What Isaiah Knew About The Church Of Christ (Isaiah 2:1–4)",
-      "track" : "",
-      "video" : "Kl1SJ_57IfI"
+      "title" : "Into The Word: \"John's Favorite Words And Themes\"",
+      "track" : "into-the-word",
+      "video" : "E3ZIUhikUW4"
     },
     {
       "day" : "friday",
       "id" : "fri-10",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Bill Burk"
+        "Barry Grider"
       ],
       "time" : "11:00 AM",
-      "title" : "Passages That Will Preach From Isaiah 1–23",
-      "track" : "",
-      "video" : "RPoPNm13GK4"
+      "title" : "Leadership/Preaching: \"Children Of Light And Children Of Darkness\"",
+      "track" : "leadership",
+      "video" : "VXXixeTRhck"
     },
     {
       "day" : "friday",
       "id" : "fri-11",
       "room" : "Auditorium",
       "speakers" : [
-        "Scott Harp"
+        "Kason Eubanks"
       ],
-      "time" : "1:30 PM",
-      "title" : "Judah's Political Confusion (Isaiah 7–12)",
+      "time" : "1:10 PM",
+      "title" : "\"Sanctify Them Through Your Truth\"",
       "track" : "",
-      "video" : "Y6T9IGrUlv4"
+      "video" : "5on7bC6sDts"
     },
     {
       "day" : "friday",
       "id" : "fri-12",
-      "room" : "Room 114",
+      "room" : "Auditorium",
       "speakers" : [
-        "Bud Woodall"
+        "Glenn Hitchcock"
       ],
       "time" : "1:30 PM",
-      "title" : "What Isaiah Knew About Hell (Isaiah 66:24)",
+      "title" : "Good News For Thirsty People (Ch. 4)",
       "track" : "",
-      "video" : "HrvkBVo1Cd4"
+      "video" : "DDtmyV2DyfY"
     },
     {
       "day" : "friday",
       "id" : "fri-13",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Jason Jackson"
+        "Ty Rhymes"
       ],
       "time" : "1:30 PM",
-      "title" : "Text Questions: The Role Of Prophetic Foreknowledge In Isaiah",
-      "track" : "text-questions",
-      "video" : "jULCdmcyq9o"
+      "title" : "Youth: Do You Know Jesus?",
+      "track" : "youth",
+      "video" : "qLGyEmi3O0o"
     },
     {
       "day" : "friday",
       "id" : "fri-14",
-      "room" : "Auditorium",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Caleb Colley"
+        "Lori Boyd"
       ],
-      "time" : "2:30 PM",
-      "title" : "Isaiah's Message Against The Foreign Nations (Isaiah 13–23)",
-      "track" : "",
-      "video" : "UJxCvbZt-v0"
+      "time" : "1:30 PM",
+      "title" : "Women: The Woman Of Samaria",
+      "track" : "women",
+      "video" : "m5aYTa0a0Cg"
     },
     {
       "day" : "friday",
       "id" : "fri-15",
-      "room" : "Room 114",
+      "room" : "Auditorium",
       "speakers" : [
-        "Ken Burton"
+        "Wayne Jones"
       ],
       "time" : "2:30 PM",
-      "title" : "Leadership: Answering The Call Of Leadership (Isaiah 6)",
-      "track" : "leadership",
-      "video" : "b_459QS0jW0"
+      "title" : "The Light Of The World (Ch. 5)",
+      "track" : "",
+      "video" : "Fv3zCgXzuD4"
     },
     {
       "day" : "friday",
       "id" : "fri-16",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Tim Lewis"
+        "Neal Pollard"
       ],
       "time" : "2:30 PM",
-      "title" : "Passages That Will Preach From Isaiah 24–39",
-      "track" : "",
-      "video" : "q2VpvWOWpLg"
+      "title" : "Into The Word: The Seven Signs Of John's Gospel",
+      "track" : "into-the-word",
+      "video" : "Dvq6O5ldQQo"
     },
     {
       "day" : "friday",
       "id" : "fri-17",
-      "room" : "Auditorium",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Jimmy Clark"
+        "John Moore"
       ],
-      "time" : "3:30 PM",
-      "title" : "God's Ultimate Judgement And Deliverance (Isaiah 24–27)",
-      "track" : "",
-      "video" : "dKt_X9TnD_s"
+      "time" : "2:30 PM",
+      "title" : "Preaching: Bringing The Gospel Of John To Life Through Geography",
+      "track" : "preaching",
+      "video" : "3Vju0F0ZK2w"
     },
     {
       "day" : "friday",
       "id" : "fri-18",
-      "room" : "Room 114",
+      "room" : "Auditorium",
       "speakers" : [
-        "Kathy Pollard",
-        "Carla Moore"
+        "Richard Melson"
       ],
       "time" : "3:30 PM",
-      "title" : "Ladies: Looking Up! Live With Kathy And Carla",
-      "track" : "ladies",
-      "video" : "7GSvywF_FXI"
+      "title" : "The Bread Of Life (Ch. 6)",
+      "track" : "",
+      "video" : "n0oFU6lm-kk"
     },
     {
       "day" : "friday",
       "id" : "fri-19",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Rick Brumback"
+        "Andy Robison"
       ],
       "time" : "3:30 PM",
-      "title" : "Text Questions: Is Isaiah 53 About A Nation Or A Man?",
-      "track" : "text-questions",
-      "video" : "cnGl00h-CJo"
+      "title" : "Leadership: Shepherd Leadership",
+      "track" : "leadership",
+      "video" : "FSDJQ6t1wUE"
     },
     {
       "day" : "friday",
       "id" : "fri-20",
-      "room" : "Auditorium",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Andy Baker"
+        "Alicia Bookout"
       ],
-      "time" : "6:00 PM",
-      "title" : "Singing",
-      "track" : "singing",
-      "video" : "f9oW4Bmz5KM"
+      "time" : "3:30 PM",
+      "title" : "Women: Mary Magdalene",
+      "track" : "women",
+      "video" : "aWoaXhNB7WA"
     },
     {
       "day" : "friday",
       "id" : "fri-21",
       "room" : "Auditorium",
       "speakers" : [
-        "Melvin Otey"
+        "Andy Baker"
       ],
-      "time" : "6:30 PM",
-      "title" : "\"Holy, Holy, Holy\" (Isaiah 6:3)",
-      "track" : "",
-      "video" : "USGW52kV8Pw"
+      "time" : "6:00 PM",
+      "title" : "Singing",
+      "track" : "singing",
+      "video" : "v3Y3XPGAwI4"
     },
     {
       "day" : "friday",
       "id" : "fri-22",
       "room" : "Auditorium",
       "speakers" : [
-        "Jimmy Clark"
+        "Dan Winkler"
       ],
-      "time" : "7:15 PM",
-      "title" : "\"God Forbid That I Should Glory\" (Galatians 6:14)",
+      "time" : "6:30 PM",
+      "title" : "John The Person: The Disciple Whom Jesus Loved (A Closer Look At John, The Man)",
       "track" : "",
-      "video" : "qsvUPDvyP18"
+      "video" : "5WgL0PmdtKI"
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-23",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Wade Webster"
+      ],
+      "time" : "7:00 PM",
+      "title" : "\"We Walk By Faith And Not By Sight\"",
+      "track" : "",
+      "video" : "r6llabNwVhE"
     },
     {
       "day" : "saturday",
       "id" : "sat-1",
       "room" : "Auditorium",
       "speakers" : [
-        "Dan Winkler"
+        "Eric Garner"
       ],
       "time" : "8:00 AM",
-      "title" : "Meaningful Messianic Messages From Isaiah (Part 2)",
+      "title" : "Living Water (Ch. 7)",
       "track" : "",
-      "video" : "9J7oIRA-FWM"
+      "video" : "dE4ZB6LU664"
     },
     {
       "day" : "saturday",
       "id" : "sat-2",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Caleb Colley"
+        "Steve Higginbotham"
       ],
       "time" : "8:00 AM",
-      "title" : "Passages That Will Preach From Isaiah 40–66",
-      "track" : "",
-      "video" : "l0SN3ReRgpA"
+      "title" : "Preacher/Leadership: \"Burnout\"",
+      "track" : "preaching",
+      "video" : "mrJ2clY9usQ"
     },
     {
       "day" : "saturday",
       "id" : "sat-3",
       "room" : "Auditorium",
       "speakers" : [
-        "Jason Jackson"
+        "Wade Webster"
       ],
       "time" : "9:00 AM",
-      "title" : "Why God Disciplines His Own People (Isaiah 28–34)",
+      "title" : "The Truth Will Set You Free (Ch. 8)",
       "track" : "",
-      "video" : "OH_4X6QAIxE"
+      "video" : "r4wyzLbWR6s"
     },
     {
       "day" : "saturday",
       "id" : "sat-4",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Whitney Watson"
+        "Bart Warren"
       ],
       "time" : "9:00 AM",
-      "title" : "Ladies: God Compared To A Mother In Isaiah (Isaiah 49:15–16, 66:13)",
-      "track" : "ladies",
-      "video" : "YHsbriSQBks"
+      "title" : "Into The Word: Where Does John 7:53–8:11 Fit, Or Does It Fit?",
+      "track" : "into-the-word",
+      "video" : "IPVyod_goZA"
     },
     {
       "day" : "saturday",
       "id" : "sat-5",
-      "room" : "Room 116",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Richard Melson"
+        "Kathryn Baker"
       ],
       "time" : "9:00 AM",
-      "title" : "Leadership: Pictures Of Shepherding From Isaiah",
-      "track" : "leadership",
-      "video" : "KYpEm7AL4fU"
+      "title" : "Women: The Woman Caught In Adultery",
+      "track" : "women",
+      "video" : "79X9yprE-Eg"
     },
     {
       "day" : "saturday",
       "id" : "sat-6",
-      "room" : "Room 129",
+      "room" : "Tent",
       "speakers" : [
-        "Wayne Jones"
+        "Andrew Itson"
       ],
       "time" : "9:00 AM",
-      "title" : "Text Questions: How Many Books Of Isaiah Are There?",
-      "track" : "text-questions",
-      "video" : "2GJ3xf7r1WQ"
+      "title" : "Youth: How Faith Will Help Me Survive My Teens",
+      "track" : "youth",
+      "video" : "186fCdmVs3w"
     },
     {
       "day" : "saturday",
       "id" : "sat-7",
       "room" : "Auditorium",
       "speakers" : [
-        "Parker Webster"
+        "Bud Woodall"
       ],
       "time" : "10:00 AM",
-      "title" : "A Praise Break In Isaiah (Isaiah 35)",
+      "title" : "The Difference Between Light And Darkness (Ch. 9)",
       "track" : "",
-      "video" : "Fa2VwdwSf-c"
+      "video" : "sVV0ZnAEvKE"
     },
     {
       "day" : "saturday",
       "id" : "sat-8",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Glenn Hitchcock"
+        "Mike Vestal"
       ],
       "time" : "10:00 AM",
-      "title" : "Leadership: Steering The Church In The Right Direction (Isaiah 9:16)",
+      "title" : "Leadership/Preaching: Learning Mentoring And Discipling From Jesus In John",
       "track" : "leadership",
-      "video" : "dn3E6RFpcI0"
+      "video" : "nNS3jBU5z4c"
     },
     {
       "day" : "saturday",
       "id" : "sat-9",
-      "room" : "Room 116",
+      "room" : "Tent",
       "speakers" : [
-        "Brandon Watson"
+        "Eric Garner"
       ],
       "time" : "10:00 AM",
-      "title" : "Youth: \"A Child Shall Lead Them\" (Isaiah 11:6) — What You Can Do For God Now",
+      "title" : "Youth: Learning Prayer From Jesus",
       "track" : "youth",
-      "video" : "YU3PLtmQy9U"
+      "video" : "_58d9Xh9E5E"
     },
     {
       "day" : "saturday",
       "id" : "sat-10",
-      "room" : "Room 129",
+      "room" : "Auditorium",
       "speakers" : [
-        "Melvin Otey",
-        "Bill Burk",
-        "Bart Warren"
+        "Andrew Itson"
       ],
-      "time" : "10:00 AM",
-      "title" : "Roundtable Discussion On Building A Devotional Life",
-      "track" : "roundtable",
-      "video" : "Xd5VisDvn0o"
+      "time" : "11:00 AM",
+      "title" : "The Good Shepherd (Ch. 10)",
+      "track" : "",
+      "video" : "ayka7hN5DAs"
     },
     {
       "day" : "saturday",
       "id" : "sat-11",
-      "room" : "Auditorium",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Bruce Daugherty"
+        "Melissa Cain"
       ],
       "time" : "11:00 AM",
-      "title" : "A Historical Lesson On Death And Deliverance (Isaiah 36–39)",
-      "track" : "",
-      "video" : "E4SPvAP4oKY"
+      "title" : "Women: Mary And Martha In The Gospel Of John",
+      "track" : "women"
     },
     {
       "day" : "saturday",
       "id" : "sat-12",
-      "room" : "Room 114",
+      "room" : "Tent",
       "speakers" : [
-        "Lacy Crowell"
+        "Justin Rogers"
       ],
       "time" : "11:00 AM",
-      "title" : "Ladies: Wife And Mother Imagery In Isaiah",
-      "track" : "ladies",
-      "video" : "45OLRaRqHSw"
+      "title" : "Youth: How John Helps Me Be A Better Bible Student",
+      "track" : "youth",
+      "video" : "mPTIjwL36ws"
     },
     {
       "day" : "saturday",
       "id" : "sat-13",
-      "room" : "Room 116",
+      "room" : "Auditorium",
       "speakers" : [
-        "Diondre Hensley"
+        "Maddox Wilson"
       ],
-      "time" : "11:00 AM",
-      "title" : "Youth: You Were Born For A Purpose",
-      "track" : "youth",
-      "video" : "bOwAg3uUtos"
+      "time" : "1:10 PM",
+      "title" : "\"Love One Another\"",
+      "track" : ""
     },
     {
       "day" : "saturday",
       "id" : "sat-14",
-      "room" : "Room 129",
+      "room" : "Auditorium",
       "speakers" : [
-        "Bud Woodall"
+        "Justin Rogers"
       ],
-      "time" : "11:00 AM",
-      "title" : "Text Questions: What Law Were The Gentile Nations Under?",
-      "track" : "text-questions",
-      "video" : "TXSciXMecfw"
+      "time" : "1:30 PM",
+      "title" : "Friend Of The Family (Ch. 11)",
+      "track" : "",
+      "video" : "w80FGksOLIo"
     },
     {
       "day" : "saturday",
       "id" : "sat-15",
-      "room" : "Room 116",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Easton White"
+        "Kathy Pollard",
+        "Carla Moore"
       ],
-      "time" : "1:10 PM",
-      "title" : "Youth: \"My Thoughts Are Not Your Thoughts\"",
-      "track" : "youth",
-      "video" : "Uc9TqXTDUis"
+      "time" : "1:30 PM",
+      "title" : "Women: Looking Up! With Kathy And Carla",
+      "track" : "women",
+      "video" : "F-RAWFsdQJc"
     },
     {
       "day" : "saturday",
       "id" : "sat-16",
-      "room" : "Room 116",
+      "room" : "Tent",
       "speakers" : [
-        "Jarius Louis"
+        "Scott Cain"
       ],
-      "time" : "1:20 PM",
-      "title" : "Youth: \"The Lord's Hand Is Not Shortened That It Cannot Save\"",
+      "time" : "1:30 PM",
+      "title" : "Youth: How The Descriptions Of Jesus In John Can Help My Faith",
       "track" : "youth",
-      "video" : "Ou-vtNoVu1M"
+      "video" : "i4ESJBRbG2k"
     },
     {
       "day" : "saturday",
       "id" : "sat-17",
       "room" : "Auditorium",
       "speakers" : [
-        "Wayne Burger"
+        "John Moore"
       ],
-      "time" : "1:30 PM",
-      "title" : "Deliverance From Captivity (Isaiah 40–48)",
+      "time" : "2:30 PM",
+      "title" : "God's Grand Entrance (Ch. 12)",
       "track" : "",
-      "video" : "E7LlI7oRQ3Y"
+      "video" : "1jCaxUkincU"
     },
     {
       "day" : "saturday",
       "id" : "sat-18",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "John Moore"
+        "David Sproule"
       ],
-      "time" : "1:30 PM",
-      "title" : "Text Questions: A Study Of \"New Heavens, New Earth\" In Isaiah",
-      "track" : "text-questions",
-      "video" : "TIvOFv8iI_Y"
+      "time" : "2:30 PM",
+      "title" : "Teacher Workshop (Adults–Teens), Part 1",
+      "track" : "teachers",
+      "video" : "_mBFZooJPFg"
     },
     {
       "day" : "saturday",
       "id" : "sat-19",
-      "room" : "Room 116",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Parker Webster"
+        "Traci Sproule"
       ],
-      "time" : "1:30 PM",
-      "title" : "Youth: Appreciating A Godly Heritage (Isaiah 1:2–4, 5:1–4)",
-      "track" : "youth",
-      "video" : "GHlz_ofAbhM"
+      "time" : "2:30 PM",
+      "title" : "Teacher Workshop (Children), Part 1",
+      "track" : "teachers",
+      "video" : "L9beg5Z6iD0"
     },
     {
       "day" : "saturday",
       "id" : "sat-20",
-      "room" : "Auditorium",
+      "room" : "Tent",
       "speakers" : [
-        "Rick Brumback"
+        "Jeff Jenkins"
       ],
       "time" : "2:30 PM",
-      "title" : "The Servant Of The Lord (Isaiah 49–57)",
-      "track" : "",
-      "video" : "guawOte2zyM"
+      "title" : "Into The Word: The \"I Am\" Statements",
+      "track" : "into-the-word",
+      "video" : "bPDt5PPZ5M8"
     },
     {
       "day" : "saturday",
       "id" : "sat-21",
-      "room" : "Room 114",
+      "room" : "Auditorium",
       "speakers" : [
-        "Renita Archey"
+        "Wayne Jones"
       ],
-      "time" : "2:30 PM",
-      "title" : "Ladies: Reeling In Rebellion (Isaiah 1:2–4)",
-      "track" : "ladies",
-      "video" : "g-iBH5sef8E"
+      "time" : "3:30 PM",
+      "title" : "Loving To The Limit (Ch. 13)",
+      "track" : "",
+      "video" : "CAybu0sG2Nc"
     },
     {
       "day" : "saturday",
       "id" : "sat-22",
-      "room" : "Room 116",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Vince Daugherty"
+        "David Sproule"
       ],
-      "time" : "2:30 PM",
-      "title" : "Youth: Overcoming Discouragement (Isaiah 40:29–30)",
-      "track" : "youth",
-      "video" : "rZl4zqKOxw8"
+      "time" : "3:30 PM",
+      "title" : "Teacher Workshop (Adults–Teens), Part 2",
+      "track" : "teachers",
+      "video" : "8rLQj7kurnY"
     },
     {
       "day" : "saturday",
       "id" : "sat-23",
-      "room" : "Room 129",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Glenn Hitchcock",
-        "Bruce Daugherty",
-        "Allen Webster"
+        "Traci Sproule"
       ],
-      "time" : "2:30 PM",
-      "title" : "Roundtable Discussion On Church Challenges",
-      "track" : "roundtable",
-      "video" : "U6cfj6oyiL4"
+      "time" : "3:30 PM",
+      "title" : "Teacher Workshop (Children), Part 2",
+      "track" : "teachers",
+      "video" : "IUAnFjvP7jM"
     },
     {
       "day" : "saturday",
       "id" : "sat-24",
-      "room" : "Auditorium",
+      "room" : "Tent",
       "speakers" : [
-        "Bart Warren"
+        "Chris McCurley"
       ],
       "time" : "3:30 PM",
-      "title" : "The Future Glory Of God's People (Isaiah 58–66)",
-      "track" : "",
-      "video" : "8eOCGgnAqLE"
+      "title" : "Young Adult: Living A Life Of Faith Right Now",
+      "track" : "young-adults",
+      "video" : "L-6Qe9-BrqU"
     },
     {
       "day" : "saturday",
       "id" : "sat-25",
-      "room" : "Room 114",
-      "speakers" : [
-        "Eddie Parrish"
-      ],
-      "time" : "3:30 PM",
-      "title" : "Leadership: Avoiding Arrogance In Times Of Success (Isaiah 39)",
-      "track" : "leadership",
-      "video" : "WhnztE7bVeI"
-    },
-    {
-      "day" : "saturday",
-      "id" : "sat-26",
-      "room" : "Room 116",
-      "speakers" : [
-        "Matt Wallin"
-      ],
-      "time" : "3:30 PM",
-      "title" : "Youth: Beholding The Glory Of The Lord In Evangelism (1 Chronicles 16:24)",
-      "track" : "youth",
-      "video" : "qpjndEcRFbw"
-    },
-    {
-      "day" : "saturday",
-      "id" : "sat-27",
-      "room" : "Room 129",
-      "speakers" : [
-        "Bruce Daugherty",
-        "John Moore",
-        "Mike Vestal"
-      ],
-      "time" : "3:30 PM",
-      "title" : "Roundtable Discussion On Marriage And Family",
-      "track" : "roundtable",
-      "video" : "I9b0x_sNvgg"
-    },
-    {
-      "day" : "saturday",
-      "id" : "sat-28",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -720,122 +689,134 @@
       "time" : "6:00 PM",
       "title" : "Singing",
       "track" : "singing",
-      "video" : "Yxocg__HT18"
+      "video" : "qXuxxziGEqU"
     },
     {
       "day" : "saturday",
-      "id" : "sat-29",
+      "id" : "sat-26",
       "room" : "Auditorium",
       "speakers" : [
-        "Mike Vestal"
+        "Jeff Jenkins"
       ],
       "time" : "6:30 PM",
-      "title" : "\"Jesus, Name Above All Names\" (Isaiah 7)",
+      "title" : "John The Purpose: The Reason John Wrote His Gospel (20:30–31)",
       "track" : "",
-      "video" : "p9ZQjK-CNAI"
+      "video" : "Nv4vtIDBYLI"
     },
     {
       "day" : "saturday",
-      "id" : "sat-30",
+      "id" : "sat-27",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
       ],
-      "time" : "7:15 PM",
-      "title" : "\"Beholding The Glory Of The Lord, Being Transformed\" (2 Corinthians 3:18)",
+      "time" : "7:00 PM",
+      "title" : "Faith Is The Victory That Overcomes The World",
       "track" : "",
-      "video" : "BenjY_tbQrQ"
+      "video" : "XLGuAnUrDQ0"
     },
     {
       "day" : "sunday",
       "id" : "sun-1",
       "room" : "Auditorium",
       "speakers" : [
-        "Dan Winkler"
+        "Neal Pollard"
       ],
       "time" : "8:30 AM",
-      "title" : "Meaningful Messianic Messages From Isaiah (Part 3)",
+      "title" : "The Coming Of The Spirit (Ch. 14–16)",
       "track" : "",
-      "video" : "mYpfWJ_QfnI"
+      "video" : "TN2oz0vrEXg"
     },
     {
       "day" : "sunday",
       "id" : "sun-2",
       "room" : "Auditorium",
       "speakers" : [
-        "Wayne Burger"
+        "Mike Vestal"
       ],
       "time" : "9:30 AM",
-      "title" : "What To Do When You Feel God Has Abandoned You (Isaiah 40:27)",
+      "title" : "The Lord's Prayer (Ch. 17)",
       "track" : "",
-      "video" : "7L6IAadSwaE"
+      "video" : "m2bv3d9JVz4"
     },
     {
       "day" : "sunday",
       "id" : "sun-3",
-      "room" : "Room 114",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Cherie Vestal"
+        "Glenn Hitchcock"
       ],
       "time" : "9:30 AM",
-      "title" : "Ladies: Why Women Should Be Serious Students Of The Bible (Isaiah 8:3, 34:16)",
-      "track" : "ladies",
-      "video" : "tuKdwStQEUo"
+      "title" : "The Jesus Who Welcomes You Home (21:9–19)",
+      "track" : "",
+      "video" : "JU_TWtlSDKc"
     },
     {
       "day" : "sunday",
       "id" : "sun-4",
-      "room" : "Room 116",
+      "room" : "Multipurpose Room",
       "speakers" : [
-        "Jerry Elder"
+        "Vince Daugherty"
       ],
       "time" : "9:30 AM",
-      "title" : "Youth: Glorifying God In Your Body And Your Spirit (1 Corinthians 6:19–20)",
+      "title" : "Youth: What Young People Bring To Jesus",
       "track" : "youth",
-      "video" : "HAVii0abNQI"
+      "video" : "GdlEMlF541I"
     },
     {
       "day" : "sunday",
       "id" : "sun-5",
       "room" : "Auditorium",
       "speakers" : [
-        "Wayne Jones"
+        "Scott Cain"
       ],
       "time" : "10:30 AM",
-      "title" : "\"Teach Me Lord To Wait\" (Isaiah 40:31)",
+      "title" : "Behold The Man! (Ch. 18–19)",
       "track" : "",
-      "video" : "KDyg1_lZJzk"
+      "video" : "qUGHlFvRa18"
     },
     {
       "day" : "sunday",
       "id" : "sun-6",
       "room" : "Auditorium",
       "speakers" : [
-        "Neal Pollard"
+        "Andy Baker"
+      ],
+      "time" : "3:00 PM",
+      "title" : "Singing Workshop",
+      "track" : "singing",
+      "video" : "vCBL-3oFIfc"
+    },
+    {
+      "day" : "sunday",
+      "id" : "sun-7",
+      "room" : "Auditorium",
+      "speakers" : [
+        "Dan Winkler"
       ],
       "time" : "6:00 PM",
-      "title" : "\"To God Be The Glory Forever\" (Romans 11:33–36)",
+      "title" : "Jesus Is Lord! (Ch. 20–21)",
       "track" : "",
-      "video" : "86BQDgC3aEM"
+      "video" : "v1iAf7hQ-MQ"
     }
   ],
   "speakerBios" : {
+    "Andrew Itson" : "Andrew is married to Lauri Ann and they have three children, two boys, Crews and Cameron, and one girl, Dawson. He began working with the Madison Church of Christ in June of 2021. Before Andrew came to Madison he was the preaching minister at the Robertsdale Church of Christ in Robertsdale, AL and the Campus Minister at the University Church of Christ in Montgomery, AL. Andrew graduated with a Master of Arts in Biblical Studies from Faulkner University and a PhD in Leadership in Ministry and Religion from the University of the Cumberlands. Andrew is on the board of Agape of Central Alabama.",
     "Andy Baker" : "Andy Baker is the local preacher at the Arnold church of Christ in Arnold, Missouri. He is a former public school teacher, a former youth minister, and a former opera and musical singer. He holds a Bachelor of Music with a double major in English, and also a Master of Arts in Music Education from Stephen F. Austin State University. He taught public school in Plano, Texas for a few years before attending Southwest School of Bible Studies in Austin, Texas in 2006. With his beautiful wife, Kathryn they have two sweet daughters and a wonderful boy.",
     "Bart Warren" : "Bart has been preaching full-time since 2003 and has served congregations in Tennessee and Kentucky (at the South Green Street Church of Christ in Glasgow, KY since 2010). He has taught at preacher training schools in both Tennessee (Southeast Institute of Biblical Studies) and Colorado (Bear Valley Bible Institute). He is Vice-President of Warren Christian Apologetics Center and is the associate editor of an apologetics journal, Sufficient Evidence.\n\nHe is married to Laura (Hanstein), and they have three boys: Ike & Jet (twins) and Jake.",
-    "Bill Burk" : "Bill is a 1993 graduate of the Browntrail School of Preaching and has served as an adjunct teacher there since 1995. He has preached for three congregations in Texas: Rendon (1994–1997), Seagoville (1997–2010), and the Crandall Church of Christ (2011 until present). He is a 2024 graduate of South African Theological Seminary with a Bachelor of Theology.\n\nBill is married to Leda, and they have three daughters, BreAnna, Bella, and Brook.",
-    "Caleb Colley" : "Caleb Colley is the pulpit minister for the North Jackson Church of Christ in Jackson, Tennessee. He is a graduate of Freed-Hardeman University, where he received a B.A. in communication, a B.S. in biblical studies (2006), and an M.A. in New Testament (2021). He also received a Master's degree in humanities from Faulkner University, and a Ph.D. in philosophy from the University of South Carolina (2014). Caleb has taught in the Graduate School of Theology at FHU, the Georgia School of Preaching, and in the Philosophy Department at the University of South Carolina. He is married to the former Rebekah Meinsen, and they have a daughter (Maggie) and a son (Ellis).",
     "Carla Moore" : "Carla grew up in a family dedicated to ministry, then met John while they were in college at Texas State University. They married in 1986, and have since been involved in ministry at the Bible Chair on the campus of TSU, then with the Southwest School of Bible Studies in Austin and then with the Dripping Springs church of Christ in Dripping Springs, Texas. They currently work with the Bear Valley Bible Institute. Carla taught for more than ten years in the Christian Women's Studies program at the Southwest School of Bible Studies and currently teaches in the women's program at Bear Valley Bible Institute. She enjoys speaking to women of all ages in various places, and is a staff writer for Christian Woman. She is the author of the blog Walking Where Jesus Walked and The Scripture Writing Project.",
     "Dan Winkler" : "Dan Winkler was born in Port Arthur, TX, the eldest son of Wendell and Betty Winkler. In 1971, he married his high school sweetheart, Diane, and the Lord blessed them with the joy of raising three wonderful sons.\n\nDan graduated from Oklahoma Christian College with a BA in Bible, minoring in Greek and Speech. He secured his Masters degree from David Lipscomb College with an emphasis in New Testament studies. He has been preaching since 1969 and also served as a member of the Freed-Hardeman University Bible faculty for almost a decade and a half before retiring in 2018.\n\nBrother Dan has authored twenty books, serves as Question and Answer editor for the Magnolia Messenger, and co-hosts the popular podcast Today With Jesus, viewed by thousands in twenty-five different countries.",
     "Glenn Hitchcock" : "Glenn Hitchcock was born in Newport News, Va. He is married to the former Mercedes Dowson (51 years) and they have one daughter, Lauren. The Hitchcocks resided in Hampton, Virginia and are members of the Peninsula church of Christ where Glenn served as one of her elders.\n\nGlenn is a 1982 graduate of the Memphis School of Preaching and a 1988 graduate of Saint Leo College with a B.A. He completed graduate education in 1995 from Norfolk State University School of Social Work. Glenn is a United States honorably discharged Air Force veteran (1972–1980).\n\nSince 1996, Glenn has edited a weekly devotional, \"Thoughts For Today To Brighten Your Day.\" Glenn retired from healthcare in 2019, and he still conducts meetings, marriage seminars and workshops as his schedule permits.",
     "John Moore" : "A native of Dripping Springs, Texas, John has served as an evangelist, teacher, preacher and minister of the gospel for over 30 years. He and his wife Carla are working with Bear Valley Bible Institute International, and serve as the directors of Bible Passages, a ministry dedicated to training preachers, equipping the saints, defending the faith, and guiding souls to Jesus. He is the narrator and author of both the book and video Searching For Truth, and directs the Bible Land Passages Project. Since 1986 John has preached in Gospel Meetings in over eighteen states, and has conducted or participated in yearly campaigns to various foreign countries including Jamaica, Tobago, Malaysia, and Singapore.\n\nJohn and Carla have three sons and five grandchildren.",
+    "Justin Rogers" : "Dr. Justin Rogers is a graduate of both Freed-Hardeman University and Hebrew Union College. A FHU faculty member since 2010, he served as Director of the Graduate School of Theology for five years and currently serves as Dean of the College of Biblical Studies. He also fills the role of pulpit minister for the Broad Street Church of Christ in Lexington, TN.\n\nJustin and his wife Ashli have been married since 2006, and have three children: Caleb, Chelsea and Camryn.",
     "Kathy Pollard" : "Kathy is married to Neal Pollard, who preaches for the Lehman Ave. church of Christ in Bowling Green, KY. They have three grown sons, all married, and two new grandsons with another grandchild on the way! Kathy attended Faulkner University and Bear Valley Bible Institute and has a bachelor's degree in Bible. She is a writer for Christian Woman magazine, contributes the Bible-marking feature at comefillyourcup.com, and is the author of the book Return to Me…What to Do When Loved Ones Fall Away. She and Carla Moore host a weekly podcast for Christian women called Looking Up. Kathy enjoys spending time with family, traveling to Israel, tending her gardens, and getting to know her new dairy cow, Peaches.",
+    "Lori Boyd" : "Lori Boyd is from Murfreesboro, Tennessee and attends the East Main church of Christ. She and her husband, Sam, were married in 1998 and have three children, Evie, Kate, and Briggs. Lori is a Registered Nurse and a high school teacher at Middle Tennessee Christian School, where she teaches Honors Anatomy and Forensics. She is currently pursuing a Master of Arts in Christian Scripture at Heritage Christian University.\n\nLori has been a writer for Think, Tennessee Home and Farm, and Christian Woman magazines. She has written four books: Trailblazers, Walking to the Promised Land, Hope Island, and Praying Through It; all made available through Kaio Publications. She is part of the Ministry League team and a board member of World Bible School. She loves public speaking and teaching Bible classes and presents regularly at workshops and ladies' events.",
     "Mike Vestal" : "Mike has served the Westside congregation in Midland, TX for almost 24 years. He and his wife Cherie met at Freed-Hardeman University and they have been married since 1983. They are blessed with 2 children and 4 grandchildren. Their son David preaches for the Lord's church in Mathis, TX. Mike has preached in 37 different states and in 6 foreign countries. He often speaks on brotherhood programs such as PTP and Focal Point. Mike currently serves as an adjunct instructor at Bear Valley Bible Institute in Denver, CO.",
-    "Parker Webster" : "Parker is the preaching minister for the North Lexington Church of Christ in Lexington, KY. Prior to living in Kentucky, he served as the minister for the Carriage Oaks church of Christ in Bossier City, LA. Parker is the son of Wade and Jennifer Webster. He is married to the former Sabrina Rodriguez of Arlington, Texas. Parker is a graduate of the Southwest School of Biblical Studies in Austin, Texas and Harbinger Theological Seminary in Nashville, TN. Sabrina graduated from Texas State University with an Accounting degree. Parker and Sabrina recently welcomed their first child, Greyson Wade.",
     "Richard Melson" : "Richard D. Melson is a native of Buffalo, NY and has preached the gospel since 1981. He serves as the evangelist at the Needmore Road church of Christ, Dayton, Ohio. He is a former elder in the Lord's church. Richard is an instructor at the Central Carolina School of Preaching (Sumter, SC), and is the host of Landmarks For Living, a radio program in Dayton. He has done campaign work in various countries, spoken on numerous brotherhood lectureships and held many gospel meetings in various states over the years.\n\nRichard and Valerie (Miller) have been married since 1979 and have four children who are all members of the Lord's church, and seven grandchildren.",
-    "Tim Lewis" : "Tim is a graduate of Oklahoma Christian University. He graduated in 1993 with a degree in English Education and obtained his Master's Degree in Ministry in 1998. He served as the Preacher/Youth Minister for the Mt. Vernon church of Christ in Mt. Vernon, Missouri for 8 years before moving to Oklahoma City to begin his work with the North MacArthur congregation in 2004. He has written a book entitled The Domino Effect: Changing Your Life One Decision at a Time. Tim and his wife, Tawni, have two daughters, Macy and Callie, and one son Ryder."
+    "Steve Higginbotham" : "Steve Higginbotham is a native of West Virginia and a 1984 graduate of Freed-Hardeman University. He preached in Nitro, WV for five years, Glasgow, KY for 21 years, and for the past 14 years with the Karns congregation in Knoxville, TN. He and his wife Kim have four children and two grandchildren."
   },
-  "theme" : "Isaiah",
-  "themeSubtitle" : "Beholding the Glory of the Lord",
+  "theme" : "Gospel of John",
+  "themeSubtitle" : "Living Faith",
   "timeZoneID" : "America/Chicago",
   "tracks" : [
     {
@@ -853,8 +834,8 @@
     {
       "color" : "pink",
       "icon" : "heart.fill",
-      "id" : "ladies",
-      "name" : "Ladies"
+      "id" : "women",
+      "name" : "Women"
     },
     {
       "color" : "green",
@@ -863,22 +844,34 @@
       "name" : "Youth"
     },
     {
+      "color" : "teal",
+      "icon" : "person.2.fill",
+      "id" : "young-adults",
+      "name" : "Young Adult"
+    },
+    {
       "color" : "orange",
       "icon" : "person.3.fill",
       "id" : "leadership",
       "name" : "Leadership"
     },
     {
-      "color" : "indigo",
-      "icon" : "text.quote",
-      "id" : "text-questions",
-      "name" : "Text Questions"
+      "color" : "blue",
+      "icon" : "text.bubble.fill",
+      "id" : "preaching",
+      "name" : "Preaching"
     },
     {
-      "color" : "teal",
-      "icon" : "bubble.left.and.bubble.right.fill",
-      "id" : "roundtable",
-      "name" : "Roundtable"
+      "color" : "indigo",
+      "icon" : "text.quote",
+      "id" : "into-the-word",
+      "name" : "Into The Word"
+    },
+    {
+      "color" : "brown",
+      "icon" : "graduationcap.fill",
+      "id" : "teachers",
+      "name" : "Teacher Workshop"
     }
   ],
   "vendorAreaNote" : "",
@@ -888,11 +881,11 @@
   "venue" : {
     "address" : "",
     "email" : "",
-    "name" : "Cumberland Trace church of Christ",
+    "name" : "Lehman Avenue church of Christ",
     "phone" : "",
     "podcastURL" : "https://podcasts.apple.com/us/podcast/cumberland-trace-church-of-christ-formerly-lehman/id1456554619",
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
-  "year" : 2025
+  "year" : 2024
 }
