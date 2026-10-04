@@ -20,7 +20,7 @@ import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SESSION_FIELDS = ["day", "time", "title", "speakers", "room", "track",
-                  "details", "video", "podcast", "podbean"]
+                  "minutes", "details", "video", "podcast", "podbean"]
 
 
 def committed(path, base):

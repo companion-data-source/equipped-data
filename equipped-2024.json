@@ -60,7 +60,7 @@
   "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2024.",
   "registrationInfo" : "Equipped 2024 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive-2",
+  "revision" : "archive-3",
   "rooms" : [
     "Auditorium",
     "Multipurpose Room",
@@ -924,6 +924,7 @@
   "venue" : {
     "address" : "",
     "email" : "",
+    "mapImage" : "",
     "name" : "Lehman Avenue church of Christ",
     "phone" : "",
     "podcastURL" : "https://podcasts.apple.com/us/podcast/cumberland-trace-church-of-christ-formerly-lehman/id1456554619",

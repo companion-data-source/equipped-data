@@ -61,7 +61,9 @@ in `tracks`, `time` is `"6:30 PM"` style):
 ```
 
 - **Not decided yet? Say so, don't guess.** An unassigned room is the
-  literal `"room": "TBA"`; an unknown speaker is `"speakers": []`; a class
+  literal `"room": "TBA"` (newer app builds then show no room chip and
+  don't link to a "TBA" room; older ones show a "TBA" chip, so keep the
+  word rather than a blank); an unknown speaker is `"speakers": []`; a class
   the schedule doesn't put in a track is `"track": ""` — keep the key, old
   app builds require it (they show such a class under the first track; newer
   builds show no track label). That's why 2027's `tracks` still starts
@@ -69,10 +71,26 @@ in `tracks`, `time` is `"6:30 PM"` style):
   builds label those classes "Singing".
 - **Nothing to list yet?** Leave `hotels`, `foodTrucks` or `vendors` as an
   empty list and put the "coming soon" sentence in its note (`lodgingNote`,
-  `foodTrucksNote`, `vendorAreaNote`); the Info tab shows the note in the
-  list's place. Once the event is over, blank those notes — an archive year
+  `foodTrucksNote`, `vendorAreaNote`); the app shows the note in the list's
+  place (lodging on the Info tab, food trucks and vendors on the Venue tab). Once the event is over, blank those notes — an archive year
   with an empty list and a leftover note would show the note. (Older app
   builds simply hide an empty section.)
+- **How long a class runs** decides the Schedule's "Now" and "Up Next"
+  marks during the event. Nothing needs stating in the usual case: a class
+  runs 40 minutes, or until the day's next time slot if that starts
+  sooner (which is how the 15-minute classes around Saturday lunch come
+  out right). To change the usual length for a year, add
+  `"sessionMinutes": 45` at the top of the file. For one class that
+  differs, such as a long Sunday worship, add `"minutes": 75` to that
+  session. If two time slots ever overlap, give the longer class its
+  `minutes`, or it will be cut off where the next slot starts. Older app
+  builds ignore both keys.
+- `venue.mapImage` names the building map the Venue tab shows, by its
+  name in the app's asset catalog. Leave the key out for the current
+  building (the app then uses `BuildingMap`). A year held somewhere else
+  gets `"mapImage": ""`, which means no map: 2023 and 2024 were at Lehman
+  Avenue, and without it they showed Cumberland Trace's. Older app builds
+  ignore the key and show the current map for every year.
 - `video` is a YouTube video id; `podcast` is an Apple Podcasts episode
   id. Add them after the event as recordings post.
 - `podbean` is the episode's slug on the Equipped Workshop podcast site
