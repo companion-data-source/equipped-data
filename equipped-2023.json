@@ -52,36 +52,26 @@
   "nearbyRestaurantsNote" : "",
   "pastPlaylists" : [
     {
-      "name" : "Equipped 2026 — Genesis",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_PEx4CRp23BX0I6ROJ57YJ"
-    },
-    {
-      "name" : "Equipped 2025 — Book of Isaiah",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS578zd-osgusMMl-x2cvb356w"
-    },
-    {
-      "name" : "Equipped 2024 — Gospel of John",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57-f64A4gRQRIrrFFpl2lKuj"
-    },
-    {
       "name" : "Equipped 2023 — Book of James",
       "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
     }
   ],
-  "placeholderNote" : "Some 2023 class times were reconstructed from the recordings and may be off. The recordings themselves are the right ones.",
+  "placeholderNote" : null,
   "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2023.",
   "registrationInfo" : "Equipped 2023 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive",
+  "revision" : "archive-2",
   "rooms" : [
     "Auditorium",
-    "Multipurpose Room"
+    "Multipurpose Room",
+    "Upstairs"
   ],
-  "scheduleIsPlaceholder" : true,
+  "scheduleIsPlaceholder" : false,
   "sessions" : [
     {
       "day" : "thursday",
       "id" : "thu-1",
+      "podbean" : "james-from-skeptic-to-believer-by-bart-warren",
       "room" : "Auditorium",
       "speakers" : [
         "Bart Warren"
@@ -94,6 +84,7 @@
     {
       "day" : "thursday",
       "id" : "thu-2",
+      "podbean" : "trust-in-the-lord-with-all-your-heart-by-chris-mccurley",
       "room" : "Auditorium",
       "speakers" : [
         "Chris McCurley"
@@ -106,6 +97,7 @@
     {
       "day" : "friday",
       "id" : "fri-1",
+      "podbean" : "study-of-james-triumph-through-trials-by-dan-owen",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Owen"
@@ -118,6 +110,7 @@
     {
       "day" : "friday",
       "id" : "fri-2",
+      "podbean" : "for-leaders-leadership-lessons-from-james-the-man-by-neal-pollard",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Neal Pollard"
@@ -130,6 +123,7 @@
     {
       "day" : "friday",
       "id" : "fri-3",
+      "podbean" : "study-of-james-the-truth-about-temptation-garrett-bookout",
       "room" : "Auditorium",
       "speakers" : [
         "Garrett Bookout"
@@ -142,6 +136,7 @@
     {
       "day" : "friday",
       "id" : "fri-4",
+      "podbean" : "for-preachers-sermons-you-can-preach-from-the-book-of-james-by-mike-vestal",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Mike Vestal"
@@ -154,6 +149,7 @@
     {
       "day" : "friday",
       "id" : "fri-5",
+      "podbean" : "for-leaders-resources-to-help-the-struggling-by-glenn-hitchcock",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Glenn Hitchcock"
@@ -166,6 +162,7 @@
     {
       "day" : "friday",
       "id" : "fri-6",
+      "podbean" : "study-of-james-how-to-respond-to-gods-word-doug-burleson",
       "room" : "Auditorium",
       "speakers" : [
         "Doug Burleson"
@@ -178,6 +175,7 @@
     {
       "day" : "friday",
       "id" : "fri-7",
+      "podbean" : "for-singles-serving-god-as-a-single-by-david-chang",
       "room" : "Multipurpose Room",
       "speakers" : [
         "David Chang"
@@ -190,11 +188,12 @@
     {
       "day" : "friday",
       "id" : "fri-8",
+      "podbean" : "ladies-the-life-and-lessons-from-elijah-s-nemesis-jezebel-carla-moore",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Carla Moore"
       ],
-      "time" : "11:00 AM",
+      "time" : "3:30 PM",
       "title" : "The Life And Lessons From Elijah's Nemesis: Jezebel",
       "track" : "ladies",
       "video" : "tm3ncjvEYpg"
@@ -202,6 +201,7 @@
     {
       "day" : "friday",
       "id" : "fri-9",
+      "podbean" : "study-of-james-be-doers-of-the-word-by-dawson-eubank",
       "room" : "Auditorium",
       "speakers" : [
         "Dawson Eubank"
@@ -214,6 +214,7 @@
     {
       "day" : "friday",
       "id" : "fri-10",
+      "podbean" : "study-of-james-purging-partiality-by-daniel-stearsman",
       "room" : "Auditorium",
       "speakers" : [
         "Daniel Stearsman"
@@ -226,6 +227,7 @@
     {
       "day" : "friday",
       "id" : "fri-11",
+      "podbean" : "for-leaders-how-do-you-know-when-you-re-ready-to-lead-by-scott-h",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Scott Harp"
@@ -237,6 +239,7 @@
     {
       "day" : "friday",
       "id" : "fri-12",
+      "podbean" : "study-of-james-fruitless-faith-by-dave-rogers",
       "room" : "Auditorium",
       "speakers" : [
         "Dave Rogers"
@@ -249,6 +252,7 @@
     {
       "day" : "friday",
       "id" : "fri-13",
+      "podbean" : "for-leaders-sermons-you-can-preach-from-the-book-of-james-mike-vestal",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Neal Pollard"
@@ -261,11 +265,12 @@
     {
       "day" : "friday",
       "id" : "fri-14",
+      "podbean" : "ladies-making-your-home-a-slice-of-heaven-by-katrina-stearsman",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Katrina Stearsman"
       ],
-      "time" : "2:30 PM",
+      "time" : "11:00 AM",
       "title" : "Making Your Home A Slice Of Heaven",
       "track" : "ladies",
       "video" : "VAOk3PbnOLI"
@@ -273,6 +278,7 @@
     {
       "day" : "friday",
       "id" : "fri-15",
+      "podbean" : "study-of-james-the-troublesome-tongue-by-ty-rhymes",
       "room" : "Auditorium",
       "speakers" : [
         "Ty Rhymes"
@@ -285,6 +291,7 @@
     {
       "day" : "friday",
       "id" : "fri-16",
+      "podbean" : "for-leaders-words-of-life-for-leaders-by-daniel-stearsman",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Daniel Stearsman"
@@ -297,11 +304,12 @@
     {
       "day" : "friday",
       "id" : "fri-17",
+      "podbean" : "ladies-doing-what-you-can-without-doing-it-all-kathy-pollard",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Kathy Pollard"
       ],
-      "time" : "3:30 PM",
+      "time" : "2:30 PM",
       "title" : "Doing What You Can Without Doing It All",
       "track" : "ladies",
       "video" : "M-WH8imd6s4"
@@ -309,6 +317,7 @@
     {
       "day" : "friday",
       "id" : "fri-18",
+      "podbean" : "study-of-james-worldly-wisdom-vs-godly-wisdom-mike-vestal",
       "room" : "Auditorium",
       "speakers" : [
         "Mike Vestal"
@@ -321,6 +330,7 @@
     {
       "day" : "friday",
       "id" : "fri-19",
+      "podbean" : "study-of-works-living-as-a-living-sacrifice-by-eric-owens",
       "room" : "Auditorium",
       "speakers" : [
         "Eric Owens"
@@ -333,6 +343,7 @@
     {
       "day" : "saturday",
       "id" : "sat-1",
+      "podbean" : "study-of-works-living-for-jesus-until-the-end-by-jerry-carmichael",
       "room" : "Auditorium",
       "speakers" : [
         "Jerry Carmichael"
@@ -345,6 +356,7 @@
     {
       "day" : "saturday",
       "id" : "sat-2",
+      "podbean" : "study-of-james-the-war-within-by-dale-pollard",
       "room" : "Auditorium",
       "speakers" : [
         "Dale Pollard"
@@ -357,6 +369,7 @@
     {
       "day" : "saturday",
       "id" : "sat-3",
+      "podbean" : "for-preachers-the-sermon-on-the-mount-james-by-doug-burleson",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Doug Burleson"
@@ -369,6 +382,7 @@
     {
       "day" : "saturday",
       "id" : "sat-4",
+      "podbean" : "for-youth-help-me-pray-by-jerry-elder",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Jerry Elder"
@@ -381,11 +395,12 @@
     {
       "day" : "saturday",
       "id" : "sat-5",
+      "podbean" : "for-ladies-launching-out-into-the-deep-by-cherie-vestal",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Cherie Vestal"
       ],
-      "time" : "9:00 AM",
+      "time" : "10:00 AM",
       "title" : "Launching Out Into The Deep",
       "track" : "ladies",
       "video" : "39_hVLytDc4"
@@ -393,6 +408,7 @@
     {
       "day" : "saturday",
       "id" : "sat-6",
+      "podbean" : "study-of-james-who-s-in-charge-by-brandon-rader",
       "room" : "Auditorium",
       "speakers" : [
         "Brandon Rader"
@@ -405,6 +421,7 @@
     {
       "day" : "saturday",
       "id" : "sat-7",
+      "podbean" : "for-youth-help-me-serve-by-tyler-alverson",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Tyler Alverson"
@@ -417,7 +434,8 @@
     {
       "day" : "saturday",
       "id" : "sat-8",
-      "room" : "Multipurpose Room",
+      "podbean" : "for-leaders-leadership-lessons-from-the-book-of-james-kirk-brothers",
+      "room" : "Upstairs",
       "speakers" : [
         "Kirk Brothers"
       ],
@@ -429,6 +447,7 @@
     {
       "day" : "saturday",
       "id" : "sat-9",
+      "podbean" : "study-of-james-warning-the-worldly-rich-by-adam-faughn",
       "room" : "Auditorium",
       "speakers" : [
         "Adam Faughn"
@@ -441,6 +460,7 @@
     {
       "day" : "saturday",
       "id" : "sat-10",
+      "podbean" : "for-parents-preparing-our-kids-for-adulthood-by-mike-vestal",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Mike Vestal"
@@ -453,6 +473,7 @@
     {
       "day" : "saturday",
       "id" : "sat-11",
+      "podbean" : "for-youth-help-me-study-by-hiram-kemp",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Hiram Kemp"
@@ -465,6 +486,7 @@
     {
       "day" : "saturday",
       "id" : "sat-12",
+      "podbean" : "for-preachers-for-leaders-prayer-in-ministry-leadership-by-bill-watkins",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Bill Watkins"
@@ -477,6 +499,7 @@
     {
       "day" : "saturday",
       "id" : "sat-13",
+      "podbean" : "study-of-james-speech-that-honors-god-by-caden-hammer",
       "room" : "Auditorium",
       "speakers" : [
         "Caden Hammer"
@@ -489,6 +512,7 @@
     {
       "day" : "saturday",
       "id" : "sat-14",
+      "podbean" : "study-of-james-a-word-of-fortitude-for-the-faithful-by-carl-pollard",
       "room" : "Auditorium",
       "speakers" : [
         "Carl Pollard"
@@ -501,6 +525,7 @@
     {
       "day" : "saturday",
       "id" : "sat-15",
+      "podbean" : "for-youth-stand-up-by-ty-rhymes",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Ty Rhymes"
@@ -513,6 +538,7 @@
     {
       "day" : "saturday",
       "id" : "sat-16",
+      "podbean" : "for-young-adults-how-jesus-supplies-your-greatest-needs-by-john-moore",
       "room" : "Multipurpose Room",
       "speakers" : [
         "John Moore"
@@ -525,6 +551,7 @@
     {
       "day" : "saturday",
       "id" : "sat-17",
+      "podbean" : "for-ladies-finding-freedom-from-your-past-by-brittani-kemp",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Brittani Kemp"
@@ -537,6 +564,7 @@
     {
       "day" : "saturday",
       "id" : "sat-18",
+      "podbean" : "study-of-james-godward-guidance-by-bud-woodall",
       "room" : "Auditorium",
       "speakers" : [
         "Bud Woodall"
@@ -549,6 +577,7 @@
     {
       "day" : "saturday",
       "id" : "sat-19",
+      "podbean" : "for-preachers-and-leaders-james-resolving-conflicts-by-glen-hitchcock",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Glenn Hitchcock"
@@ -561,6 +590,7 @@
     {
       "day" : "saturday",
       "id" : "sat-20",
+      "podbean" : "for-youth-stand-out-by-mike-vestal",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Mike Vestal"
@@ -573,7 +603,8 @@
     {
       "day" : "saturday",
       "id" : "sat-21",
-      "room" : "Multipurpose Room",
+      "podbean" : "for-young-adults-what-you-need-from-the-church-by-chris-mccurley",
+      "room" : "Upstairs",
       "speakers" : [
         "Chris McCurley"
       ],
@@ -585,6 +616,7 @@
     {
       "day" : "saturday",
       "id" : "sat-22",
+      "podbean" : "study-of-james-praying-like-elijah-by-neal-pollard",
       "room" : "Auditorium",
       "speakers" : [
         "Neal Pollard"
@@ -597,6 +629,7 @@
     {
       "day" : "saturday",
       "id" : "sat-23",
+      "podbean" : "for-youth-stand-together-by-robert-hatfield",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Robert Hatfield"
@@ -609,7 +642,8 @@
     {
       "day" : "saturday",
       "id" : "sat-24",
-      "room" : "Multipurpose Room",
+      "podbean" : "for-youth-what-the-church-needs-from-you-by-dean-miller",
+      "room" : "Upstairs",
       "speakers" : [
         "Dean Miller"
       ],
@@ -621,6 +655,7 @@
     {
       "day" : "saturday",
       "id" : "sat-25",
+      "podbean" : "for-ladies-words-to-live-or-die-by-by-emily-hatfield",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Emily Hatfield"
@@ -633,6 +668,7 @@
     {
       "day" : "saturday",
       "id" : "sat-26",
+      "podbean" : "study-of-james-god-s-rescue-mission-by-hiram-kemp",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
@@ -645,6 +681,7 @@
     {
       "day" : "saturday",
       "id" : "sat-27",
+      "podbean" : "study-of-works-serving-in-a-world-of-selfishness-by-kirk-brothers",
       "room" : "Auditorium",
       "speakers" : [
         "Kirk Brothers"
@@ -657,6 +694,7 @@
     {
       "day" : "sunday",
       "id" : "sun-1",
+      "podbean" : "finding-your-place-in-evangelism-by-hiram-kemp",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
@@ -669,6 +707,7 @@
     {
       "day" : "sunday",
       "id" : "sun-2",
+      "podbean" : "study-of-works-i-want-to-be-a-worker-for-the-lord-by-bill-watkins",
       "room" : "Auditorium",
       "speakers" : [
         "Bill Watkins"
@@ -681,6 +720,7 @@
     {
       "day" : "sunday",
       "id" : "sun-3",
+      "podbean" : "for-young-adults-where-will-you-be-in-five-years-by-doug-burleson",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Doug Burleson"
@@ -693,6 +733,7 @@
     {
       "day" : "sunday",
       "id" : "sun-4",
+      "podbean" : "for-youth-where-will-you-be-in-five-years-by-david-chang",
       "room" : "Multipurpose Room",
       "speakers" : [
         "David Chang"
@@ -705,6 +746,7 @@
     {
       "day" : "sunday",
       "id" : "sun-5",
+      "podbean" : "study-of-works-1st-century-faith-in-a-21st-century-world-by-dean-miller",
       "room" : "Auditorium",
       "speakers" : [
         "Dean Miller"
@@ -753,6 +795,7 @@
     {
       "day" : "sunday",
       "id" : "sun-9",
+      "podbean" : "study-of-works-unity-in-a-divided-world-by-bart-warren",
       "room" : "Auditorium",
       "speakers" : [
         "Bart Warren"
@@ -844,5 +887,15 @@
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
+  "womenSpeakers" : [
+    "Leah Faughn",
+    "Emily Hatfield",
+    "Brittani Kemp",
+    "Carla Moore",
+    "Kathy Pollard",
+    "Lisa Ripperton",
+    "Katrina Stearsman",
+    "Cherie Vestal"
+  ],
   "year" : 2023
 }

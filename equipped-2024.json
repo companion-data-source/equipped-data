@@ -52,27 +52,15 @@
   "nearbyRestaurantsNote" : "",
   "pastPlaylists" : [
     {
-      "name" : "Equipped 2026 — Genesis",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_PEx4CRp23BX0I6ROJ57YJ"
-    },
-    {
-      "name" : "Equipped 2025 — Book of Isaiah",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS578zd-osgusMMl-x2cvb356w"
-    },
-    {
       "name" : "Equipped 2024 — Gospel of John",
       "url" : "https://youtube.com/playlist?list=PL6RXulneS57-f64A4gRQRIrrFFpl2lKuj"
-    },
-    {
-      "name" : "Equipped 2023 — Book of James",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
     }
   ],
   "placeholderNote" : null,
   "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2024.",
   "registrationInfo" : "Equipped 2024 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive",
+  "revision" : "archive-2",
   "rooms" : [
     "Auditorium",
     "Multipurpose Room",
@@ -95,6 +83,7 @@
     {
       "day" : "thursday",
       "id" : "thu-2",
+      "podbean" : "john-the-perspective-grasping-johns-gospel-by-cliff-goodwin",
       "room" : "Auditorium",
       "speakers" : [
         "Cliff Goodwin"
@@ -107,6 +96,7 @@
     {
       "day" : "thursday",
       "id" : "thu-3",
+      "podbean" : "the-life-which-i-now-live-by-faith-by-gale-nelson",
       "room" : "Auditorium",
       "speakers" : [
         "Gale Nelson"
@@ -119,6 +109,7 @@
     {
       "day" : "friday",
       "id" : "fri-1",
+      "podbean" : "why-people-came-to-jesus-by-dan-winkler",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -131,6 +122,7 @@
     {
       "day" : "friday",
       "id" : "fri-2",
+      "podbean" : "the-lamb-of-god-by-andy-robison",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Robison"
@@ -143,6 +135,7 @@
     {
       "day" : "friday",
       "id" : "fri-3",
+      "podbean" : "leadership-preparing-for-the-future-by-cliff-goodwin",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Cliff Goodwin"
@@ -155,6 +148,7 @@
     {
       "day" : "friday",
       "id" : "fri-4",
+      "podbean" : "preaching-how-jesus-adapted-to-different-audiences-by-gale-nelson",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Gale Nelson"
@@ -167,6 +161,7 @@
     {
       "day" : "friday",
       "id" : "fri-5",
+      "podbean" : "the-master-of-weddings-and-worship-by-steve-higinbotham",
       "room" : "Auditorium",
       "speakers" : [
         "Steve Higginbotham"
@@ -179,6 +174,7 @@
     {
       "day" : "friday",
       "id" : "fri-6",
+      "podbean" : "into-the-word-the-logos-of-john-one-by-dan-winkler",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Dan Winkler"
@@ -191,6 +187,7 @@
     {
       "day" : "friday",
       "id" : "fri-7",
+      "podbean" : "women-submitting-to-his-lordship-like-mary-the-mother-of-jesus-by-kristy-woodall",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Kristy Woodall"
@@ -203,6 +200,7 @@
     {
       "day" : "friday",
       "id" : "fri-8",
+      "podbean" : "eternal-life-by-hiram-kemp",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
@@ -215,6 +213,7 @@
     {
       "day" : "friday",
       "id" : "fri-9",
+      "podbean" : "into-the-word-johns-favorite-words-and-themes-by-bud-woodall",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Bud Woodall"
@@ -227,6 +226,7 @@
     {
       "day" : "friday",
       "id" : "fri-10",
+      "podbean" : "children-of-light-and-children-of-darkness-by-barry-grider",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Barry Grider"
@@ -239,6 +239,7 @@
     {
       "day" : "friday",
       "id" : "fri-11",
+      "podbean" : "sanctify-them-through-your-truth-by-kason-eubanks",
       "room" : "Auditorium",
       "speakers" : [
         "Kason Eubanks"
@@ -251,6 +252,7 @@
     {
       "day" : "friday",
       "id" : "fri-12",
+      "podbean" : "good-news-for-thirsty-people-by-glen-hitchcock",
       "room" : "Auditorium",
       "speakers" : [
         "Glenn Hitchcock"
@@ -263,6 +265,7 @@
     {
       "day" : "friday",
       "id" : "fri-13",
+      "podbean" : "youth-do-you-know-jesus-by-ty-rhymes",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Ty Rhymes"
@@ -275,6 +278,7 @@
     {
       "day" : "friday",
       "id" : "fri-14",
+      "podbean" : "women-the-woman-of-samaria-by-lori-boyd",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Lori Boyd"
@@ -287,6 +291,7 @@
     {
       "day" : "friday",
       "id" : "fri-15",
+      "podbean" : "the-light-of-the-world-by-wayne-jones",
       "room" : "Auditorium",
       "speakers" : [
         "Wayne Jones"
@@ -299,6 +304,7 @@
     {
       "day" : "friday",
       "id" : "fri-16",
+      "podbean" : "into-the-word-the-seven-signs-of-johns-gospel-by-neal-pollard",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Neal Pollard"
@@ -311,6 +317,7 @@
     {
       "day" : "friday",
       "id" : "fri-17",
+      "podbean" : "preaching-bringing-the-gospel-of-john-to-life-through-geography-by-john-moore",
       "room" : "Multipurpose Room",
       "speakers" : [
         "John Moore"
@@ -323,6 +330,7 @@
     {
       "day" : "friday",
       "id" : "fri-18",
+      "podbean" : "the-bread-of-life-by-richard-melson",
       "room" : "Auditorium",
       "speakers" : [
         "Richard Melson"
@@ -335,6 +343,7 @@
     {
       "day" : "friday",
       "id" : "fri-19",
+      "podbean" : "leadership-shepherd-leadership-by-andy-robison",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Andy Robison"
@@ -347,6 +356,7 @@
     {
       "day" : "friday",
       "id" : "fri-20",
+      "podbean" : "women-marry-magdalene-by-alicia-bookout",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Alicia Bookout"
@@ -371,6 +381,7 @@
     {
       "day" : "friday",
       "id" : "fri-22",
+      "podbean" : "john-the-person-the-disciple-whom-jesus-loved-a-closer-look-at-a-john-the-man-by-dan-winkler",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -383,6 +394,7 @@
     {
       "day" : "friday",
       "id" : "fri-23",
+      "podbean" : "we-walk-by-faith-and-not-by-sight-by-wade-webster",
       "room" : "Auditorium",
       "speakers" : [
         "Wade Webster"
@@ -395,6 +407,7 @@
     {
       "day" : "saturday",
       "id" : "sat-1",
+      "podbean" : "living-water-by-eric-garner",
       "room" : "Auditorium",
       "speakers" : [
         "Eric Garner"
@@ -407,6 +420,7 @@
     {
       "day" : "saturday",
       "id" : "sat-2",
+      "podbean" : "preacher-leadership-burnout-by-steve-higginbotham",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Steve Higginbotham"
@@ -419,6 +433,7 @@
     {
       "day" : "saturday",
       "id" : "sat-3",
+      "podbean" : "the-truth-will-set-you-free-by-wade-webster",
       "room" : "Auditorium",
       "speakers" : [
         "Wade Webster"
@@ -431,6 +446,7 @@
     {
       "day" : "saturday",
       "id" : "sat-4",
+      "podbean" : "into-the-word-where-does-john-753-811-fit-or-does-it-fit-by-bart-warren",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Bart Warren"
@@ -443,6 +459,7 @@
     {
       "day" : "saturday",
       "id" : "sat-5",
+      "podbean" : "women-the-woman-caught-in-adultery-by-kathryn-baker",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Kathryn Baker"
@@ -455,6 +472,7 @@
     {
       "day" : "saturday",
       "id" : "sat-6",
+      "podbean" : "youth-how-faith-will-help-me-by-andrew-itson",
       "room" : "Tent",
       "speakers" : [
         "Andrew Itson"
@@ -467,6 +485,7 @@
     {
       "day" : "saturday",
       "id" : "sat-7",
+      "podbean" : "the-difference-between-light-and-darkness-by-bud-woodall",
       "room" : "Auditorium",
       "speakers" : [
         "Bud Woodall"
@@ -479,6 +498,7 @@
     {
       "day" : "saturday",
       "id" : "sat-8",
+      "podbean" : "leadership-preaching-learning-mentoring-and-discipling-from-jesus-by-mike-vestal",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Mike Vestal"
@@ -491,6 +511,7 @@
     {
       "day" : "saturday",
       "id" : "sat-9",
+      "podbean" : "youth-learning-prayer-from-jesus-by-eric-d-garner",
       "room" : "Tent",
       "speakers" : [
         "Eric Garner"
@@ -503,6 +524,7 @@
     {
       "day" : "saturday",
       "id" : "sat-10",
+      "podbean" : "the-good-shepherd-by-andrew-itson",
       "room" : "Auditorium",
       "speakers" : [
         "Andrew Itson"
@@ -526,6 +548,7 @@
     {
       "day" : "saturday",
       "id" : "sat-12",
+      "podbean" : "youth-how-john-helps-me-be-a-better-bible-student-by-justin-rogers",
       "room" : "Tent",
       "speakers" : [
         "Justin Rogers"
@@ -538,6 +561,7 @@
     {
       "day" : "saturday",
       "id" : "sat-13",
+      "podbean" : "love-one-another-by-maddox-wilson",
       "room" : "Auditorium",
       "speakers" : [
         "Maddox Wilson"
@@ -549,6 +573,7 @@
     {
       "day" : "saturday",
       "id" : "sat-14",
+      "podbean" : "friend-of-the-family-by-justin-rogers",
       "room" : "Auditorium",
       "speakers" : [
         "Justin Rogers"
@@ -561,6 +586,7 @@
     {
       "day" : "saturday",
       "id" : "sat-15",
+      "podbean" : "women-looking-up-with-kathy-and-carla-by-kathy-pollard-and-carla-moore",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Kathy Pollard",
@@ -574,6 +600,7 @@
     {
       "day" : "saturday",
       "id" : "sat-16",
+      "podbean" : "youth-how-the-descriptions-of-jesus-in-john-can-help-my-faith-by-scott-cain",
       "room" : "Tent",
       "speakers" : [
         "Scott Cain"
@@ -586,6 +613,7 @@
     {
       "day" : "saturday",
       "id" : "sat-17",
+      "podbean" : "gods-grand-entrance-by-john-moore",
       "room" : "Auditorium",
       "speakers" : [
         "John Moore"
@@ -598,6 +626,7 @@
     {
       "day" : "saturday",
       "id" : "sat-18",
+      "podbean" : "teacher-workshop-for-adults-teens-by-david-sproule-part-1",
       "room" : "Multipurpose Room",
       "speakers" : [
         "David Sproule"
@@ -610,6 +639,7 @@
     {
       "day" : "saturday",
       "id" : "sat-19",
+      "podbean" : "teacher-workshop-for-children-by-traci-sproule-part-1",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Traci Sproule"
@@ -622,6 +652,7 @@
     {
       "day" : "saturday",
       "id" : "sat-20",
+      "podbean" : "into-the-word-the-i-am-statements-by-jeff-jenkins",
       "room" : "Tent",
       "speakers" : [
         "Jeff Jenkins"
@@ -634,6 +665,7 @@
     {
       "day" : "saturday",
       "id" : "sat-21",
+      "podbean" : "loving-to-the-limit-by-wayne-jones",
       "room" : "Auditorium",
       "speakers" : [
         "Wayne Jones"
@@ -646,6 +678,7 @@
     {
       "day" : "saturday",
       "id" : "sat-22",
+      "podbean" : "teacher-workshop-for-adults-teens-by-david-sproule-part-2",
       "room" : "Multipurpose Room",
       "speakers" : [
         "David Sproule"
@@ -658,6 +691,7 @@
     {
       "day" : "saturday",
       "id" : "sat-23",
+      "podbean" : "teacher-workshop-for-children-by-traci-sproule-part-2",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Traci Sproule"
@@ -670,6 +704,7 @@
     {
       "day" : "saturday",
       "id" : "sat-24",
+      "podbean" : "teen-living-a-life-of-faith-right-now-by-chris-mccurley",
       "room" : "Tent",
       "speakers" : [
         "Chris McCurley"
@@ -694,6 +729,7 @@
     {
       "day" : "saturday",
       "id" : "sat-26",
+      "podbean" : "john-the-purpose-the-reason-john-wrote-his-gospel-by-jeff-jenkins",
       "room" : "Auditorium",
       "speakers" : [
         "Jeff Jenkins"
@@ -706,6 +742,7 @@
     {
       "day" : "saturday",
       "id" : "sat-27",
+      "podbean" : "faith-is-the-victory-that-overcomes-the-world-by-hiram-kemp",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
@@ -718,6 +755,7 @@
     {
       "day" : "sunday",
       "id" : "sun-1",
+      "podbean" : "the-coming-of-the-spirit-by-neal-pollard",
       "room" : "Auditorium",
       "speakers" : [
         "Neal Pollard"
@@ -730,6 +768,7 @@
     {
       "day" : "sunday",
       "id" : "sun-2",
+      "podbean" : "the-lords-prayer-by-mike-vestal",
       "room" : "Auditorium",
       "speakers" : [
         "Mike Vestal"
@@ -742,6 +781,7 @@
     {
       "day" : "sunday",
       "id" : "sun-3",
+      "podbean" : "the-jesus-who-welcomes-you-home-by-glen-hitchcock",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Glenn Hitchcock"
@@ -754,6 +794,7 @@
     {
       "day" : "sunday",
       "id" : "sun-4",
+      "podbean" : "teen-what-young-people-bring-to-jesus-by-vince-daugherty",
       "room" : "Multipurpose Room",
       "speakers" : [
         "Vince Daugherty"
@@ -766,6 +807,7 @@
     {
       "day" : "sunday",
       "id" : "sun-5",
+      "podbean" : "behold-the-man-by-scott-cain",
       "room" : "Auditorium",
       "speakers" : [
         "Scott Cain"
@@ -790,6 +832,7 @@
     {
       "day" : "sunday",
       "id" : "sun-7",
+      "podbean" : "jesus-is-lord-by-dan-winkler",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -887,5 +930,15 @@
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
+  "womenSpeakers" : [
+    "Kathryn Baker",
+    "Alicia Bookout",
+    "Lori Boyd",
+    "Melissa Cain",
+    "Carla Moore",
+    "Kathy Pollard",
+    "Traci Sproule",
+    "Kristy Woodall"
+  ],
   "year" : 2024
 }

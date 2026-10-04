@@ -52,26 +52,14 @@
   "nearbyRestaurantsNote" : "Many restaurants are also just a few minutes from the building.",
   "pastPlaylists" : [
     {
-      "name" : "Equipped 2026 — Genesis",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_PEx4CRp23BX0I6ROJ57YJ"
-    },
-    {
       "name" : "Equipped 2025 — Book of Isaiah",
       "url" : "https://youtube.com/playlist?list=PL6RXulneS578zd-osgusMMl-x2cvb356w"
-    },
-    {
-      "name" : "Equipped 2024 — Gospel of John",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57-f64A4gRQRIrrFFpl2lKuj"
-    },
-    {
-      "name" : "Equipped 2023 — Book of James",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
     }
   ],
   "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2025.",
   "registrationInfo" : "Equipped 2025 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive-2",
+  "revision" : "archive-3",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -83,6 +71,7 @@
     {
       "day" : "thursday",
       "id" : "thu-1",
+      "podbean" : "singing-session-by-andy-baker-1748102911",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -95,6 +84,7 @@
     {
       "day" : "thursday",
       "id" : "thu-2",
+      "podbean" : "grace-beyond-deserving-a-journey-through-sin-and-redemption",
       "room" : "Auditorium",
       "speakers" : [
         "Tim Lewis"
@@ -107,6 +97,7 @@
     {
       "day" : "thursday",
       "id" : "thu-3",
+      "podbean" : "finding-purpose-in-corinthian-chaos",
       "room" : "Auditorium",
       "speakers" : [
         "Allen Webster"
@@ -119,6 +110,7 @@
     {
       "day" : "friday",
       "id" : "fri-1",
+      "podbean" : "unveiling-isaiah-the-lord-of-salvation-and-the-messianic-prophecies",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -142,6 +134,7 @@
     {
       "day" : "friday",
       "id" : "fri-3",
+      "podbean" : "the-unheard-sermons-exploring-biblical-preaching",
       "room" : "Room 114",
       "speakers" : [
         "Mike Vestal"
@@ -154,6 +147,7 @@
     {
       "day" : "friday",
       "id" : "fri-4",
+      "podbean" : "unlocking-biblical-wisdom-a-step-by-step-guide-to-chapter-study",
       "room" : "Room 129",
       "speakers" : [
         "Allen Webster"
@@ -166,6 +160,7 @@
     {
       "day" : "friday",
       "id" : "fri-5",
+      "podbean" : "judahs-social-sins-by-eddie-parrish",
       "room" : "Auditorium",
       "speakers" : [
         "Eddie Parrish"
@@ -178,6 +173,7 @@
     {
       "day" : "friday",
       "id" : "fri-6",
+      "podbean" : "ladies-the-motivation-for-eternal-glory-titus-211-14-by-jania-otey",
       "room" : "Room 114",
       "speakers" : [
         "Jania Otey"
@@ -190,6 +186,7 @@
     {
       "day" : "friday",
       "id" : "fri-7",
+      "podbean" : "text-questions-does-isaiah-714-teach-the-virgin-birth-by-jason-jackson",
       "room" : "Room 129",
       "speakers" : [
         "Jason Jackson"
@@ -202,6 +199,7 @@
     {
       "day" : "friday",
       "id" : "fri-8",
+      "podbean" : "judahs-judgement-preached-by-hiram-kemp",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
@@ -214,6 +212,7 @@
     {
       "day" : "friday",
       "id" : "fri-9",
+      "podbean" : "what-isaiah-knew-about-the-church-of-christ-isaiah-21-4-by-caleb-colley",
       "room" : "Room 114",
       "speakers" : [
         "Caleb Colley"
@@ -226,6 +225,7 @@
     {
       "day" : "friday",
       "id" : "fri-10",
+      "podbean" : "passages-that-will-preach-from-isaiah-1-23-by-bill-burk",
       "room" : "Room 129",
       "speakers" : [
         "Bill Burk"
@@ -238,6 +238,7 @@
     {
       "day" : "friday",
       "id" : "fri-11",
+      "podbean" : "judiahs-political-confusion-by-scott-harp",
       "room" : "Auditorium",
       "speakers" : [
         "Scott Harp"
@@ -250,6 +251,7 @@
     {
       "day" : "friday",
       "id" : "fri-12",
+      "podbean" : "what-isaiah-knew-about-hell-by-bud-woodall",
       "room" : "Room 114",
       "speakers" : [
         "Bud Woodall"
@@ -262,6 +264,7 @@
     {
       "day" : "friday",
       "id" : "fri-13",
+      "podbean" : "text-questions-the-role-of-prophetic-foreknowledge-in-isaiah-by-jason-jackson",
       "room" : "Room 129",
       "speakers" : [
         "Jason Jackson"
@@ -274,6 +277,7 @@
     {
       "day" : "friday",
       "id" : "fri-14",
+      "podbean" : "isaiahs-message-against-the-foreign-nations-isaiah-13-23-by-caleb-colley",
       "room" : "Auditorium",
       "speakers" : [
         "Caleb Colley"
@@ -286,6 +290,7 @@
     {
       "day" : "friday",
       "id" : "fri-15",
+      "podbean" : "leadership-lessons-answering-the-call-of-leadership-by-ken-burton",
       "room" : "Room 114",
       "speakers" : [
         "Ken Burton"
@@ -298,6 +303,7 @@
     {
       "day" : "friday",
       "id" : "fri-16",
+      "podbean" : "passages-that-will-preach-from-isaiah-24-39-by-tim-lewis",
       "room" : "Room 129",
       "speakers" : [
         "Tim Lewis"
@@ -310,6 +316,7 @@
     {
       "day" : "friday",
       "id" : "fri-17",
+      "podbean" : "gods-ultimate-judgement-and-deliverance-isaiah-24-27-by-jimmy-clark",
       "room" : "Auditorium",
       "speakers" : [
         "Jimmy Clark"
@@ -322,6 +329,8 @@
     {
       "day" : "friday",
       "id" : "fri-18",
+      "podbean" : "ladies-looking-up-live-with-kathy-and-carla-by-kathy-pollard-and-carla-moore",
+      "podcast" : "1000709990550",
       "room" : "Room 114",
       "speakers" : [
         "Kathy Pollard",
@@ -335,6 +344,8 @@
     {
       "day" : "friday",
       "id" : "fri-19",
+      "podbean" : "text-questions-is-isaiah-53-about-a-nation-or-a-man-by-rick-brumback",
+      "podcast" : "1000709989147",
       "room" : "Room 129",
       "speakers" : [
         "Rick Brumback"
@@ -347,6 +358,8 @@
     {
       "day" : "friday",
       "id" : "fri-20",
+      "podbean" : "singing-session-by-andy-baker",
+      "podcast" : "1000709991493",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -359,6 +372,8 @@
     {
       "day" : "friday",
       "id" : "fri-21",
+      "podbean" : "holy-holy-holy-isaiah-63-by-melvin-otey",
+      "podcast" : "1000709992462",
       "room" : "Auditorium",
       "speakers" : [
         "Melvin Otey"
@@ -371,6 +386,8 @@
     {
       "day" : "friday",
       "id" : "fri-22",
+      "podbean" : "god-forbid-that-i-should-glory-galatians-614-by-jimmy-clark",
+      "podcast" : "1000709994127",
       "room" : "Auditorium",
       "speakers" : [
         "Jimmy Clark"
@@ -383,6 +400,8 @@
     {
       "day" : "saturday",
       "id" : "sat-1",
+      "podbean" : "meaningful-messianic-messages-from-isaiah-part-2-by-dan-winkler",
+      "podcast" : "1000709995522",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -395,6 +414,8 @@
     {
       "day" : "saturday",
       "id" : "sat-2",
+      "podbean" : "passages-that-will-preach-from-isaiah-40-86-by-calib-colley",
+      "podcast" : "1000709997079",
       "room" : "Room 129",
       "speakers" : [
         "Caleb Colley"
@@ -407,6 +428,8 @@
     {
       "day" : "saturday",
       "id" : "sat-3",
+      "podbean" : "why-god-disciplines-his-own-people-by-jason-jackson",
+      "podcast" : "1000709998631",
       "room" : "Auditorium",
       "speakers" : [
         "Jason Jackson"
@@ -419,6 +442,8 @@
     {
       "day" : "saturday",
       "id" : "sat-4",
+      "podbean" : "ladies-god-compared-to-a-mother-in-isaiah-by-whitney-watson",
+      "podcast" : "1000710009143",
       "room" : "Room 114",
       "speakers" : [
         "Whitney Watson"
@@ -431,6 +456,8 @@
     {
       "day" : "saturday",
       "id" : "sat-5",
+      "podbean" : "leadership-lessons-pictures-of-shepharding-form-isaiah-by-richard-melson",
+      "podcast" : "1000710007970",
       "room" : "Room 116",
       "speakers" : [
         "Richard Melson"
@@ -443,6 +470,8 @@
     {
       "day" : "saturday",
       "id" : "sat-6",
+      "podbean" : "text-questions-how-many-books-of-isaiah-are-there-by-wayne-jones",
+      "podcast" : "1000710005706",
       "room" : "Room 129",
       "speakers" : [
         "Wayne Jones"
@@ -455,6 +484,8 @@
     {
       "day" : "saturday",
       "id" : "sat-7",
+      "podbean" : "a-praise-break-in-isaiah-by-parker-webster",
+      "podcast" : "1000710683758",
       "room" : "Auditorium",
       "speakers" : [
         "Parker Webster"
@@ -467,6 +498,8 @@
     {
       "day" : "saturday",
       "id" : "sat-8",
+      "podbean" : "leadership-lessons-steering-the-church-in-the-right-direction-by-glenn-hitchcock",
+      "podcast" : "1000710684401",
       "room" : "Room 114",
       "speakers" : [
         "Glenn Hitchcock"
@@ -479,6 +512,8 @@
     {
       "day" : "saturday",
       "id" : "sat-9",
+      "podbean" : "youth-a-child-shall-lead-them-what-you-can-do-for-god-now-by-brandon-watson",
+      "podcast" : "1000710684332",
       "room" : "Room 116",
       "speakers" : [
         "Brandon Watson"
@@ -491,6 +526,8 @@
     {
       "day" : "saturday",
       "id" : "sat-10",
+      "podbean" : "roundtable-discusion-on-building-a-devotional-life-with-otey-burk-and-warren",
+      "podcast" : "1000710684590",
       "room" : "Room 129",
       "speakers" : [
         "Melvin Otey",
@@ -505,6 +542,8 @@
     {
       "day" : "saturday",
       "id" : "sat-11",
+      "podbean" : "a-historical-lesson-on-death-deliverance-by-bruce-daughtery",
+      "podcast" : "1000710684898",
       "room" : "Auditorium",
       "speakers" : [
         "Bruce Daugherty"
@@ -517,6 +556,8 @@
     {
       "day" : "saturday",
       "id" : "sat-12",
+      "podbean" : "ladies-wife-and-mother-imagery-in-isaiah-by-lacy-crowell",
+      "podcast" : "1000710686225",
       "room" : "Room 114",
       "speakers" : [
         "Lacy Crowell"
@@ -529,6 +570,8 @@
     {
       "day" : "saturday",
       "id" : "sat-13",
+      "podbean" : "youth-you-were-born-for-a-purpose-by-diondre-hensley",
+      "podcast" : "1000710686083",
       "room" : "Room 116",
       "speakers" : [
         "Diondre Hensley"
@@ -541,6 +584,8 @@
     {
       "day" : "saturday",
       "id" : "sat-14",
+      "podbean" : "text-questions-what-law-were-the-gentile-nations-under-by-bud-woodall",
+      "podcast" : "1000710684958",
       "room" : "Room 129",
       "speakers" : [
         "Bud Woodall"
@@ -553,6 +598,8 @@
     {
       "day" : "saturday",
       "id" : "sat-15",
+      "podbean" : "youth-my-thoughts-are-not-your-thoughts-by-easton-white",
+      "podcast" : "1000710686224",
       "room" : "Room 116",
       "speakers" : [
         "Easton White"
@@ -565,6 +612,8 @@
     {
       "day" : "saturday",
       "id" : "sat-16",
+      "podbean" : "youth-the-lords-hand-is-not-shortened-that-it-cannot-save-by-jarius-louis",
+      "podcast" : "1000710686194",
       "room" : "Room 116",
       "speakers" : [
         "Jarius Louis"
@@ -577,6 +626,8 @@
     {
       "day" : "saturday",
       "id" : "sat-17",
+      "podbean" : "deliverance-from-captivity-by-wayne-burger",
+      "podcast" : "1000710686535",
       "room" : "Auditorium",
       "speakers" : [
         "Wayne Burger"
@@ -589,6 +640,8 @@
     {
       "day" : "saturday",
       "id" : "sat-18",
+      "podbean" : "text-questions-a-study-of-new-heavens-new-earth-by-john-moore",
+      "podcast" : "1000710686941",
       "room" : "Room 114",
       "speakers" : [
         "John Moore"
@@ -601,6 +654,8 @@
     {
       "day" : "saturday",
       "id" : "sat-19",
+      "podbean" : "appreciating-a-godly-heritage-by-parker-webster",
+      "podcast" : "1000710687049",
       "room" : "Room 116",
       "speakers" : [
         "Parker Webster"
@@ -613,6 +668,8 @@
     {
       "day" : "saturday",
       "id" : "sat-20",
+      "podbean" : "the-servant-of-the-lord-by-rick-brumback",
+      "podcast" : "1000710687700",
       "room" : "Auditorium",
       "speakers" : [
         "Rick Brumback"
@@ -625,6 +682,8 @@
     {
       "day" : "saturday",
       "id" : "sat-21",
+      "podbean" : "ladies-reeling-in-rebellion-by-renita-archey",
+      "podcast" : "1000710687792",
       "room" : "Room 114",
       "speakers" : [
         "Renita Archey"
@@ -637,6 +696,8 @@
     {
       "day" : "saturday",
       "id" : "sat-22",
+      "podbean" : "youth-overcoming-discouragement-by-vince-daughtery",
+      "podcast" : "1000710688137",
       "room" : "Room 116",
       "speakers" : [
         "Vince Daugherty"
@@ -649,6 +710,8 @@
     {
       "day" : "saturday",
       "id" : "sat-23",
+      "podbean" : "roundtable-discusion-on-church-challenges-by-hitchcock-daughtery-and-webster",
+      "podcast" : "1000710687852",
       "room" : "Room 129",
       "speakers" : [
         "Glenn Hitchcock",
@@ -663,6 +726,8 @@
     {
       "day" : "saturday",
       "id" : "sat-24",
+      "podbean" : "the-future-glory-of-gods-people-by-bart-warren",
+      "podcast" : "1000710690323",
       "room" : "Auditorium",
       "speakers" : [
         "Bart Warren"
@@ -675,6 +740,8 @@
     {
       "day" : "saturday",
       "id" : "sat-25",
+      "podbean" : "leadership-lessons-avoiding-arrogance-in-times-of-success-by-eddie-parrish",
+      "podcast" : "1000710691979",
       "room" : "Room 114",
       "speakers" : [
         "Eddie Parrish"
@@ -687,6 +754,8 @@
     {
       "day" : "saturday",
       "id" : "sat-26",
+      "podbean" : "youth-beholding-the-glory-of-the-lord-in-evangelism-by-matt-wallin",
+      "podcast" : "1000710712710",
       "room" : "Room 116",
       "speakers" : [
         "Matt Wallin"
@@ -699,6 +768,8 @@
     {
       "day" : "saturday",
       "id" : "sat-27",
+      "podbean" : "roundtable-discussion-on-marriage-and-family-by-vestal-daughtery-and-moore",
+      "podcast" : "1000710712821",
       "room" : "Room 129",
       "speakers" : [
         "Bruce Daugherty",
@@ -713,6 +784,8 @@
     {
       "day" : "saturday",
       "id" : "sat-28",
+      "podbean" : "singing-session-by-andy-baker-1748101195",
+      "podcast" : "1000710712799",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -725,6 +798,8 @@
     {
       "day" : "saturday",
       "id" : "sat-29",
+      "podbean" : "jesus-name-above-all-names-by-mike-vestal",
+      "podcast" : "1000710713229",
       "room" : "Auditorium",
       "speakers" : [
         "Mike Vestal"
@@ -737,6 +812,8 @@
     {
       "day" : "saturday",
       "id" : "sat-30",
+      "podbean" : "beholding-the-glory-of-the-lord-being-transformed-by-hiram-kemp",
+      "podcast" : "1000710713749",
       "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
@@ -749,6 +826,8 @@
     {
       "day" : "sunday",
       "id" : "sun-1",
+      "podbean" : "meaningful-messianic-messages-from-isaiah-part-3-by-dan-winkler",
+      "podcast" : "1000710713672",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -761,6 +840,8 @@
     {
       "day" : "sunday",
       "id" : "sun-2",
+      "podbean" : "what-to-do-when-you-feel-god-has-abandoned-you-by-wayne-burger",
+      "podcast" : "1000710713941",
       "room" : "Auditorium",
       "speakers" : [
         "Wayne Burger"
@@ -773,6 +854,8 @@
     {
       "day" : "sunday",
       "id" : "sun-3",
+      "podbean" : "ladies-why-women-should-be-serious-students-of-the-bible-by-cherie-vestal",
+      "podcast" : "1000710714524",
       "room" : "Room 114",
       "speakers" : [
         "Cherie Vestal"
@@ -785,6 +868,8 @@
     {
       "day" : "sunday",
       "id" : "sun-4",
+      "podbean" : "youth-glorifying-god-in-your-body-and-your-spirit-by-jerry-elder",
+      "podcast" : "1000710714403",
       "room" : "Room 116",
       "speakers" : [
         "Jerry Elder"
@@ -797,6 +882,8 @@
     {
       "day" : "sunday",
       "id" : "sun-5",
+      "podbean" : "teach-me-lord-to-wait-by-wayne-jones",
+      "podcast" : "1000710714517",
       "room" : "Auditorium",
       "speakers" : [
         "Wayne Jones"
@@ -809,6 +896,8 @@
     {
       "day" : "sunday",
       "id" : "sun-6",
+      "podbean" : "to-god-be-the-glory-forever-by-neal-pollard",
+      "podcast" : "1000710714887",
       "room" : "Auditorium",
       "speakers" : [
         "Neal Pollard"
@@ -894,5 +983,14 @@
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
+  "womenSpeakers" : [
+    "Renita Archey",
+    "Lacy Crowell",
+    "Carla Moore",
+    "Jania Otey",
+    "Kathy Pollard",
+    "Cherie Vestal",
+    "Whitney Watson"
+  ],
   "year" : 2025
 }

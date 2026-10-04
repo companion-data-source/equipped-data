@@ -54,24 +54,12 @@
     {
       "name" : "Equipped 2026 — Genesis",
       "url" : "https://youtube.com/playlist?list=PL6RXulneS57_PEx4CRp23BX0I6ROJ57YJ"
-    },
-    {
-      "name" : "Equipped 2025 — Book of Isaiah",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS578zd-osgusMMl-x2cvb356w"
-    },
-    {
-      "name" : "Equipped 2024 — Gospel of John",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57-f64A4gRQRIrrFFpl2lKuj"
-    },
-    {
-      "name" : "Equipped 2023 — Book of James",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
     }
   ],
   "publishedAt" : "2026-10-04",
   "recordingsNote" : "Recording from Equipped 2026.",
   "registrationInfo" : "Equipped 2026 has concluded. Watch the recordings on YouTube or listen on the podcast.",
-  "revision" : "archive-3",
+  "revision" : "archive-4",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -84,7 +72,8 @@
     {
       "day" : "thursday",
       "id" : "thu-1",
-      "podcast" : "1000769345594",
+      "podbean" : "equipped-2026-song-session-by-andy-baker",
+      "podcast" : "1000769347176",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -97,7 +86,8 @@
     {
       "day" : "thursday",
       "id" : "thu-2",
-      "podcast" : "1000769345521",
+      "podbean" : "equipped-2026-in-the-beginning-by-steve-higginbotham",
+      "podcast" : "1000769347012",
       "room" : "Auditorium",
       "speakers" : [
         "Steve Higginbotham"
@@ -110,7 +100,8 @@
     {
       "day" : "thursday",
       "id" : "thu-3",
-      "podcast" : "1000769345433",
+      "podbean" : "equipped-2026-getting-to-know-god-through-creation-by-andrew-itson",
+      "podcast" : "1000769347175",
       "room" : "Auditorium",
       "speakers" : [
         "Andrew Itson"
@@ -123,7 +114,8 @@
     {
       "day" : "friday",
       "id" : "fri-1",
-      "podcast" : "1000769347356",
+      "podbean" : "equipped-2026-from-the-beginning-by-dan-winkler",
+      "podcast" : "1000769347145",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -136,7 +128,8 @@
     {
       "day" : "friday",
       "id" : "fri-2",
-      "podcast" : "1000769347317",
+      "podbean" : "equipped-2026-creation-and-the-fall-by-caleb-colley",
+      "podcast" : "1000769347034",
       "room" : "Auditorium",
       "speakers" : [
         "Caleb Colley"
@@ -149,7 +142,8 @@
     {
       "day" : "friday",
       "id" : "fri-3",
-      "podcast" : "1000769347318",
+      "podbean" : "equipped-2026-moses-and-jesus-on-marriage-by-denny-petrillo",
+      "podcast" : "1000769347033",
       "room" : "Room 114",
       "speakers" : [
         "Denny Petrillo"
@@ -162,7 +156,8 @@
     {
       "day" : "friday",
       "id" : "fri-4",
-      "podcast" : "1000769347388",
+      "podbean" : "equipped-2026-leadership-how-to-keep-the-focus-on-god-when-you-succeed-by-wayne-miller",
+      "podcast" : "1000769347011",
       "room" : "Room 116",
       "speakers" : [
         "Wayne Miller"
@@ -175,7 +170,8 @@
     {
       "day" : "friday",
       "id" : "fri-5",
-      "podcast" : "1000769347074",
+      "podbean" : "equipped-2026-early-generations-gen-4-5-by-steven-ford",
+      "podcast" : "1000769351585",
       "room" : "Auditorium",
       "speakers" : [
         "Steven Ford"
@@ -188,7 +184,8 @@
     {
       "day" : "friday",
       "id" : "fri-6",
-      "podcast" : "1000769352816",
+      "podbean" : "equipped-2026-names-of-god-by-john-moore",
+      "podcast" : "1000769353174",
       "room" : "Room 114",
       "speakers" : [
         "John Moore"
@@ -201,7 +198,8 @@
     {
       "day" : "friday",
       "id" : "fri-7",
-      "podcast" : "1000769353338",
+      "podbean" : "equipped-2026-preaching-countercultural-preaching-by-andy-baker",
+      "podcast" : "1000769353527",
       "room" : "Room 116",
       "speakers" : [
         "Andy Baker"
@@ -214,7 +212,8 @@
     {
       "day" : "friday",
       "id" : "fri-8",
-      "podcast" : "1000769354959",
+      "podbean" : "equipped-2026-sin-grace-and-covenant-gen-6-8-by-bill-burk",
+      "podcast" : "1000769353554",
       "room" : "Auditorium",
       "speakers" : [
         "Bill Burk"
@@ -227,7 +226,8 @@
     {
       "day" : "friday",
       "id" : "fri-9",
-      "podcast" : "1000769354911",
+      "podbean" : "equipped-2026-ladies-looking-up-with-kathy-and-carla-by-kathy-pollard-and-carla-moore",
+      "podcast" : "1000769354008",
       "room" : "Room 114",
       "speakers" : [
         "Kathy Pollard",
@@ -241,7 +241,8 @@
     {
       "day" : "friday",
       "id" : "fri-10",
-      "podcast" : "1000769355013",
+      "podbean" : "equipped-2026-leadership-how-to-weather-the-storm-of-leadership-by-adam-faughn",
+      "podcast" : "1000769354623",
       "room" : "Room 116",
       "speakers" : [
         "Adam Faughn"
@@ -254,7 +255,8 @@
     {
       "day" : "friday",
       "id" : "fri-11",
-      "podcast" : "1000769356147",
+      "podbean" : "equipped-2026-the-table-of-nations-and-tower-of-babel-gen-10-11-by-dean-thompson",
+      "podcast" : "1000769355595",
       "room" : "Auditorium",
       "speakers" : [
         "Dean Thompson"
@@ -267,7 +269,8 @@
     {
       "day" : "friday",
       "id" : "fri-12",
-      "podcast" : "1000769355981",
+      "podbean" : "equipped-2026-ladies-genesis-in-the-psalms-by-lori-boyd",
+      "podcast" : "1000769355422",
       "room" : "Room 114",
       "speakers" : [
         "Lori Boyd"
@@ -280,7 +283,8 @@
     {
       "day" : "friday",
       "id" : "fri-13",
-      "podcast" : "1000769356094",
+      "podbean" : "equipped-2026-preaching-seriously-on-sin-by-mike-vestal",
+      "podcast" : "1000769355964",
       "room" : "Room 116",
       "speakers" : [
         "Mike Vestal"
@@ -293,7 +297,8 @@
     {
       "day" : "friday",
       "id" : "fri-14",
-      "podcast" : "1000769356044",
+      "podbean" : "equipped-2026-abrams-call-and-covenant-gen-12-14-by-brian-collins",
+      "podcast" : "1000769356371",
       "room" : "Auditorium",
       "speakers" : [
         "Brian Collins"
@@ -306,7 +311,8 @@
     {
       "day" : "friday",
       "id" : "fri-15",
-      "podcast" : "1000769359073",
+      "podbean" : "equipped-2026-panel-discussion-tough-questions-from-genesis-by-todd-crayton-john-moore-and-denny-petrillo",
+      "podcast" : "1000769358124",
       "room" : "Room 114",
       "speakers" : [
         "Todd Crayton",
@@ -321,7 +327,8 @@
     {
       "day" : "friday",
       "id" : "fri-16",
-      "podcast" : "1000769387457",
+      "podbean" : "equipped-2026-genesis-characters-in-acts-by-richard-melson",
+      "podcast" : "1000769387671",
       "room" : "Room 116",
       "speakers" : [
         "Richard Melson"
@@ -334,7 +341,8 @@
     {
       "day" : "friday",
       "id" : "fri-17",
-      "podcast" : "1000769391958",
+      "podbean" : "equipped-2026-gods-promises-and-circumcision-by-bud-woodall",
+      "podcast" : "1000769391251",
       "room" : "Auditorium",
       "speakers" : [
         "Bud Woodall"
@@ -347,7 +355,8 @@
     {
       "day" : "friday",
       "id" : "fri-18",
-      "podcast" : "1000769389124",
+      "podbean" : "equipped-2026-ladies-lessons-on-pride-from-the-tower-of-babel-by-rebekah-colley",
+      "podcast" : "1000769387985",
       "room" : "Room 114",
       "speakers" : [
         "Rebekah Colley"
@@ -360,7 +369,8 @@
     {
       "day" : "friday",
       "id" : "fri-19",
-      "podcast" : "1000769389043",
+      "podbean" : "equipped-2026-how-to-recover-from-failure-by-richard-sutton",
+      "podcast" : "1000769389153",
       "room" : "Room 116",
       "speakers" : [
         "Richard Sutton"
@@ -373,7 +383,8 @@
     {
       "day" : "friday",
       "id" : "fri-20",
-      "podcast" : "1000769391959",
+      "podbean" : "equipped-2026-friday-song-session-by-andy-baker",
+      "podcast" : "1000769391025",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -386,7 +397,8 @@
     {
       "day" : "friday",
       "id" : "fri-21",
-      "podcast" : "1000769392173",
+      "podbean" : "equipped-2026-you-meant-it-for-evil-god-meant-it-for-good-by-tim-lewis",
+      "podcast" : "1000769392171",
       "room" : "Auditorium",
       "speakers" : [
         "Tim Lewis"
@@ -399,7 +411,8 @@
     {
       "day" : "friday",
       "id" : "fri-22",
-      "podcast" : "1000769394211",
+      "podbean" : "equipped-2026-getting-to-know-god-through-revelation-by-clay-leonard",
+      "podcast" : "1000769392521",
       "room" : "Auditorium",
       "speakers" : [
         "Clay Leonard"
@@ -412,7 +425,8 @@
     {
       "day" : "saturday",
       "id" : "sat-1",
-      "podcast" : "1000769394967",
+      "podbean" : "equipped-2026-from-the-beginning-by-dan-winkler-part-2",
+      "podcast" : "1000769394945",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -425,7 +439,8 @@
     {
       "day" : "saturday",
       "id" : "sat-2",
-      "podcast" : "1000769395725",
+      "podbean" : "equipped-2026-sodom-and-gomorrah-by-denny-petrillo",
+      "podcast" : "1000769396036",
       "room" : "Auditorium",
       "speakers" : [
         "Denny Petrillo"
@@ -438,7 +453,8 @@
     {
       "day" : "saturday",
       "id" : "sat-3",
-      "podcast" : "1000769396430",
+      "podbean" : "equipped-2026-preaching-preaching-apologetically-by-jody-apple",
+      "podcast" : "1000769396434",
       "room" : "Room 114",
       "speakers" : [
         "Jody Apple"
@@ -451,7 +467,8 @@
     {
       "day" : "saturday",
       "id" : "sat-4",
-      "podcast" : "1000769397253",
+      "podbean" : "equipped-2026-leadership-why-is-there-suffering-evil-and-death-by-keith-kasarjian",
+      "podcast" : "1000769397374",
       "room" : "Room 116",
       "speakers" : [
         "Keith Kasarjian"
@@ -464,7 +481,8 @@
     {
       "day" : "saturday",
       "id" : "sat-5",
-      "podcast" : "1000769397098",
+      "podbean" : "equipped-2026-abraham-and-isaac-gen-20-25-by-chance-hicks",
+      "podcast" : "1000769397516",
       "room" : "Auditorium",
       "speakers" : [
         "Chance Hicks"
@@ -477,7 +495,8 @@
     {
       "day" : "saturday",
       "id" : "sat-6",
-      "podcast" : "1000770429417",
+      "podbean" : "equipped-2026-panel-discussion-questions-about-spiritual-growth-and-development-by-glen-hitchcock-adam-faughn-and-carl-pollard",
+      "podcast" : "1000770429441",
       "room" : "Room 114",
       "speakers" : [
         "Glenn Hitchcock",
@@ -492,7 +511,8 @@
     {
       "day" : "saturday",
       "id" : "sat-7",
-      "podcast" : "1000770429827",
+      "podbean" : "equipped-2026-youth-strength-in-the-face-of-sexual-pressure-by-corey-sawyers",
+      "podcast" : "1000770429855",
       "room" : "The Barn",
       "speakers" : [
         "Corey Sawyers"
@@ -505,7 +525,8 @@
     {
       "day" : "saturday",
       "id" : "sat-8",
-      "podcast" : "1000770429715",
+      "podbean" : "equipped-2026-is-genesis-315-the-first-messianic-prophesy-by-bart-warren",
+      "podcast" : "1000770429622",
       "room" : "Room 116",
       "speakers" : [
         "Bart Warren"
@@ -518,7 +539,8 @@
     {
       "day" : "saturday",
       "id" : "sat-9",
-      "podcast" : "1000770430944",
+      "podbean" : "equipped-2026-sibling-rivalry-and-sovereignty-gen-26-28-by-allen-webster",
+      "podcast" : "1000770429952",
       "room" : "Auditorium",
       "speakers" : [
         "Allen Webster"
@@ -531,7 +553,8 @@
     {
       "day" : "saturday",
       "id" : "sat-10",
-      "podcast" : "1000770430971",
+      "podbean" : "equipped-2026-ladies-genesis-in-the-gospels-by-cherie-vestal",
+      "podcast" : "1000770430402",
       "room" : "Room 114",
       "speakers" : [
         "Cherie Vestal"
@@ -544,7 +567,8 @@
     {
       "day" : "saturday",
       "id" : "sat-11",
-      "podcast" : "1000770431024",
+      "podbean" : "equipped-2026-youth-why-bad-things-happen-in-the-world-by-caleb-colley",
+      "podcast" : "1000770430432",
       "room" : "The Barn",
       "speakers" : [
         "Caleb Colley"
@@ -557,7 +581,8 @@
     {
       "day" : "saturday",
       "id" : "sat-12",
-      "podcast" : "1000770431005",
+      "podbean" : "equipped-2026-grace-from-the-beginning-by-steve-higginbotham",
+      "podcast" : "1000770430454",
       "room" : "Room 116",
       "speakers" : [
         "Steve Higginbotham"
@@ -570,7 +595,8 @@
     {
       "day" : "saturday",
       "id" : "sat-13",
-      "podcast" : "1000770431053",
+      "podbean" : "equipped-2026-the-precious-nature-of-unity-gen-138-by-luke-lohden",
+      "podcast" : "1000770430698",
       "room" : "Auditorium",
       "speakers" : [
         "Luke Lohden"
@@ -583,7 +609,8 @@
     {
       "day" : "saturday",
       "id" : "sat-14",
-      "podcast" : "1000770431765",
+      "podbean" : "equipped-2026-following-in-the-footsteps-of-our-father-of-faith-by-jet-warren",
+      "podcast" : "1000770431462",
       "room" : "Auditorium",
       "speakers" : [
         "Jet Warren"
@@ -596,7 +623,8 @@
     {
       "day" : "saturday",
       "id" : "sat-15",
-      "podcast" : "1000770432216",
+      "podbean" : "equipped-2026-ladies-panel-discussion-questions-and-insights-for-ladies",
+      "podcast" : "1000770432030",
       "room" : "Room 114",
       "speakers" : [
         "Tiffany Secula",
@@ -611,7 +639,8 @@
     {
       "day" : "saturday",
       "id" : "sat-16",
-      "podcast" : "1000770433337",
+      "podbean" : "equipped-2026-youth-panel-discussion-youth-panel-discussion-questions-and-insights-for-youth-by-jerry-elder-justin-rogers-tim-lewis",
+      "podcast" : "1000770433211",
       "room" : "The Barn",
       "speakers" : [
         "Jerry Elder",
@@ -626,7 +655,8 @@
     {
       "day" : "saturday",
       "id" : "sat-17",
-      "podcast" : "1000770432154",
+      "podbean" : "equipped-2026-leaders-panel-discussion-questions-and-insights-for-leaders-mike-vestal-richard-melson-wayne-jones",
+      "podcast" : "1000770432068",
       "room" : "Room 129",
       "speakers" : [
         "Mike Vestal",
@@ -641,7 +671,8 @@
     {
       "day" : "saturday",
       "id" : "sat-18",
-      "podcast" : "1000770433577",
+      "podbean" : "equipped-2026-panel-discussion-questions-and-insights-for-family-by-bill-burk-steven-ford-richard-sutton",
+      "podcast" : "1000770433349",
       "room" : "Room 116",
       "speakers" : [
         "Bill Burk",
@@ -656,7 +687,8 @@
     {
       "day" : "saturday",
       "id" : "sat-19",
-      "podcast" : "1000770433709",
+      "podbean" : "equipped-2026-jacob-and-laban-gen-29-31-by-tyler-alverson",
+      "podcast" : "1000770433476",
       "room" : "Auditorium",
       "speakers" : [
         "Tyler Alverson"
@@ -669,7 +701,8 @@
     {
       "day" : "saturday",
       "id" : "sat-20",
-      "podcast" : "1000770433641",
+      "podbean" : "equipped-2026-leadership-genesis-characters-in-the-epistles-by-allen-webster",
+      "podcast" : "1000770433767",
       "room" : "Room 114",
       "speakers" : [
         "Allen Webster"
@@ -682,7 +715,8 @@
     {
       "day" : "saturday",
       "id" : "sat-21",
-      "podcast" : "1000770434692",
+      "podbean" : "equipped-2026-youth-remember-lots-wife-luke-1732-by-dean-thompson",
+      "podcast" : "1000770434486",
       "room" : "The Barn",
       "speakers" : [
         "Dean Thompson"
@@ -695,7 +729,8 @@
     {
       "day" : "saturday",
       "id" : "sat-22",
-      "podcast" : "1000770434631",
+      "podbean" : "equipped-2026-who-really-wrote-the-book-of-genesis-and-how-do-we-know-by-jody-apple",
+      "podcast" : "1000770434162",
       "room" : "Room 116",
       "speakers" : [
         "Jody Apple"
@@ -708,7 +743,8 @@
     {
       "day" : "saturday",
       "id" : "sat-23",
-      "podcast" : "1000770434564",
+      "podbean" : "equipped-2026-jacobs-growth-and-development-gen-32-36-by-carl-pollard",
+      "podcast" : "1000770434536",
       "room" : "Auditorium",
       "speakers" : [
         "Carl Pollard"
@@ -721,7 +757,8 @@
     {
       "day" : "saturday",
       "id" : "sat-24",
-      "podcast" : "1000770438201",
+      "podbean" : "equipped-2026-ladies-examining-the-life-of-esau-by-bethany-butt",
+      "podcast" : "1000770438075",
       "room" : "Room 114",
       "speakers" : [
         "Bethany Butt"
@@ -734,7 +771,8 @@
     {
       "day" : "saturday",
       "id" : "sat-25",
-      "podcast" : "1000770438987",
+      "podbean" : "equipped-2026-youth-how-involved-should-your-parents-be-in-your-life-gen-24-by-glenn-hitchcock",
+      "podcast" : "1000770438862",
       "room" : "The Barn",
       "speakers" : [
         "Glenn Hitchcock"
@@ -747,7 +785,8 @@
     {
       "day" : "saturday",
       "id" : "sat-26",
-      "podcast" : "1000770438848",
+      "podbean" : "equipped-2026-preachers-two-dozen-sermon-outlines-from-genesis-by-todd-crayton",
+      "podcast" : "1000770438765",
       "room" : "Room 116",
       "speakers" : [
         "Todd Crayton"
@@ -760,7 +799,8 @@
     {
       "day" : "saturday",
       "id" : "sat-27",
-      "podcast" : "1000770440428",
+      "podbean" : "equipped-2026-saturday-song-session-by-andy-baker",
+      "podcast" : "1000770440154",
       "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
@@ -773,7 +813,8 @@
     {
       "day" : "saturday",
       "id" : "sat-28",
-      "podcast" : "1000770440398",
+      "podbean" : "equipped-2026-has-god-said%e2%80%a6-by-mike-vestal",
+      "podcast" : "1000770440347",
       "room" : "Auditorium",
       "speakers" : [
         "Mike Vestal"
@@ -786,7 +827,8 @@
     {
       "day" : "saturday",
       "id" : "sat-29",
-      "podcast" : "1000770441331",
+      "podbean" : "equipped-2026-walking-with-god-by-justin-rogers",
+      "podcast" : "1000770440736",
       "room" : "Auditorium",
       "speakers" : [
         "Justin Rogers"
@@ -799,7 +841,8 @@
     {
       "day" : "sunday",
       "id" : "sun-1",
-      "podcast" : "1000770480435",
+      "podbean" : "equipped-2026-from-the-beginning-god-by-dan-winkler-part-3",
+      "podcast" : "1000770480093",
       "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
@@ -812,7 +855,8 @@
     {
       "day" : "sunday",
       "id" : "sun-2",
-      "podcast" : "1000770482419",
+      "podbean" : "equipped-2026-the-rise-and-fall-of-joseph-by-keith-kasarjian",
+      "podcast" : "1000770482414",
       "room" : "Auditorium",
       "speakers" : [
         "Keith Kasarjian"
@@ -825,7 +869,8 @@
     {
       "day" : "sunday",
       "id" : "sun-3",
-      "podcast" : "1000770483090",
+      "podbean" : "equipped-2026-ladies-developing-a-courageous-faith-like-the-patriarchs-by-rose-crayton",
+      "podcast" : "1000770482761",
       "room" : "Room 114",
       "speakers" : [
         "Rose Crayton"
@@ -851,7 +896,8 @@
     {
       "day" : "sunday",
       "id" : "sun-5",
-      "podcast" : "1000770483091",
+      "podbean" : "equipped-2026-the-fall-and-rise-of-joseph-by-parker-webster",
+      "podcast" : "1000770483368",
       "room" : "Auditorium",
       "speakers" : [
         "Parker Webster"
@@ -864,7 +910,8 @@
     {
       "day" : "sunday",
       "id" : "sun-6",
-      "podcast" : "1000770483842",
+      "podbean" : "equipped-2026-joseph-saves-his-family-by-wayne-jones",
+      "podcast" : "1000770483883",
       "room" : "Auditorium",
       "speakers" : [
         "Wayne Jones"
@@ -961,5 +1008,17 @@
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
+  "womenSpeakers" : [
+    "Lori Boyd",
+    "Bethany Butt",
+    "Rebekah Colley",
+    "Rose Crayton",
+    "Brittani Kemp",
+    "Carla Moore",
+    "Emily Pollard",
+    "Kathy Pollard",
+    "Tiffany Secula",
+    "Cherie Vestal"
+  ],
   "year" : 2026
 }

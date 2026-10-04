@@ -52,27 +52,12 @@
   "lodgingNote" : "Lodging details will be coming soon.",
   "nearbyRestaurantsNote" : "Many restaurants are also just a few minutes from the building.",
   "pastPlaylists" : [
-    {
-      "name" : "Equipped 2026 — Genesis",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_PEx4CRp23BX0I6ROJ57YJ"
-    },
-    {
-      "name" : "Equipped 2025 — Book of Isaiah",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS578zd-osgusMMl-x2cvb356w"
-    },
-    {
-      "name" : "Equipped 2024 — Gospel of John",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57-f64A4gRQRIrrFFpl2lKuj"
-    },
-    {
-      "name" : "Equipped 2023 — Book of James",
-      "url" : "https://youtube.com/playlist?list=PL6RXulneS57_r0-_P5V5GEarTqJIwmU1W"
-    }
+
   ],
   "placeholderNote" : "Tentative schedule — classes, speakers, and times may still change, and rooms haven't been assigned yet.",
   "publishedAt" : "2026-10-04",
   "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
-  "revision" : "2027-tentative-1",
+  "revision" : "2027-tentative-2",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -881,5 +866,9 @@
     "websiteURL" : "https://www.ctchurchofchrist.com/equipped",
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
+  "womenSpeakers" : [
+    "Carla Moore",
+    "Kathy Pollard"
+  ],
   "year" : 2027
 }
