@@ -3,6 +3,10 @@
   "latestYear" : 2027,
   "years" : [
     {
+      "file" : "equipped-2025.json",
+      "year" : 2025
+    },
+    {
       "file" : "equipped-2026.json",
       "year" : 2026
     },

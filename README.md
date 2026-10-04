@@ -12,6 +12,7 @@ waits at least an hour between checks within one run.)
 manifest.json        which years exist and which is newest
 equipped-2027.json   one catalog per year: schedule, speakers, rooms, info
 equipped-2026.json
+equipped-2025.json   archive years keep their recordings (`video`) linked
 tools/catalog_diff.py   run before every push (see below)
 ```
 
