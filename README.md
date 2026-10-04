@@ -14,7 +14,7 @@ equipped-2027.json   one catalog per year: schedule, speakers, rooms, info
 equipped-2026.json
 equipped-2025.json   archive years keep their recordings (`video`) linked
 equipped-2024.json
-equipped-2023.json   times partly reconstructed — see its placeholderNote
+equipped-2023.json
 tools/catalog_diff.py   run before every push (see below)
 ```
 
@@ -75,6 +75,18 @@ in `tracks`, `time` is `"6:30 PM"` style):
   builds simply hide an empty section.)
 - `video` is a YouTube video id; `podcast` is an Apple Podcasts episode
   id. Add them after the event as recordings post.
+- `podbean` is the episode's slug on the Equipped Workshop podcast site
+  (the last part of `equippedworkshop.podbean.com/e/<slug>/`). Prefer it:
+  that site keeps every episode, while Apple Podcasts only opens a show's
+  newest 100, so an old `podcast` id ends up on the show page. Keep
+  `podcast` too while the episode is still on Apple — older app builds
+  only know that one.
+- `womenSpeakers` (top of the file) lists that year's women speakers,
+  spelled exactly as in `sessions`. It feeds the Speakers tab's
+  All / Men / Women filter; anyone not listed shows under Men.
+- `pastPlaylists` holds **that year's own** YouTube playlist and nothing
+  else (the name is historical). Leave it `[]` for the upcoming year and
+  add the playlist once the recordings are up.
 - `speakerBios` is keyed by the speaker's name **exactly** as it appears
   in `sessions`.
 - `notice` (top of the file) shows a dismissible banner on the Schedule

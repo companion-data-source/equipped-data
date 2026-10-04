@@ -20,7 +20,7 @@ import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SESSION_FIELDS = ["day", "time", "title", "speakers", "room", "track",
-                  "details", "video", "podcast"]
+                  "details", "video", "podcast", "podbean"]
 
 
 def committed(path, base):
@@ -94,7 +94,8 @@ def diff_catalog(name, old, new):
     if old.get("revision") == new.get("revision") and sessions_by_id(old) != sessions_by_id(new):
         print("  ⚠️  sessions changed but `revision` didn't — bump it so what's live is traceable")
 
-    for coll in ["days", "tracks", "rooms", "hotels", "foodTrucks", "vendors"]:
+    for coll in ["days", "tracks", "rooms", "hotels", "foodTrucks", "vendors",
+                 "pastPlaylists", "womenSpeakers"]:
         if old.get(coll) != new.get(coll):
             print(f"  {coll}: changed")
     old_bios, new_bios = old.get("speakerBios", {}), new.get("speakerBios", {})
