@@ -51,13 +51,14 @@
   ],
   "lodgingNote" : "Lodging details will be coming soon.",
   "nearbyRestaurantsNote" : "Many restaurants are also just a few minutes from the building.",
+  "notice" : "Most rooms haven't been assigned yet. They will appear here as they are confirmed.",
   "pastPlaylists" : [
 
   ],
   "placeholderNote" : null,
   "publishedAt" : "2026-10-04",
   "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
-  "revision" : "2027-final",
+  "revision" : "2027-final-2",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -157,17 +158,6 @@
     },
     {
       "day" : "friday",
-      "id" : "fri-28",
-      "room" : "TBA",
-      "speakers" : [
-
-      ],
-      "time" : "10:00 AM",
-      "title" : "One Minute, One Idea: One Thing My Father/Son Taught Me About Preaching",
-      "track" : ""
-    },
-    {
-      "day" : "friday",
       "id" : "fri-29",
       "room" : "TBA",
       "speakers" : [
@@ -175,6 +165,17 @@
       ],
       "time" : "10:00 AM",
       "title" : "What Paul Would Say To Christians Using Social Media",
+      "track" : ""
+    },
+    {
+      "day" : "friday",
+      "id" : "fri-28",
+      "room" : "TBA",
+      "speakers" : [
+
+      ],
+      "time" : "10:00 AM",
+      "title" : "One Minute, One Idea: One Thing My Father/Son Taught Me About Preaching",
       "track" : ""
     },
     {
@@ -271,14 +272,14 @@
       "track" : "panel"
     },
     {
-      "day" : "sunday",
-      "id" : "fri-38",
+      "day" : "friday",
+      "id" : "sun-11",
       "room" : "TBA",
       "speakers" : [
-        "Kathryn Baker"
+        "Jasmine Thompson"
       ],
-      "time" : "9:30 AM",
-      "title" : "Ladies: What Does Paul Mean By \"Remain Silent?\" (1 Timothy 2:11–12)",
+      "time" : "1:30 PM",
+      "title" : "Ladies: How To Be Busy Without Being A Busybody",
       "track" : "ladies"
     },
     {
@@ -294,6 +295,9 @@
     },
     {
       "day" : "friday",
+      "extraTracks" : [
+        "ladies"
+      ],
       "id" : "fri-40",
       "room" : "TBA",
       "speakers" : [
@@ -559,7 +563,7 @@
       ],
       "time" : "1:00 PM",
       "title" : "Youth Speaker: \"Let No One Despise Your Youth\"",
-      "track" : ""
+      "track" : "youth"
     },
     {
       "day" : "saturday",
@@ -570,7 +574,7 @@
       ],
       "time" : "1:15 PM",
       "title" : "Youth Speaker: \"Study To Show Yourself Approved\"",
-      "track" : ""
+      "track" : "youth"
     },
     {
       "day" : "saturday",
@@ -666,6 +670,9 @@
     },
     {
       "day" : "saturday",
+      "extraTracks" : [
+        "youth"
+      ],
       "id" : "sat-52",
       "room" : "TBA",
       "speakers" : [
@@ -746,14 +753,14 @@
     },
     {
       "day" : "sunday",
-      "id" : "sun-9",
+      "id" : "fri-38",
       "room" : "TBA",
       "speakers" : [
-        "Richard Melson"
+        "Kathryn Baker"
       ],
       "time" : "9:30 AM",
-      "title" : "What Elders Wish Members Knew",
-      "track" : ""
+      "title" : "Ladies: What Does Paul Mean By \"Remain Silent?\" (1 Timothy 2:11–12)",
+      "track" : "ladies"
     },
     {
       "day" : "sunday",
@@ -767,15 +774,15 @@
       "track" : "youth"
     },
     {
-      "day" : "friday",
-      "id" : "sun-11",
+      "day" : "sunday",
+      "id" : "sun-9",
       "room" : "TBA",
       "speakers" : [
-        "Jasmine Thompson"
+        "Richard Melson"
       ],
-      "time" : "1:30 PM",
-      "title" : "Ladies: How To Be Busy Without Being A Busybody",
-      "track" : "ladies"
+      "time" : "9:30 AM",
+      "title" : "What Elders Wish Members Knew",
+      "track" : ""
     },
     {
       "day" : "sunday",

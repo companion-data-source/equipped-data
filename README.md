@@ -106,14 +106,27 @@ in `tracks`, `time` is `"6:30 PM"` style):
   else (the name is historical). Leave it `[]` for the upcoming year and
   add the playlist once the recordings are up.
 - `speakerBios` is keyed by the speaker's name **exactly** as it appears
-  in `sessions`.
+  in `sessions`. The app shows the bio from the **newest** year's file
+  that has one, whichever year is being viewed, so update a bio in the
+  newest file. Older app builds read it from the year on screen, so keep
+  copying each bio into every year's file that speaker appears in.
 - `notice` (top of the file) shows a dismissible banner on the Schedule
   tab. Editing its wording re-shows it to people who dismissed the old
-  one. Set to `null` to remove.
+  one. Set to `null` to remove. 2027's currently says most rooms haven't
+  been assigned; take it out once they are.
+- **A class under two filters** gets `extraTracks`: a list of further
+  track ids beside `track`. 2027's Ladies Panel is `"track": "panel"`
+  with `"extraTracks": ["ladies"]`, so the app's Tracks filter shows it
+  under both and it carries both labels. Older app builds ignore the key
+  and show `track` only, so keep the more important label in `track`.
+- **Order within a time slot is the file's order**, until rooms break the
+  tie (the app sorts a slot by room). 2027 follows the church website's
+  order, which leads each slot with the Through The Text class. Moving a
+  session up or down the file is safe; its id goes with it.
 - Bump `revision` (any short label, e.g. `"2027-final"`) and
   `publishedAt` on every push — the app shows them so you can tell what's
   live.
-- **2027's schedule is final** (revision `2027-final`, matched to
+- **2027's schedule is final** (revision `2027-final-2`, matched to
   ctchurchofchrist.com/equipped on 2026-10-04): `scheduleIsPlaceholder` is
   `false` and `placeholderNote` is `null`, so the app no longer shows its
   "tentative" notice. Most rooms are still `"TBA"`; as each is assigned,
