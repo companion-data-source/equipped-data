@@ -54,10 +54,10 @@
   "pastPlaylists" : [
 
   ],
-  "placeholderNote" : "Tentative schedule — classes, speakers, and times may still change, and rooms haven't been assigned yet.",
+  "placeholderNote" : null,
   "publishedAt" : "2026-10-04",
   "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
-  "revision" : "2027-tentative-2",
+  "revision" : "2027-final",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -65,14 +65,14 @@
     "Room 129",
     "The Barn"
   ],
-  "scheduleIsPlaceholder" : true,
+  "scheduleIsPlaceholder" : false,
   "sessions" : [
     {
       "day" : "thursday",
       "id" : "thu-1",
       "room" : "TBA",
       "speakers" : [
-
+        "Andy Baker"
       ],
       "time" : "6:00 PM",
       "title" : "Singing",
@@ -81,9 +81,9 @@
     {
       "day" : "thursday",
       "id" : "thu-4",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
-        "Neal Pollard"
+        "Allen Webster"
       ],
       "time" : "6:30 PM",
       "title" : "Word Study From 1 Timothy: \"Godliness\"",
@@ -92,11 +92,11 @@
     {
       "day" : "thursday",
       "id" : "thu-5",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Hiram Kemp"
       ],
-      "time" : "7:15 PM",
+      "time" : "7:00 PM",
       "title" : "The Man Behind The Message",
       "track" : ""
     },
@@ -204,7 +204,7 @@
       "id" : "fri-32",
       "room" : "TBA",
       "speakers" : [
-        "Eddie Parrish"
+        "Bud Woodall"
       ],
       "time" : "11:00 AM",
       "title" : "How To Handle Fear And Anxiety As A Christian",
@@ -217,7 +217,7 @@
       "speakers" : [
         "Mike Vestal",
         "Dan Winkler",
-        "Bill Haygood"
+        "Danny Boggs"
       ],
       "time" : "11:00 AM",
       "title" : "Preachers Panel: Paul's Instructions For Dealing With Controversy",
@@ -228,10 +228,11 @@
       "id" : "fri-34",
       "room" : "TBA",
       "speakers" : [
-
+        "Natalie King",
+        "Lori Boyd"
       ],
       "time" : "11:00 AM",
-      "title" : "Ladies: 2 For 1: How Do Older Women Train Younger Women?",
+      "title" : "Ladies: 2 For 1: How Do Older Women Train Younger Women? How Do Younger Women Position Themselves To Be Trained?",
       "track" : "ladies"
     },
     {
@@ -263,20 +264,20 @@
       "speakers" : [
         "Brian Kenyon",
         "Richard Sutton",
-        "Paul Holland"
+        "Jim Faughn"
       ],
       "time" : "1:30 PM",
       "title" : "Elders Panel: Challenges We Never Knew We'd Face And Why We're Glad We Did",
       "track" : "panel"
     },
     {
-      "day" : "friday",
+      "day" : "sunday",
       "id" : "fri-38",
       "room" : "TBA",
       "speakers" : [
-
+        "Kathryn Baker"
       ],
-      "time" : "1:30 PM",
+      "time" : "9:30 AM",
       "title" : "Ladies: What Does Paul Mean By \"Remain Silent?\" (1 Timothy 2:11–12)",
       "track" : "ladies"
     },
@@ -296,7 +297,9 @@
       "id" : "fri-40",
       "room" : "TBA",
       "speakers" : [
-
+        "Hilary Hammer",
+        "Janelle Pollard",
+        "Kathryn Baker"
       ],
       "time" : "2:30 PM",
       "title" : "Ladies Panel: Meeting God's Expectations In A World Full Of Differing Expectations",
@@ -373,9 +376,9 @@
     {
       "day" : "friday",
       "id" : "fri-20",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
-
+        "Andy Baker"
       ],
       "time" : "6:00 PM",
       "title" : "Singing",
@@ -399,7 +402,7 @@
       "speakers" : [
         "Mike Vestal"
       ],
-      "time" : "7:15 PM",
+      "time" : "7:00 PM",
       "title" : "Through The Text: \"Behaving In God's House\" (1 Timothy 3:14–16)",
       "track" : ""
     },
@@ -419,7 +422,7 @@
       "id" : "sat-31",
       "room" : "TBA",
       "speakers" : [
-        "Eddie Parrish"
+        "Brad McNutt"
       ],
       "time" : "9:00 AM",
       "title" : "Through The Text: \"Those Who Leave God's House\" (1 Timothy 4:1–5)",
@@ -444,7 +447,7 @@
         "Bob Turner"
       ],
       "time" : "9:00 AM",
-      "title" : "Develop Leaders: Who, How, And When?",
+      "title" : "Developing Leaders: Who, How, And When?",
       "track" : ""
     },
     {
@@ -485,7 +488,7 @@
       "id" : "sat-37",
       "room" : "TBA",
       "speakers" : [
-
+        "Cherie Vestal"
       ],
       "time" : "10:00 AM",
       "title" : "Ladies: What Does Biblical Modesty Look Like?",
@@ -555,7 +558,7 @@
         "Dylan Eubank"
       ],
       "time" : "1:00 PM",
-      "title" : "\"Let No Man Despise Your Youth\"",
+      "title" : "Youth Speaker: \"Let No One Despise Your Youth\"",
       "track" : ""
     },
     {
@@ -566,7 +569,7 @@
         "Corbin Hammer"
       ],
       "time" : "1:15 PM",
-      "title" : "\"Study To Show Yourself Approved\"",
+      "title" : "Youth Speaker: \"Study To Show Yourself Approved\"",
       "track" : ""
     },
     {
@@ -574,7 +577,7 @@
       "id" : "sat-44",
       "room" : "TBA",
       "speakers" : [
-        "Bill Haygood"
+        "Danny Boggs"
       ],
       "time" : "1:30 PM",
       "title" : "Through The Text: \"The Influence Of Elders In God's House\" (1 Timothy 5:17–25)",
@@ -598,10 +601,10 @@
       "id" : "sat-46",
       "room" : "TBA",
       "speakers" : [
-
+        "Kristi Burleson"
       ],
       "time" : "1:30 PM",
-      "title" : "Ladies: All The Things Women Can Do In The Church",
+      "title" : "Ladies: All The Good Things Women Can Do In The Church",
       "track" : "ladies"
     },
     {
@@ -632,7 +635,7 @@
       "room" : "TBA",
       "speakers" : [
         "John Moore",
-        "Eddie Cloer",
+        "Marco Arroyo",
         "Michael Hite"
       ],
       "time" : "2:30 PM",
@@ -644,7 +647,7 @@
       "id" : "sat-50",
       "room" : "TBA",
       "speakers" : [
-        "Paul Holland"
+        "Adam Faughn"
       ],
       "time" : "2:30 PM",
       "title" : "God's Way Of Handling Troublemakers",
@@ -689,9 +692,9 @@
     {
       "day" : "saturday",
       "id" : "sat-27",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
-
+        "Andy Baker"
       ],
       "time" : "6:00 PM",
       "title" : "Singing",
@@ -715,7 +718,7 @@
       "speakers" : [
         "Wade Webster"
       ],
-      "time" : "7:15 PM",
+      "time" : "7:00 PM",
       "title" : "\"To Timothy\" (2 Timothy 1:1–18)",
       "track" : ""
     },
@@ -738,7 +741,7 @@
         "John Moore"
       ],
       "time" : "9:30 AM",
-      "title" : "\"Being A God-Approved Worker\" (2 Timothy 2:1–26)",
+      "title" : "Through The Text: \"Being A God-Approved Worker\" (2 Timothy 2:1–26)",
       "track" : ""
     },
     {
@@ -749,7 +752,7 @@
         "Richard Melson"
       ],
       "time" : "9:30 AM",
-      "title" : "What Elders Wish Members Know",
+      "title" : "What Elders Wish Members Knew",
       "track" : ""
     },
     {
@@ -764,13 +767,13 @@
       "track" : "youth"
     },
     {
-      "day" : "sunday",
+      "day" : "friday",
       "id" : "sun-11",
       "room" : "TBA",
       "speakers" : [
-
+        "Jasmine Thompson"
       ],
-      "time" : "9:30 AM",
+      "time" : "1:30 PM",
       "title" : "Ladies: How To Be Busy Without Being A Busybody",
       "track" : "ladies"
     },
@@ -779,10 +782,10 @@
       "id" : "sun-12",
       "room" : "TBA",
       "speakers" : [
-        "Allen Webster"
+        "Steve Higginbotham"
       ],
       "time" : "10:30 AM",
-      "title" : "\"Fuel For Faith In Difficult Times\" (2 Timothy 3:1–17)",
+      "title" : "Through The Text: \"Fuel For Faith In Difficult Times\" (2 Timothy 3:1–17)",
       "track" : ""
     },
     {
@@ -790,10 +793,10 @@
       "id" : "sun-13",
       "room" : "TBA",
       "speakers" : [
-        "Eddie Cloer"
+        "Marco Arroyo"
       ],
       "time" : "6:00 PM",
-      "title" : "\"Paul's Final Words\" (2 Timothy 4:1–22)",
+      "title" : "Through The Text: \"Paul's Final Words\" (2 Timothy 4:1–22)",
       "track" : ""
     }
   ],
@@ -867,8 +870,16 @@
     "youtubeURL" : "https://www.youtube.com/@cumberland-trace"
   },
   "womenSpeakers" : [
+    "Kathryn Baker",
+    "Lori Boyd",
+    "Kristi Burleson",
+    "Hilary Hammer",
+    "Natalie King",
     "Carla Moore",
-    "Kathy Pollard"
+    "Janelle Pollard",
+    "Kathy Pollard",
+    "Jasmine Thompson",
+    "Cherie Vestal"
   ],
   "year" : 2027
 }

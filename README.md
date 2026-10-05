@@ -113,8 +113,12 @@ in `tracks`, `time` is `"6:30 PM"` style):
 - Bump `revision` (any short label, e.g. `"2027-final"`) and
   `publishedAt` on every push — the app shows them so you can tell what's
   live.
-- When the real 2027 schedule lands: update `sessions`, set
-  `scheduleIsPlaceholder` to `false` and `placeholderNote` to `null`.
+- **2027's schedule is final** (revision `2027-final`, matched to
+  ctchurchofchrist.com/equipped on 2026-10-04): `scheduleIsPlaceholder` is
+  `false` and `placeholderNote` is `null`, so the app no longer shows its
+  "tentative" notice. Most rooms are still `"TBA"`; as each is assigned,
+  set the session's `room` and keep its id. For a future year's
+  placeholder, the same two keys are what switch the notice on and off.
 
 ## Safety rails built into the app
 
