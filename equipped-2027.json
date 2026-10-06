@@ -58,7 +58,7 @@
   "placeholderNote" : null,
   "publishedAt" : "2026-10-06",
   "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
-  "revision" : "2027-final-4",
+  "revision" : "2027-final-5",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -893,9 +893,18 @@
       "name" : "Special Studies"
     }
   ],
-  "vendorAreaNote" : "Vendor details will be coming soon.",
+  "vendorAreaNote" : "More vendors will be listed as they are confirmed.",
   "vendors" : [
-
+    {
+      "details" : "",
+      "location" : "Near the Multipurpose Room",
+      "name" : "World English Institute"
+    },
+    {
+      "details" : "",
+      "location" : "Near the Multipurpose Room",
+      "name" : "Texas Women's Ministry"
+    }
   ],
   "venue" : {
     "address" : "2700 Cumberland Trace Rd, Bowling Green, KY 42103",

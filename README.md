@@ -75,6 +75,15 @@ in `tracks`, `time` is `"6:30 PM"` style):
   place (lodging on the Info tab, food trucks and vendors on the Venue tab). Once the event is over, blank those notes — an archive year
   with an empty list and a leftover note would show the note. (Older app
   builds simply hide an empty section.)
+- **A vendor** is `{"name", "location", "details", "website"}`. The first
+  three are required strings; `details` may be `""` when there is nothing
+  to say yet, but give `location` some wording, since the app draws a pin
+  beside it. `website` is optional and must be https. Once `vendors` has
+  entries, `vendorAreaNote` shows above the list, so word it to sit
+  there (2027's says more vendors will be listed as they are confirmed).
+  2027 lists organizations only: contact people's names stay out of the
+  app. A vendor's logo, if any, is an image in the app's asset catalog
+  named exactly as the vendor.
 - **How long a class runs** decides the Schedule's "Now" and "Up Next"
   marks during the event. Nothing needs stating in the usual case: a class
   runs 40 minutes, or until the day's next time slot if that starts
@@ -126,7 +135,7 @@ in `tracks`, `time` is `"6:30 PM"` style):
 - Bump `revision` (any short label, e.g. `"2027-final"`) and
   `publishedAt` on every push — the app shows them so you can tell what's
   live.
-- **2027's schedule is final** (revision `2027-final-4`, matched to
+- **2027's schedule is final** (revision `2027-final-5`, matched to
   ctchurchofchrist.com/equipped on 2026-10-06): `scheduleIsPlaceholder` is
   `false` and `placeholderNote` is `null`, so the app no longer shows its
   "tentative" notice. The website now gives a room and an audience label
