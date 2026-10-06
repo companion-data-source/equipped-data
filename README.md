@@ -126,7 +126,7 @@ in `tracks`, `time` is `"6:30 PM"` style):
 - Bump `revision` (any short label, e.g. `"2027-final"`) and
   `publishedAt` on every push — the app shows them so you can tell what's
   live.
-- **2027's schedule is final** (revision `2027-final-3`, matched to
+- **2027's schedule is final** (revision `2027-final-4`, matched to
   ctchurchofchrist.com/equipped on 2026-10-06): `scheduleIsPlaceholder` is
   `false` and `placeholderNote` is `null`, so the app no longer shows its
   "tentative" notice. The website now gives a room and an audience label
@@ -135,7 +135,11 @@ in `tracks`, `time` is `"6:30 PM"` style):
   is the `preachers-leaders` track, "Special Studies" is
   `special-studies`, "Ladies Only" is `ladies`,
   "Youth/College/Young Adult" is `youth`, and "MPR" is the room
-  "Multipurpose Room", as the building map spells it. Where the website
+  "Multipurpose Room", as the building map spells it. The 16 classes
+  titled "Through The Text:" are the `through-the-text` track; that one
+  is Michael's choice, taken from the titles, not a label on the
+  website. It is second in `tracks`: `main` stays first (see above).
+  Where the website
   says "Room 118" the catalog says "Room 129": the organizers told
   Michael on 2026-10-06 that every Room 118 class is in Room 129, so
   don't change it back to match the website. Four classes are
