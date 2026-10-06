@@ -112,8 +112,8 @@ in `tracks`, `time` is `"6:30 PM"` style):
   copying each bio into every year's file that speaker appears in.
 - `notice` (top of the file) shows a dismissible banner on the Schedule
   tab. Editing its wording re-shows it to people who dismissed the old
-  one. Set to `null` to remove. 2027's currently says most rooms haven't
-  been assigned; take it out once they are.
+  one. Set to `null` to remove. 2027's said most rooms hadn't been
+  assigned, and came out on 2026-10-06 when the website posted them.
 - **A class under two filters** gets `extraTracks`: a list of further
   track ids beside `track`. 2027's Ladies Panel is `"track": "panel"`
   with `"extraTracks": ["ladies"]`, so the app's Tracks filter shows it
@@ -126,11 +126,23 @@ in `tracks`, `time` is `"6:30 PM"` style):
 - Bump `revision` (any short label, e.g. `"2027-final"`) and
   `publishedAt` on every push — the app shows them so you can tell what's
   live.
-- **2027's schedule is final** (revision `2027-final-2`, matched to
-  ctchurchofchrist.com/equipped on 2026-10-04): `scheduleIsPlaceholder` is
+- **2027's schedule is final** (revision `2027-final-3`, matched to
+  ctchurchofchrist.com/equipped on 2026-10-06): `scheduleIsPlaceholder` is
   `false` and `placeholderNote` is `null`, so the app no longer shows its
-  "tentative" notice. Most rooms are still `"TBA"`; as each is assigned,
-  set the session's `room` and keep its id. For a future year's
+  "tentative" notice. The website now gives a room and an audience label
+  for most classes. Its "Preachers/Leaders" (also written
+  "Leaders/Preachers", "Preachers, Leaders" and, once, "Elders/Leaders")
+  is the `preachers-leaders` track, "Special Studies" is
+  `special-studies`, "Ladies Only" is `ladies`,
+  "Youth/College/Young Adult" is `youth`, and "MPR" is the room
+  "Multipurpose Room", as the building map spells it. Where the website
+  says "Room 118" the catalog says "Room 129": the organizers told
+  Michael on 2026-10-06 that every Room 118 class is in Room 129, so
+  don't change it back to match the website. Four classes are
+  still `"TBA"` because the website names no room for them: the Friday
+  and Saturday 6:30 and 7:00 PM lessons. (It names none for Thursday's
+  singing either; Michael confirmed singing is in the auditorium.) As each
+  is assigned, set the session's `room` and keep its id. For a future year's
   placeholder, the same two keys are what switch the notice on and off.
 
 ## Safety rails built into the app

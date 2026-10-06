@@ -51,27 +51,27 @@
   ],
   "lodgingNote" : "Lodging details will be coming soon.",
   "nearbyRestaurantsNote" : "Many restaurants are also just a few minutes from the building.",
-  "notice" : "Most rooms haven't been assigned yet. They will appear here as they are confirmed.",
+  "notice" : null,
   "pastPlaylists" : [
 
   ],
   "placeholderNote" : null,
-  "publishedAt" : "2026-10-04",
+  "publishedAt" : "2026-10-06",
   "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
-  "revision" : "2027-final-2",
+  "revision" : "2027-final-3",
   "rooms" : [
     "Auditorium",
     "Room 114",
     "Room 116",
     "Room 129",
-    "The Barn"
+    "Multipurpose Room"
   ],
   "scheduleIsPlaceholder" : false,
   "sessions" : [
     {
       "day" : "thursday",
       "id" : "thu-1",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Andy Baker"
       ],
@@ -104,7 +104,7 @@
     {
       "day" : "friday",
       "id" : "fri-23",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
       ],
@@ -115,7 +115,7 @@
     {
       "day" : "friday",
       "id" : "fri-24",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Steven Ford"
       ],
@@ -126,29 +126,29 @@
     {
       "day" : "friday",
       "id" : "fri-25",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Mike Vestal"
       ],
       "time" : "9:00 AM",
       "title" : "What Preachers Wish Elders Knew",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "friday",
       "id" : "fri-26",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Garrett Bernethy"
       ],
       "time" : "9:00 AM",
       "title" : "\"Approved Study\": Ten Tips To Improve Your Bible Study",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
       "id" : "fri-27",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Bob Turner"
       ],
@@ -159,40 +159,40 @@
     {
       "day" : "friday",
       "id" : "fri-29",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Justin Rogers"
       ],
       "time" : "10:00 AM",
       "title" : "What Paul Would Say To Christians Using Social Media",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
       "id" : "fri-28",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
 
       ],
       "time" : "10:00 AM",
       "title" : "One Minute, One Idea: One Thing My Father/Son Taught Me About Preaching",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "friday",
       "id" : "fri-30",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Denny Petrillo"
       ],
       "time" : "10:00 AM",
       "title" : "How Does The Church Develop More Preachers?",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "friday",
       "id" : "fri-31",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Dean Thompson"
       ],
@@ -203,18 +203,18 @@
     {
       "day" : "friday",
       "id" : "fri-32",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Bud Woodall"
       ],
       "time" : "11:00 AM",
       "title" : "How To Handle Fear And Anxiety As A Christian",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
       "id" : "fri-33",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Mike Vestal",
         "Dan Winkler",
@@ -227,7 +227,7 @@
     {
       "day" : "friday",
       "id" : "fri-34",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Natalie King",
         "Lori Boyd"
@@ -239,7 +239,7 @@
     {
       "day" : "friday",
       "id" : "fri-35",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Michael Hite"
       ],
@@ -250,18 +250,21 @@
     {
       "day" : "friday",
       "id" : "fri-36",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Doug Burleson"
       ],
       "time" : "1:30 PM",
       "title" : "Living Godly In This Present World",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
+      "extraTracks" : [
+        "preachers-leaders"
+      ],
       "id" : "fri-37",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Brian Kenyon",
         "Richard Sutton",
@@ -274,7 +277,7 @@
     {
       "day" : "friday",
       "id" : "sun-11",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Jasmine Thompson"
       ],
@@ -285,7 +288,7 @@
     {
       "day" : "friday",
       "id" : "fri-39",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Denny Petrillo"
       ],
@@ -299,7 +302,7 @@
         "ladies"
       ],
       "id" : "fri-40",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Hilary Hammer",
         "Janelle Pollard",
@@ -312,29 +315,29 @@
     {
       "day" : "friday",
       "id" : "fri-41",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Michael Hite"
       ],
       "time" : "2:30 PM",
       "title" : "My God, My Money, And Me",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
       "id" : "fri-42",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Brian Kenyon"
       ],
       "time" : "2:30 PM",
       "title" : "Can Women Be Deacons (1 Timothy 3:11)?",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
       "id" : "fri-43",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Tyler King"
       ],
@@ -344,8 +347,11 @@
     },
     {
       "day" : "friday",
+      "extraTracks" : [
+        "special-studies"
+      ],
       "id" : "fri-44",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Dean Thompson",
         "Andres Coto",
@@ -358,24 +364,24 @@
     {
       "day" : "friday",
       "id" : "fri-45",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Wade Webster"
       ],
       "time" : "3:30 PM",
       "title" : "\"The Forgotten Command\": How, When, And Why To Practice Church Discipline",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "friday",
       "id" : "fri-46",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Allen Webster"
       ],
       "time" : "3:30 PM",
       "title" : "Things I Never Learned In Preaching School",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "friday",
@@ -413,7 +419,7 @@
     {
       "day" : "saturday",
       "id" : "sat-30",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
       ],
@@ -424,7 +430,7 @@
     {
       "day" : "saturday",
       "id" : "sat-31",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Brad McNutt"
       ],
@@ -435,40 +441,40 @@
     {
       "day" : "saturday",
       "id" : "sat-32",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Steve Lloyd"
       ],
       "time" : "9:00 AM",
       "title" : "What Elders Wish Preachers Knew",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
       "id" : "sat-33",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Bob Turner"
       ],
       "time" : "9:00 AM",
       "title" : "Developing Leaders: Who, How, And When?",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
       "id" : "sat-34",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Hiram Kemp"
       ],
       "time" : "9:00 AM",
       "title" : "How To Manage Conflict In A Contentious Age",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "saturday",
       "id" : "sat-35",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Garrett Bernethy"
       ],
@@ -479,18 +485,18 @@
     {
       "day" : "saturday",
       "id" : "sat-36",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Dustin Campbell"
       ],
       "time" : "10:00 AM",
       "title" : "What Your Young People Do For The Lord Now?",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "saturday",
       "id" : "sat-37",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Cherie Vestal"
       ],
@@ -501,18 +507,18 @@
     {
       "day" : "saturday",
       "id" : "sat-38",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Neal Pollard"
       ],
       "time" : "10:00 AM",
       "title" : "Wisdom For Preachers In 2027",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
       "id" : "sat-39",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Steve Lloyd"
       ],
@@ -523,18 +529,18 @@
     {
       "day" : "saturday",
       "id" : "sat-40",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Andres Coto"
       ],
       "time" : "11:00 AM",
       "title" : "Living A Life Worth Following",
-      "track" : ""
+      "track" : "special-studies"
     },
     {
       "day" : "saturday",
       "id" : "fri-9",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Kathy Pollard",
         "Carla Moore"
@@ -546,18 +552,18 @@
     {
       "day" : "saturday",
       "id" : "sat-41",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Paul Sain"
       ],
       "time" : "11:00 AM",
       "title" : "Ten Things I've Learned In A Lifetime Of Ministry",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
       "id" : "sat-42",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Dylan Eubank"
       ],
@@ -568,7 +574,7 @@
     {
       "day" : "saturday",
       "id" : "sat-43",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Corbin Hammer"
       ],
@@ -579,7 +585,7 @@
     {
       "day" : "saturday",
       "id" : "sat-44",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Danny Boggs"
       ],
@@ -589,8 +595,11 @@
     },
     {
       "day" : "saturday",
+      "extraTracks" : [
+        "special-studies"
+      ],
       "id" : "sat-45",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Denny Petrillo",
         "Steven Ford",
@@ -603,7 +612,7 @@
     {
       "day" : "saturday",
       "id" : "sat-46",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Kristi Burleson"
       ],
@@ -614,18 +623,18 @@
     {
       "day" : "saturday",
       "id" : "sat-47",
-      "room" : "TBA",
+      "room" : "Room 129",
       "speakers" : [
         "Dean Thompson"
       ],
       "time" : "1:30 PM",
       "title" : "Tact Without Compromise: Successful Evangelism Strategies",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
       "id" : "sat-48",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Richard Sutton"
       ],
@@ -635,8 +644,11 @@
     },
     {
       "day" : "saturday",
+      "extraTracks" : [
+        "special-studies"
+      ],
       "id" : "sat-49",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "John Moore",
         "Marco Arroyo",
@@ -649,18 +661,18 @@
     {
       "day" : "saturday",
       "id" : "sat-50",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Adam Faughn"
       ],
       "time" : "2:30 PM",
       "title" : "God's Way Of Handling Troublemakers",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
       "id" : "sat-51",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Brian Kenyon"
       ],
@@ -671,10 +683,11 @@
     {
       "day" : "saturday",
       "extraTracks" : [
-        "youth"
+        "youth",
+        "special-studies"
       ],
       "id" : "sat-52",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "David Vestal",
         "Tyler King",
@@ -688,13 +701,13 @@
       "day" : "saturday",
       "details" : "Example: Marriage, Divorce, And Remarriage; Infidelity; Sexual Abuse And Molestation; Diotrephes, Etc.",
       "id" : "sat-53",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Steven Ford"
       ],
       "time" : "3:30 PM",
       "title" : "Equipping Elders To Handle Hard Problems",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "saturday",
@@ -732,7 +745,7 @@
     {
       "day" : "sunday",
       "id" : "sun-7",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Dan Winkler"
       ],
@@ -743,7 +756,7 @@
     {
       "day" : "sunday",
       "id" : "sun-8",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "John Moore"
       ],
@@ -754,7 +767,7 @@
     {
       "day" : "sunday",
       "id" : "fri-38",
-      "room" : "TBA",
+      "room" : "Room 114",
       "speakers" : [
         "Kathryn Baker"
       ],
@@ -765,7 +778,7 @@
     {
       "day" : "sunday",
       "id" : "sun-10",
-      "room" : "TBA",
+      "room" : "Multipurpose Room",
       "speakers" : [
         "Matt Miller"
       ],
@@ -776,18 +789,18 @@
     {
       "day" : "sunday",
       "id" : "sun-9",
-      "room" : "TBA",
+      "room" : "Room 116",
       "speakers" : [
         "Richard Melson"
       ],
       "time" : "9:30 AM",
       "title" : "What Elders Wish Members Knew",
-      "track" : ""
+      "track" : "preachers-leaders"
     },
     {
       "day" : "sunday",
       "id" : "sun-12",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Steve Higginbotham"
       ],
@@ -798,7 +811,7 @@
     {
       "day" : "sunday",
       "id" : "sun-13",
-      "room" : "TBA",
+      "room" : "Auditorium",
       "speakers" : [
         "Marco Arroyo"
       ],
@@ -860,6 +873,18 @@
       "icon" : "bubble.left.and.bubble.right.fill",
       "id" : "panel",
       "name" : "Panel"
+    },
+    {
+      "color" : "orange",
+      "icon" : "person.3.fill",
+      "id" : "preachers-leaders",
+      "name" : "Preachers/Leaders"
+    },
+    {
+      "color" : "blue",
+      "icon" : "books.vertical.fill",
+      "id" : "special-studies",
+      "name" : "Special Studies"
     }
   ],
   "vendorAreaNote" : "Vendor details will be coming soon.",
