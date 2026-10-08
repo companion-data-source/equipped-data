@@ -16,7 +16,17 @@ equipped-2025.json   archive years keep their recordings (`video`) linked
 equipped-2024.json
 equipped-2023.json
 tools/catalog_diff.py   run before every push (see below)
+privacy.md           the app's privacy policy, a web page (see below)
+index.md, _config.yml   that web site's front page and settings
 ```
+
+The privacy policy is served by GitHub Pages at
+<https://companion-data-source.github.io/equipped-data/privacy>, from
+`main`. Pushing a change to `privacy.md` changes the public page within
+a minute or two. It has to stay true to the app: change it before a
+version that changes what it describes ships. The catalogs are not part
+of the web site as far as the app is concerned; it still reads them from
+this repo's raw URLs.
 
 ## THE ONE RULE: session ids are forever
 

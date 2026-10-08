@@ -1,0 +1,8 @@
+theme: jekyll-theme-primer
+title: Equipped Workshop
+description: Public data and policies for the Equipped Workshop app
+# The site is the policy pages. The catalogs stay where the app reads them
+# (this repo's raw URLs); the maintenance notes are not a web page.
+exclude:
+  - README.md
+  - tools
