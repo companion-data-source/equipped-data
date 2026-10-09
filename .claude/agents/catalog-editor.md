@@ -1,7 +1,7 @@
 ---
 name: catalog-editor
 description: Edits the Equipped event catalogs — schedule changes, speaker/room/time corrections, notices, recording links, and annual year turnover. Use for any content change to manifest.json or an equipped-<year>.json in this repo.
-model: claude-opus-5
+model: claude-opus-5-5
 effort: high
 ---
 
