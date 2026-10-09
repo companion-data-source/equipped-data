@@ -11,9 +11,9 @@ Equipped Workshop ("Equipped") is the companion app for the Equipped workshop at
 
 ## What the app stores, and where
 
-Everything you set in the app is kept **on your own device**: the sessions you star for My Schedule, when you want to be reminded, and a few small settings. The app also keeps a copy of the schedule files it last downloaded, so it opens without waiting on the internet.
+Everything you set in the app is kept **on your own device**: the sessions you star for My Schedule, the sessions you mark as attended or watched, when you want to be reminded, and a few small settings. The app also keeps a copy of the schedule files it last downloaded, so it opens without waiting on the internet.
 
-**Your starred sessions follow you between your own devices through iCloud**, if your device is signed in to iCloud. The app hands the list to Apple's iCloud key-value storage and Apple carries it to your other iPhones, iPads and Macs that run the app under the same Apple Account. We never see it: the list goes to your iCloud, not to us, and the [Apple Privacy Policy](https://www.apple.com/legal/privacy/) governs it there. With iCloud off, each device simply keeps its own list.
+**Your starred sessions and your attended and watched marks follow you between your own devices through iCloud**, if your device is signed in to iCloud. The app hands the two lists to Apple's iCloud key-value storage and Apple carries them to your other iPhones, iPads and Macs that run the app under the same Apple Account. We never see them: the lists go to your iCloud, not to us, and the [Apple Privacy Policy](https://www.apple.com/legal/privacy/) governs them there. With iCloud off, each device simply keeps its own lists.
 
 If you have an Apple Watch, your iPhone passes your starred sessions to your own watch so the watch can show them, using Apple's connection between the two.
 
