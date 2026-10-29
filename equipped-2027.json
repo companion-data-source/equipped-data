@@ -56,9 +56,10 @@
 
   ],
   "placeholderNote" : null,
-  "publishedAt" : "2026-10-06",
-  "registrationInfo" : "Registration for Equipped 2027 will open on the church website.",
-  "revision" : "2027-final-5",
+  "publishedAt" : "2026-10-29",
+  "registrationInfo" : "Registration for Equipped 2027 is open. The workshop is free; registering takes a couple of minutes and helps the organizers plan.",
+  "registrationURL" : "https://docs.google.com/forms/d/e/1FAIpQLSe1WGh3TjxZh6b7d-GSM5pW6ekcZR8VzNHGLSm76J7TRa4c_g/viewform",
+  "revision" : "2027-final-6",
   "rooms" : [
     "Auditorium",
     "Room 114",

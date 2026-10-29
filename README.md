@@ -82,6 +82,15 @@ in `tracks`, `time` is `"6:30 PM"` style):
   builds show no track label). That's why 2027's `tracks` still starts
   with `main` though no session uses it — don't tidy it away, or old
   builds label those classes "Singing".
+- **Registration.** `registrationInfo` is the sentence or two the Info
+  tab shows under "Registration"; `registrationURL` (optional) is the
+  form itself and adds a "Register for Equipped <year>" row above the
+  website link. It must be https on ctchurchofchrist.com or a Google
+  Forms host (`docs.google.com`, `forms.gle`), or the app drops it. 2027's
+  is the Google Form the church's Equipped page links as REGISTER HERE,
+  added 2026-10-29. Take the key out once the event is over, and word
+  `registrationInfo` for an archive year ("has concluded"). Older app
+  builds show the text and the website link only.
 - **Nothing to list yet?** Leave `hotels`, `foodTrucks` or `vendors` as an
   empty list and put the "coming soon" sentence in its note (`lodgingNote`,
   `foodTrucksNote`, `vendorAreaNote`); the app shows the note in the list's
@@ -176,8 +185,8 @@ in `tracks`, `time` is `"6:30 PM"` style):
 - Old app builds ignore files with a newer `formatVersion` and keep their
   last good data; a `minAppBuild` on a manifest year entry hides that year
   from builds that are too old (they show an "update the app" note).
-- Core links (venue, YouTube, podcast, maps) only work if they point at
-  known hosts; vendor websites must be https.
+- Core links (venue, YouTube, podcast, maps, registration) only work if
+  they point at known hosts; vendor websites must be https.
 - A malformed push never breaks the app — it keeps the previous data. But
   don't rely on that; run the diff.
 
