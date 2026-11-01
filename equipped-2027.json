@@ -56,10 +56,10 @@
 
   ],
   "placeholderNote" : null,
-  "publishedAt" : "2026-10-29",
+  "publishedAt" : "2026-11-01",
   "registrationInfo" : "Registration for Equipped 2027 is open. The workshop is free; registering takes a couple of minutes and helps the organizers plan.",
   "registrationURL" : "https://docs.google.com/forms/d/e/1FAIpQLSe1WGh3TjxZh6b7d-GSM5pW6ekcZR8VzNHGLSm76J7TRa4c_g/viewform",
-  "revision" : "2027-final-6",
+  "revision" : "2027-final-7",
   "rooms" : [
     "Auditorium",
     "Room 114",
@@ -905,6 +905,11 @@
       "details" : "",
       "location" : "Near the Multipurpose Room",
       "name" : "Texas Women's Ministry"
+    },
+    {
+      "details" : "",
+      "location" : "Near the Multipurpose Room",
+      "name" : "Guyana Mission"
     }
   ],
   "venue" : {
