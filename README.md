@@ -97,6 +97,17 @@ in `tracks`, `time` is `"6:30 PM"` style):
   place (lodging on the Info tab, food trucks and vendors on the Venue tab). Once the event is over, blank those notes — an archive year
   with an empty list and a leftover note would show the note. (Older app
   builds simply hide an empty section.)
+- **A hotel** is `{"name", "distance", "rate", "bookBy", "reservationURL"}`.
+  The first four are required strings, shown as four lines: `distance` is
+  the gray line under the name (2027's give the street and the hotel's
+  phone), `bookBy` the gold one (the deadline and the group code).
+  `reservationURL` is optional, the hotel's group booking page, and adds a
+  "Reserve a Room" row under the hotel. It must be https on `www.ihg.com`
+  or `www.marriott.com`, or the app drops it: people pay there, so a hotel
+  of another chain needs its host added in an app update first. Older app
+  builds show the four lines only, which is why the phone and group code
+  belong in them. `lodgingNote` shows under the hotels once there are any.
+  Empty `hotels` once the event is over.
 - **A vendor** is `{"name", "location", "details", "website"}`. The first
   three are required strings; `details` may be `""` when there is nothing
   to say yet, but give `location` some wording, since the app draws a pin
