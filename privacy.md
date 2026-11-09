@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Privacy Policy — Equipped Workshop
 
-*Effective October 8, 2026.*
+*Effective November 9, 2026.*
 
 Equipped Workshop ("Equipped") is the companion app for the Equipped workshop at Cumberland Trace church of Christ in Bowling Green, Kentucky: the schedule, speakers, building map and your own list of sessions. The shortest honest summary: **the app has no accounts, we run no servers, and the app itself collects nothing about you.** One feature involves someone else. If you choose to watch a recording inside the app, it plays in YouTube's player, and Google receives what any YouTube player receives. That is explained below.
 
@@ -31,7 +31,7 @@ None of this is sent to us. Like any app's data, it is part of your device's bac
 - The app limits this where it can. It asks for YouTube's privacy-enhanced player, in which Google says a view is [not used to personalize YouTube or advertising](https://support.google.com/youtube/answer/171780). You are not signed in to a Google account in the app, and the app discards the player's cookies and stored data when the player closes.
 - The app itself does not record what you watch, and nothing about it is sent to us. There is no Google sign-in in the app, so there is no access for you to revoke.
 
-Watch on YouTube, and the app's other links (Maps, email, phone, the podcast, the workshop's website), open in other apps or your browser. What happens there is covered by those services' own policies.
+Watch on YouTube, and the app's other links (Maps, email, phone, the podcast, the workshop's website, the registration form, and the booking pages of the hotels holding a group rate for the workshop), open in other apps or your browser. The app sends them nothing about you. What you enter there, such as your name on the registration form or a reservation with a hotel, goes to that service and not to us, and what happens there is covered by that service's own policy: the registration form is a Google Form, and the hotels' booking pages are IHG's and Marriott's.
 
 There are no analytics, no advertising of ours, no tracking, no third-party SDKs and no crash reporters in the app.
 
